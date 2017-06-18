@@ -11,5 +11,33 @@ https://git-scm.com/book/zh/v1/%E8%B5%B7%E6%AD%A5-%E5%88%9D%E6%AC%A1%E8%BF%90%E8
 cd /d
 git clone  https://github.com/bruceChina/summary.git
 
+()初始化
+git add .
+
 ()添加文件
 git add .
+git commit -m "change log"
+
+如果遇到错误
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'lhd@MSI.(none)')
+
+就执行下面的添加用户账户, 邮箱和用户名都是必须的
+
+
+()添加用户账户
+git config --global user.email 827057760@qq.com
+$ git config --global user.name ving1
+
+注意:
+global生成的信息保存在C:\Users\lhd\.gitconfig
+
