@@ -1,0 +1,13 @@
+()添加警告
+alias mv='mv -i'
+
+注意 = 左右两边不可以有空格
+
+()去除mv的警告
+unalias mv
+
+()rm添加警告
+alias rm='rm -i'
+
+()让which显示更加详细的信息
+alias which='alias | /usr/bin/which --tty-only --read-alias --show-dot --show-tilde'
