@@ -1,3 +1,133 @@
 http://467754239.blog.51cto.com/4878013/1700828
+http://blog.csdn.net/jy0902/article/details/19248299
+http://blog.csdn.net/lissic_blog/article/details/70045602
 
 ()安装jdk
+yum -y install java-1.8.0
+java -version
+
+结果如下
+openjdk version "1.8.0_131"
+OpenJDK Runtime Environment (build 1.8.0_131-b11)
+OpenJDK 64-Bit Server VM (build 25.131-b11, mixed mode)
+
+()安装logstash
+wget https://download.elastic.co/logstash/logstash/logstash-1.5.4.tar.gz
+tar zxf logstash-1.5.4.tar.gz -C /usr/local/
+tar zxf logstash-1.5.4.tar.gz -C /usr/local/
+echo "export PATH=$PATH:/usr/local/logstash-1.5.4/bin" > /etc/profile.d/logstash.sh
+
+()logstash常用参数
+-e :指定logstash的配置信息，可以用于快速测试;
+-f :指定logstash的配置文件；可以用于生产环境;
+
+通过-e参数指定logstash的配置信息，用于快速测试，直接输出到屏幕
+logstash -e "input {stdin{}} output {stdout{}}" 
+
+通过-e参数指定logstash的配置信息，用于快速测试，以json格式输出到屏幕
+logstash -e 'input{stdin{}}output{stdout{codec=>rubydebug}}'
+
+()创建配置文件启动logstash
+cat logstash_to_redis.conf
+input { stdin { } }
+output {
+    stdout { codec => rubydebug }
+    redis {
+        host => '192.168.96.1113'
+        data_type => 'list'
+        key => 'logstash:redis'
+    }
+}
+
+logstash agent -f logstash_to_redis.conf --verbose
+
+
+
+()安装redis
+wget http://download.redis.io/releases/redis-2.8.19.tar.gz
+tar zxf redis-2.8.19.tar.gz
+cd redis-2.8.19
+make test
+make install
+
+()测试redis能不能正常工作
+cd redis-2.8.19/src/
+./redis-cli -h 192.168.96.113 -p 6379
+
+()redis服务启动命令
+ps -ef |grep redis
+root      3963     1  0 08:42 ?        00:00:00 /usr/local/bin/redis-server *:6379
+
+()启动redis动态监控
+cd redis-2.8.19/src/
+./redis-cli monitor
+
+
+()redis 配合 logstash 启动
+cat /etc/logstash_to_redis.conf
+input { stdin { } }
+output {
+    stdout { codec => rubydebug }
+    redis {
+        host => '192.168.96.113'
+        data_type => 'list'
+        key => 'logstash:redis'
+    }
+}
+
+启动
+logstash agent -f /etc/logstash_to_redis.conf --verbose
+
+问题1:
+libhiredis.a: No such file or directory
+liblua.a: No such file or directory
+打开redis目录下的dep目录,可以对依赖进行安装
+
+问题2:
+[exception]: Executing test client: NOREPLICAS Not enough good slaves to write..NOREPLICAS Not enough good slaves to write. 
+
+vim tests/integration/replication-2.tcl
+修改after 1000为after 10000 
+
+()安装Elasticsearch
+wget https://download.elastic.co/elasticsearch/elasticsearch/elasticsearch-1.7.2.tar.gz
+tar zxf elasticsearch-1.7.2.tar.gz -C /usr/local/
+
+()修改elasticsearch的配置文件
+vim /usr/local/elasticsearch-1.7.2/config/elasticsearch.yml
+添加
+discovery.zen.ping.multicast.enabled: false        #关闭广播，如果局域网有机器开9300 端口，服务会启动不了
+network.host: 192.168.1.104    #指定主机地址，其实是可选的，但是最好指定因为后面跟kibana集成的时候会报http连接出错（直观体现好像是监听了:::9200 而不是0.0.0.0:9200）
+http.cors.allow-origin: "/.*/"
+http.cors.enabled: true        #这2项都是解决跟kibana集成的问题，错误体现是 你的 elasticsearch 版本过低，其实不是
+
+
+()elasticsearch的启动方式
+# /usr/local/elasticsearch-1.7.2/bin/elasticsearch     #日志会输出到stdout
+# /usr/local/elasticsearch-1.7.2/bin/elasticsearch -d #表示以daemon的方式启动
+# nohup /usr/local/elasticsearch-1.7.2/bin/elasticsearch > /var/log/logstash.log 2>&1 &
+
+()创建logstash的配置文件
+vi /etc/logstash-elasticsearch.conf
+添加
+input { stdin {} }
+output {
+    elasticsearch { host => "192.168.1.104" }    
+    stdout { codec=> rubydebug }
+}
+
+()启动
+/usr/local/logstash-1.5.4/bin/logstash agent -f /etc/logstash-elasticsearch.conf
+
+python linux java c++   
+{
+       "message" => "python linux java c++",
+      "@version" => "1",
+    "@timestamp" => "2015-10-08T14:51:56.899Z",
+          "host" => "0.0.0.0"
+}
+
+()安装Kinaba
+
+
+
