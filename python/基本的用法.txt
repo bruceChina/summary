@@ -14,6 +14,7 @@ python2 需要声明编码 python3 默认都是utf-8
 
 ()编码声明
 #_*_coding:utf-8_*_
+下面这个方法有时候会有问题
 #coding:utf8
 
 ()python 字符串前缀
