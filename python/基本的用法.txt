@@ -1,0 +1,31 @@
+()显示python的版本
+python -V
+
+()python历史
+python2.4 > python3.0 > python2.7
+
+()输出hello world
+print 'hello world'
+
+注意:2 与 3 的区别
+
+()编码问题
+python2 需要声明编码 python3 默认都是utf-8
+
+()编码声明
+#_*_coding:utf-8_*_
+
+()python 字符串前缀
+http://blog.csdn.net/zhangxinrun/article/details/8124333
+
+print '\t哈哈'
+print r'\t哈哈'
+print u'\t哈哈'
+
+()python解释器声明
+#!/usr/bin/env python
+这个办法可以防止python的版本差异
+
+#!/usr/bin/python
+这个办法没办法处理版本差异
+
