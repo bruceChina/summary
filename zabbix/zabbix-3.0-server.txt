@@ -1,0 +1,117 @@
+http://blog.csdn.net/mchdba/article/details/51263871
+http://www.cnblogs.com/liuzhennan/articles/5319280.html
+https://my.oschina.net/liuyuanyuangogo/blog/606857
+http://www.cnblogs.com/chenjw-note/p/5802120.html
+
+()下载nginx
+wget http://nginx.org/download/nginx-1.12.0.tar.gz
+tar -zxvf nginx-1.12.0.tar.gz
+cd nginx-1.12.0
+
+()编译配置nginx
+yum install -y pcre pcre-devel openssl-devel openssl
+useradd nginx -s /sbin/nologin -M
+make && make install
+
+
+配置zabbix-web站点
+server {
+        listen       80;
+        server_name monitor.ttlsa.com;
+        access_log  /data/logs/nginx/monitor.ttlsa.com.access.log  main;
+ 
+        index index.html index.php index.html;
+        root /data/zabbix;
+ 
+        location /
+        {
+                try_files $uri $uri/ /index.php?$args;
+        }
+ 
+        location ~ ^(.+.php)(.*)$ {
+                fastcgi_split_path_info ^(.+.php)(.*)$;
+                include fastcgi.conf;
+                fastcgi_pass  127.0.0.1:9000;
+                fastcgi_index index.php;
+                fastcgi_param  PATH_INFO          $fastcgi_path_info;
+        }
+}
+
+复制文件
+cd /root/zabbix-3.0.9
+cp -rf frontends/php/* /data/zabbix/
+cd /data/zabbix/conf
+cp zabbix.conf.php.example zabbix.conf.php
+vi zabbix.conf.php 修改数据库信息
+
+
+
+
+()安装php
+yum install -y libxml2 bzip2-devel libcurl libcurl-devel libjpeg-devel libpng-devel freetype freetype-devel
+
+wget http://cn2.php.net/distributions/php-5.6.29.tar.gz
+tar -zxvf php-5.6.29
+cd php-5.6.29
+
+
+./configure  --prefix=/usr/local/php-5.6.29 \
+--with-config-file-path=/usr/local/php-5.6.29/etc --with-bz2 --with-curl \
+--enable-ftp --enable-sockets --disable-ipv6 --with-gd \
+--with-jpeg-dir=/usr/local --with-png-dir=/usr/local \
+--with-freetype-dir=/usr/local --enable-gd-native-ttf \
+--with-iconv-dir=/usr/local --enable-mbstring --enable-calendar \
+--with-gettext --with-libxml-dir=/usr/local --with-zlib \
+--with-pdo-mysql=mysqlnd --with-mysqli=mysqlnd --with-mysql=mysqlnd \
+--enable-dom --enable-xml --enable-fpm --with-libdir=lib64 --enable-bcmath
+
+
+make && make install
+
+cd /usr/local/php-5.6.29/etc
+cp php-fpm.conf.default php-fpm.conf
+
+启动php-fpm
+/usr/local/php-5.6.29/sbin/php-fpm
+
+()安装mysql
+yum install mysql mysql-server mysql-devel -y
+
+()安装zabbix
+http://www.zabbix.com/download
+wget https://nchc.dl.sourceforge.net/project/zabbix/ZABBIX%20Latest%20Stable/3.0.9/zabbix-3.0.9.tar.gz
+tar -zxvf zabbix-3.0.9.tar.gz
+cd zabbix-3.0.9
+
+./configure --prefix=/usr/local/zabbix-3.0.9/ --enable-server \
+--enable-agent --with-mysql  --with-libcurl --with-libxml2
+
+make && make install
+
+进入mysql
+create database zabbix default charset utf8;
+grant all privileges on zabbix.* to zabbix@"localhost" identified by "zabbix"; 
+flush privileges;
+
+mysql -u zabbix zabbix -pzabbix < database/mysql/schema.sql
+mysql -u zabbix zabbix -pzabbix < database/mysql/images.sql 
+mysql -u zabbix zabbix -pzabbix < database/mysql/data.sql
+
+
+vi /usr/local/zabbix-3.0.9/etc/zabbix_server.conf
+DBName=zabbix
+DBUser=zabbix
+DBPassword=zabbix
+DBPort=3306
+
+
+
+useradd zabbix -s /sbin/nologin -M
+启动zabbix_server
+/usr/local/zabbix-3.0.9/sbin/zabbix_server
+
+
+复制启动脚本
+cp /root/zabbix-3.0.9/misc/init.d/tru64/zabbix_agentd   /etc/init.d/
+cp /root/zabbix-3.0.9/misc/init.d/tru64/zabbix_server  /etc/init.d/
+

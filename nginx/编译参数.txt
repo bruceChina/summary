@@ -1,0 +1,68 @@
+http://www.cnblogs.com/HKUI/p/5225895.html
+
+()通用参数
+--prefix=<path>					 	Nginx安装的根路径,所有其它路径都要依赖该选项,没有指定的话,会放到系统的默认路径
+--sbin-path=<path>					指定nginx二进制文件的路径,没指定的话 这个路径就是--prefix指定目录下的sbin
+--conf-path=<path>					指定nginx的配置文件的路径,没有指定的话 这个路径就是--prefix指定目录下的conf
+--error-log-path=<path>				nginx的错误日志位置,没有指定的话放在这个路径就是--prefix指定目录下的logs
+--pid-path=<path>					nginx master进程pid写入的文件位置,通常在var/run下
+--lock-path=<path>					共享存储器互斥锁文件路径
+--user=<user>						worker进程运行的用户
+--group=<group>						worker进程运行的组
+--with-file-aio						为freeBSD4.3+和linux2.6.22+系统启用异步io
+--width-debug						启用调试日志,生产环境不推荐
+
+
+()编译参数
+--with-cc=<path>					设置一个不在默认path下的c编译器
+--with-cpp=<path>					设置c预处理器的相对路径
+--with-cc-opt=<options>				指定必要的include文件路径,可能d(-I<path>)指出,也可能是优化(-O4)和指定
+--with-ld-opt=<options>				包含连接库的路径和运行路径
+--with-cpu-opt=<cpu>				通过该选项为特定cpu构建nginx
+
+()邮件模块独有的配置选项
+--with-mail							激活POP3/IMAP4/SMTP代理模块,默认未激活
+--with-mail_ssl_module				允许ngx_mail_ssl_module模块,这个模块使得POP3／IMAP／SMTP可以使用SSL／TLS.配置已经定义了HTTP SSL模块，但是不支持客户端证书检测
+--without-mail_pop3_module			启用mail模块后,单独禁用pop3模块
+--without-mail_imap_module			启用mail模块后,单独禁用imap模块
+--without-mail_smtp_module			启用mail模块后,单独禁用smtp模块
+--without-http 						完全禁用http模块,如果只想支持mail,可以使用此项设置
+--with-openssl=DIR 					设定OpenSSL库文件路径
+
+对于典型的mail代理,nginx配置可为
+./configure --with-mail  --with-mail_ssl_module  --with-openssl=${BUILD_DIR}/openssl-1.0.1c
+
+
+()指定路径的配置选项
+--without-http-cache				在使用upstream模块时,nginx能够配置本地缓存内容,此选项可禁用缓存
+--with-http_perl_module				这个模块允许nginx使用SSI调用perl或直接执行(使用会降低性能)
+--with-perl_modules_path=PATH		设置perl模块路径(perl解析器路径)
+--http-log-path=PATH 				设置access log文件路径
+--http-proxy-temp-path=PATH 		代理设置后,设置http proxy临时文件路径	
+--http-fastcgi-temp-path=PATH		设置http fastcgi临时文件路径
+--http-fastcgi-temp-path=PATH		set path to store http fastcgi temporary files
+--http-scgi-temp-path=PATH			set path to store http scgi temporary files
+
+()使用各种模块
+--with-http_ssl_module				如果需要对流量加密.可使用此选项,在urls中开始部分将会是https(需要openssl库)
+--with-http_realip_module 			允许ngx_http_realip_module模块(mod_rpaf)此模块支持显示真实来源IP地址，主要用于NGINX做前端负载均衡服务器使用,
+									如果你的nginx在七层负载均衡器或者其它设备之后,它们将Http头中的客户端ip地址传递,这时需要启用此模块,在多个客户处于一个ip地址的情况下使用
+--with-http_addition_module			作为一个输出过滤器,使你能够在请求经过一个location前或后时在该location本身添加内容
+--with-http_xslt_module 			这个模块是一个过滤器，它可以通过XSLT模板转换XML应答
+--with-http_image_filter_module		图像过滤器,在将图像投递到客户之前进行处理(需要libgd库)
+--with-http_geoip_module			使用该模块,能够设置设置个中变量以便在配置区段中使用
+--with-http_sub_module 				允许ngx_http_sub_module模块这个模块可以能够在nginx的应答中搜索并替换文本
+--with-http_dav_module 				允许ngx_http_dav_module模块(mod_dav)为文件和目录指定权限，限制不同类型的用户对于页面有不同的操作权限
+--with-http_flv_module				允许ngx_http_flv_module模块(mod_flvx)这个模块支持对FLV（flash）文件的拖动播放
+--with-http_mp4_module				支持H.264/AAC文件为伪流媒体
+-with-http_gzip_static_module 		允许ngx_http_gzip_static_module模块(mod_dflate)这个模块在一个预压缩文件传送到开启Gzip压缩的客户端之前检查是否已经存在以“.gz”结尾的压缩文件，
+									这样可以防止文件被重复压缩
+--with-http_gunzip_module 			对于不支持gzip编码的客户,该模块用于为客户解压缩预压缩内容
+--with-http_random_index_module		允许ngx_http_random_index_module模块(mod_autoindex)，从目录中选择一个随机主页
+--with-http_secure_link_module		该模块提供一种机制,它会将一个哈希值链接到一个url中,因此,只有那些使用正确的密码能够计算链接
+--with-http_stub_status_module		这个模块可以取得一些nginx的运行状态，如果是工业状况，可以直接取消输出的状态信息科使用RRDtool或类似的工具绘制成图
+
+对于网络加速代理,就配置选项,建议以下配置
+./configure --with-http_ssl_module --with-http_realip_module --with-http_geoip_module --with-http_stub_status_module  --with-openssl=${BUILD_DIR}/openssl-1.0.1c
+web服务器
+./configure --with-http_stub_status_module
