@@ -1,0 +1,4 @@
+()打开test.txt, 写入test
+f = file('test.txt', 'w')
+f.write('test')
+f.close()

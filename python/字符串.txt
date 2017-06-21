@@ -1,0 +1,7 @@
+()字符串切割
+name="hello world"
+name.split()
+
+name="hello, world"
+name.split()
+name.split(',')
