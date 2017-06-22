@@ -1,0 +1,18 @@
+host					被监控的主机
+host group				可以把具有相同特征的主机放到一个组里面
+item					监控项
+trigger					对监控项进行统计计算
+event					触发器状态改变产生事件
+action					事件产生后会根据预先的设置执行动作
+escalation				action期间执行的动作,比如执行远程命令,或者发送告警
+media					告警方式
+notification			告警携带的信息
+remote command			远程执行预先设置的命令
+template				把监控项,告警项等信息放到一个模板里面
+application				一系列监控项的集合
+web scenario			检查网页是否可用的http请求
+frontend				zabbix提供的web操作
+Zabbix API				zabbix的api
+Zabbix server			zabbix服务端
+Zabbix agent			zabbix的客户端
+Zabbix proxy			zabbix的客户端代理

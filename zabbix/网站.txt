@@ -1,0 +1,2 @@
+http://www.cnblogs.com/ivictor/p/6761167.html			添加告警脚本
+http://blog.csdn.net/linux_player_c/article/details/50409271	添加告警脚本
