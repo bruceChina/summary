@@ -3,3 +3,13 @@ print 'Hello %s' % "world"
 
 ()字符串拼接
 print "hello" + " " + "world"
+
+()多个变量输出
+print '''
+	name: %s
+	age: %d
+	
+''' % (name, age)
+
+()用户交互
+name = raw_input('input a name:')

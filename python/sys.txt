@@ -1,0 +1,6 @@
+()输出系统路径
+import  sys
+sys.path
+
+()添加系统路径
+sys.append('/etc')

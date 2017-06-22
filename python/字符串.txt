@@ -5,3 +5,8 @@ name.split()
 name="hello, world"
 name.split()
 name.split(',')
+
+()字符串的形式
+'hello'
+"hello"
+''' hello '''

@@ -1,0 +1,13 @@
+()导入模块的方式
+import urllib
+from urllib import request
+import urllib as u
+
+()添加自定义模块
+vim hello.py
+以后可以在别的模块中使用hello进行导入
+import hello
+
+注意:
+只能导入以py结尾的文件
+自己的模块不要和系统模块重名,不然可能导致意外的bug
