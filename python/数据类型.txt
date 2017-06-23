@@ -1,5 +1,6 @@
 http://www.cnblogs.com/linjiqin/p/3608541.html
 http://www.cnblogs.com/itdyb/p/5046415.html
+http://blog.csdn.net/u012448083/article/details/51918681
 ()
 布尔型
 长整形
@@ -364,4 +365,27 @@ time_sec_float = time.mktime(d.timetuple())
 time_sec = time.time()
 print time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(time_sec))
 
+()unicode 和 其他编码的转换
+
+#将Unicode转换成普通的Python字符串:"编码(encode)"
+
+unicodestring = u"Hello world"
+
+utf8string = unicodestring.encode("utf-8")
+
+asciistring = unicodestring.encode("ascii")
+
+isostring = unicodestring.encode("ISO-8859-1")
+
+utf16string = unicodestring.encode("utf-16")
+
+#将普通的Python字符串转换成Unicode: "解码(decode)"
+
+plainstring1 = unicode(utf8string, "utf-8")
+
+plainstring2 = unicode(asciistring, "ascii")
+
+plainstring3 = unicode(isostring, "ISO-8859-1")
+
+plainstring4 = unicode(utf16string, "utf-16")
 
