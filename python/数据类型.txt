@@ -1,3 +1,6 @@
+http://www.cnblogs.com/linjiqin/p/3608541.html
+http://www.cnblogs.com/itdyb/p/5046415.html
+()
 布尔型
 长整形
 标准整形
@@ -13,4 +16,352 @@ decimal
 字典
 可变集合
 不可变集合
+
+()使用字符串
+'hello'
+"hello"
+'''hello'''
+"""hello"""
+
+()布尔型
+bool = False
+bool = True
+
+()整数
+int = 20
+
+()浮点数
+float = 2.0
+
+()删除数字对象的引用
+a = 1
+del a
+
+()分别把十进制12转换成2, 4, 5, 8, 13, 16 进制数
+int("12", 2)
+int("12", 4)
+int("12", 5)
+int("12", 8)
+int("12", 13)
+int("12", 16)
+
+注意:
+2, 4, 5, 8进制不包括9 如果int("9", 2), int("9", 8) 系统会报错
+
+()把1.2 和 1.22222222222222222222222转成浮点数
+float("1.2")
+float("1.22222222222222222222222222222")	太长,结果不准确
+
+
+()把数字转成字符串
+str(1)
+repr(1)
+
+注意:
+函数str() 用于将值转化为适于人阅读的形式，而repr() 转化为供解释器读取的形式
+repr（）函数得到的字符串通常可以用来重新获得该对象，repr（）的输入对python比较友好。通常情况下obj==eval(repr(obj))这个等式是成立的。
+obj='I love Python'
+obj==eval(repr(obj))
+结果是True
+
+str('hello')
+'hello'
+repr('hello')
+"'hello'"
+
+str(1.0/7.0)
+'0.142857142857'
+repr(1.0/7.0)
+'0.14285714285714285'
+
+
+()把字符串转成python的表达式
+eval("1+2")
+eval("[1,2,3]")
+
+()把序列转成元组
+tuple([1,2,3])
+
+()把序列转成列表
+list([1,2,3])
+
+()把整数转成字符
+chr(10)
+
+()把整数转成Unicode字符
+unichr(10)
+
+()把字符转成整数
+ord('\n')
+
+()把整数转成16进制
+hex(10)
+
+()把10进制数转成8进制数
+oct(10)
+
+()把10进制数转成2进制数
+bin(12)
+
+()取得绝对值
+abs(-10)
+abs(10)
+
+()取得数字的上一个整数
+import math
+>>> math.ceil(4.1)
+5.0
+>>> math.ceil(-4.1)
+-4.0
+
+()比较数字的大小
+cmp(1,2)
+-1
+>>> cmp(2,1)
+1
+>>> cmp(1,1)
+0
+
+()求幂
+math.log(9,3)
+math.log(100,10)
+math.log(math.e)
+math.log10(100)
+注意:
+默认的底数是e
+
+
+()求最大值和最小值
+max(1,2,444,1,1)
+min(1,2,444,1,1,(555,11),4)
+
+()求整数部分与小数部分
+math.modf(10.2)
+(0.1999999999999993, 10.0)
+
+()求2的3次方
+pow(2,3)
+2 ** 3
+
+()求四舍五入
+round(10.1)
+10.0
+>>> round(10.5)
+11.0
+>>> round(-10.5)
+-11.0
+>>> round(-10.1)
+-10.0
+
+()求根
+math.sqrt(4)
+
+()创建列表
+list=['physics', 'chemistry', 1997, 2000];
+nums=[1, 3, 5, 7, 8, 13, 20];
+
+()访问列表的值
+nums[0]
+nums[2:4]
+nums[1:]
+nums[:]
+nums[::2]
+
+()更新列表的值
+nums[0] = 1,2,3
+nums[0:] = 1,2,3
+
+
+注意:
+nums = [1, 2, 3]
+>>> nums[1] = 2,2,2 
+[1, (2, 2, 2), 3]
+>>> nums[1:] = 2,2,2
+[1, 2, 2, 2]
+
+
+()删除列表的值
+del nums[1]
+del nums[1:]
+
+()列表里面使用 * 和 +
+nums = [1,2,3]*3
+nums = nums + [4,5,6]
+
+()判断列表里面是否包含某个元素
+print 3 in [1, 2, 3] #True
+
+()遍历列表
+for x in [1, 2, 3]: print x, #1 2 3
+
+()在列表的末尾添加一个元素
+nums.append(6)
+
+()统计某个元素在列表里面出现的次数
+nums.count(1)
+
+()在列表的末尾添加另外一个列表
+nums.extend(nums)
+
+()查找某个元素第一次在列表里面出现的位置
+nums.index(1)
+
+()在列表的位置0插入10
+nums.insert(0, 10)
+
+()移除列表末尾最后一个元素,并且返回该元素的值
+nums.pop()
+
+注意:
+执行这个操作后,列表的最后一个元素会被删除
+
+()移除列表里面某个元素的第一个匹配项
+nums.remove(1)
+
+注意:
+只会移除一个元素
+
+()对列表里面的元素进行倒转
+nums.reverse()
+
+()对列表里面的元素进行排序
+nums.sort()
+
+
+()创建元组
+tup = ()
+tup = (1, 2, 3)
+
+()访问元组
+tup[0]
+
+()连接元组
+tup1 + tup2
+
+()删除元组
+del tup
+
+注意:
+元组里面的元素不可更改也不可删除,但是如果元组里面包含了列表,这个列表里面的元素是可以修改的
+(1, 2, [3, 4], 5)
+
+()判断元组的元素个数
+len(tup)
+
+()元组的内置函数
+cmp(tuple1, tuple2) 比较两个元组元素。
+len(tuple) 计算元组元素个数。
+max(tuple) 返回元组中元素最大值。
+min(tuple) 返回元组中元素最小值。
+tuple(seq) 将列表转换为元组。
+
+()创建字典
+dict = {'Alice': '2341', 'Beth': '9102', 'Cecil': '3258'}
+dict1 = { 'abc': 456 }
+dict2 = { 'abc': 123, 98.6: 37 }
+
+()修改字典的元素
+dict['Alice']=123
+
+()字典新增元素
+dict['Ace'] = 456
+
+()删除字典元素
+del  dict['Ace']
+
+()清空字典的数据
+dict.clear()
+
+()删除整个字典
+del dict
+
+()字典的内置函数
+cmp(dict1, dict2) 比较两个字典元素。
+len(dict) 计算字典元素个数，即键的总数。
+str(dict) 输出字典可打印的字符串表示。
+type(variable) 返回输入的变量类型，如果变量是字典就返回字典类型。
+radiansdict.clear() 删除字典内所有元素
+radiansdict.copy() 返回一个字典的浅复制
+radiansdict.fromkeys() 创建一个新字典，以序列seq中元素做字典的键，val为字典所有键对应的初始值
+radiansdict.get(key, default=None) 返回指定键的值，如果值不在字典中返回default值
+radiansdict.has_key(key) 如果键在字典dict里返回true，否则返回false
+radiansdict.items() 以列表返回可遍历的(键, 值) 元组数组
+radiansdict.keys() 以列表返回一个字典所有的键
+radiansdict.setdefault(key, default=None) 和get()类似, 但如果键不已经存在于字典中，将会添加键并将值设为default
+radiansdict.update(dict2) 把字典dict2的键/值对更新到dict里
+radiansdict.values() 以列表返回字典中的所有值
+
+()日期和时间
+import time, datetime;
+
+()获取时间戳 
+time.time()
+
+()对时间戳进行格式化输出
+time.localtime(time.time())
+
+()格式化输出时间
+time.strftime('%Y-%m-%d %H:%M:%S')
+datetime.datetime.strftime(datetime.datetime.now(), '%Y-%m-%d %H:%M:%S')
+str(datetime.datetime.now())[:19]
+
+()字符串转成日期
+expire_time = "2013-05-21 09:50:35"
+datetime.datetime.strptime(expire_time,"%Y-%m-%d %H:%M:%S")
+
+()日期的加减运算
+相差一天:
+oneday = datetime.timedelta(days=1)
+
+今天:
+today = datetime.date.today()
+
+昨天:
+yesterday = datetime.date.today() - oneday
+
+明天:
+tomorrow = datetime.date.today() + oneday
+
+输出:
+datetime.datetime.strftime(today_time, '%Y-%m-%d %H:%M:%S')
+datetime.datetime.strftime(yesterday_time, '%Y-%m-%d %H:%M:%S')
+datetime.datetime.strftime(tomorrow_time, '%Y-%m-%d %H:%M:%S')
+
+
+获得上个月的最后一天:
+last_month_last_day = datetime.date(datetime.date.today().year,datetime.date.today().month,1)-datetime.timedelta(1)
+
+
+获取今天零点的时间:
+today_zero_time = datetime.datetime.strftime(today, '%Y-%m-%d %H:%M:%S')
+
+相差一毫秒:
+datetime.timedelta(milliseconds=1)
+
+相差一秒
+datetime.timedelta(minutes=1)
+
+相差一小时
+datetime.timedelta(hours=1)
+
+相差一天
+datetime.timedelta(days=1)
+
+相差一周
+datetime.timedelta(weeks=1)
+
+
+()字符串日期格式化为秒数
+expire_time = "2013-05-21 09:50:35"
+d = datetime.datetime.strptime(expire_time,"%Y-%m-%d %H:%M:%S")
+time_sec_float = time.mktime(d.timetuple())
+
+()日期格式化成秒数
+d = datetime.date.today()
+time_sec_float = time.mktime(d.timetuple())
+
+()秒数转字符串
+time_sec = time.time()
+print time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(time_sec))
+
 
