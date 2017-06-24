@@ -2,3 +2,35 @@
 f = file('test.txt', 'w')
 f.write('test')
 f.close()
+
+()遍历文件的内容
+f = file('test.txt')
+for line in a.readlines():
+    print line;
+a.close()
+
+()追加
+f = file('test.txt', 'a')
+f.write('test')
+f.close() 
+
+()读取一行
+f.readline()
+
+()定位
+f.seek(10)
+
+()读取全部
+f.readlines()
+f.read()
+
+注意:
+readlines 结果是个可遍历的列表
+read的结果是个字符串
+
+()写文件注意事项
+使用write如果没有使用flush强制写入,则会等到系统设置的缓存满了才会对文件进行写入
+
+()判断文件是不是被锁住
+if f.closed == False:
+	pass

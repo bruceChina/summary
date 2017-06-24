@@ -4,3 +4,6 @@ sys.path
 
 ()添加系统路径
 sys.append('/etc')
+
+()退出
+sys.exit(1)

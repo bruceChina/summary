@@ -61,3 +61,10 @@ int('123')
 ()求2的32次方
 2 ** 32
 
+()raw_input 和 input的区别
+raw_input 的结果都是字符串
+input 的结果可以是整数, 字符串, 列表
+输入整数时 int(raw_input) 相当于 input()
+
+
+

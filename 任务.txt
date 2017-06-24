@@ -8,3 +8,4 @@
 ()zabbix api
 ()zabbix 模式
 ()python 模块查找路径的优先级
+()python strip split
