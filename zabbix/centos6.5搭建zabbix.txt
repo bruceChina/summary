@@ -1,0 +1,184 @@
+()安装依赖
+yum install httpd mysql mysql-devel mysql-server php php-cli php-common
+
+注意:这部分依赖不需要自己装,后面安装时yum自己会进行安装
+
+()安装epel源
+rpm -ivh https://mirrors.aliyun.com/epel/6/x86_64/epel-release-6-8.noarch.rpm
+
+()安装zabbix2.2源
+rpm -ivh http://repo.zabbix.com/zabbix/2.2/rhel/6/x86_64/zabbix-release-2.2-1.el6.noarch.rpm
+
+()查看安装内容
+rpm -ql zabbix-release-2.2-1.el6.noarch
+
+()安装zabbix服务端
+yum install zabbix-server zabbix-server-mysql
+
+()查看安装了哪些文件
+yum install yum-utils
+repoquery -ql zabbix-server-mysql
+
+()数据库处理
+create database zabbix;
+grant all privileges on zabbix.*to zabbix@"localhost" identified by "zabbix";
+flush privileges;
+
+()导入数据库
+cd /usr/share/doc/zabbix-server-mysql-2.2.17/create/
+mysql -u zabbix zabbix -p < schema.sql
+mysql -u zabbix zabbix -p < images.sql
+mysql -u zabbix zabbix -p < data.sql
+
+()zabbix配置文件修改
+vim /etc/zabbix/zabbix_server.conf
+修改
+DBName=zabbix
+DBUser=zabbix
+DBPassword=zabbix
+
+()启动zabbix-server
+service zabbix-server start
+
+()安装zabbix-web
+yum install zabbix-web zabbix-web-mysql
+
+()安装
+/etc/httpd/conf.d/zabbix.conf
+修改里面的时区
+service mysqld start
+service zabbix-server start
+
+()修改语言包
+vim /usr/share/zabbix/include/locales.inc.php
+设置
+zh_CN 为true
+然后web端就有中文的选项了
+
+()重装
+http://www.myzabbix.com/zabbix/setup.php
+
+()安装开源中文字体
+yum install wqy-microhei-fonts
+查看安装字体的位置
+rpm -ql wqy-microhei-fonts
+修改zabbix字体
+cp /etc/alternatives/zabbix-web-font /etc/alternatives/zabbix-web-font-bak
+ln -s /usr/share/fonts/wqy-microhei/wqy-microhei.ttc /etc/alternatives/zabbix-web-font
+
+
+()安装agent
+yum install zabbix-agent
+
+()配置zabbix-agent
+vim /etc/zabbix/zabbix_agentd.conf
+
+()安装zabbix-get
+yum install zabbix-get -y
+
+()使用zabbix-get
+zabbix_get -s 127.0.0.1 -k system.cpu.util[,user]
+
+
+()配置邮件服务
+vim /etc/mail.rc
+添加
+set from="819550994@qq.com"
+set smtp="smtp.qq.com"
+set smtp-auth-user="819550994@qq.com"
+set smtp-auth-password="bsekcsvvunqmbaig"
+set smtp-auth=login
+set smtp-use-starttls=true
+set ssl-verify=ignore
+set nss-config-dir=/etc/pki/nssdb/
+
+
+()zabbix告警脚本
+
+
+
+vim /etc/zabbix/zabbix_server.conf
+找到
+AlertScriptsPath=/usr/lib/zabbix/alertscripts
+然后
+cd /usr/lib/zabbix/alertscripts
+
+
+()添加网友的告警脚本
+cd /etc/zabbix/script
+wget https://raw.githubusercontent.com/pengyao/zabbix-1/master/scripts/zabbix_nginx_check.sh
+chmod +x zabbix_nginx_check.sh 
+./zabbix_nginx_check.sh active_connections
+zabbix_get -s 127.0.0.1 -k custom.nginx.status[active_connections]
+
+vim /etc/zabbix/zabbix_agentd.d/nginx.conf
+添加
+UserParameter=custom.nginx.status[*],/etc/zabbix/script/zabbix_nginx_check.sh $1
+
+
+
+()安装nginx
+rpm -ivh http://nginx.org/packages/centos/6/noarch/RPMS/nginx-release-centos-6-0.el6.ngx.noarch.rpm
+yum install nginx 
+zabbix_get -s 127.0.0.1 -k proc.num[nginx]
+zabbix_get -s 127.0.0.1 -k net.tcp.service[http,,80]
+nginx -V	查看编译参数
+
+()Nginx 开启 stub_status 模块监控
+./configure –with-http_stub_status_module
+
+vim /etc/nginx/conf.d/default.conf
+添加
+location /nginx_status {
+    allow all;
+    stub_status on;
+}
+service nginx configtest
+service nginx reload
+
+参数详解:
+Active connections: 2 	//当前nginx处理的连接
+server accepts handled requests
+ 15 15 13 
+//nginx启动到现在处理的理解 nginx启动到现在接受的连接 nginx启动到现在已经处理的请求
+
+Reading: 0 Writing: 1 Waiting: 1 
+
+
+
+
+添加依赖
+yum install python-pip PyYAML python-argparse
+pip install -r requirements_pyemail.txt
+
+
+错误:
+zabbix server is not running: the information displayed may not be 
+
+解决:
+1 防火墙
+2 selinux:
+	setenforce 0
+	getenforce
+错误
+InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail.
+pyopenssl
+
+解决:
+安装依赖,否则cffi可能无法编译
+yum install  python-sphinx libffi-devel python-devel
+pip install pyopenssl ndg-httpsclient pyasn1
+
+
+
+错误
+ReadTimeoutError: HTTPSConnectionPool(host='pypi.python.org', port=443): 
+解决
+pip --default-timeout=200 install --upgrade pip
+或者
+到下面的网址下载最新的whl文件,然后安装
+https://pypi.python.org/simple/pip/
+
+
+宏
+net.tcp.service[http,,${nginx_port}]
