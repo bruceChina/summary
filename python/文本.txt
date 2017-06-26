@@ -28,9 +28,27 @@ f.read()
 readlines 结果是个可遍历的列表
 read的结果是个字符串
 
+()读取大文件xreadlines
+如果使用readlines 读取大文件,会在一开始把所有的内容读到内存里面,导致卡死
+xreadline每次只读取一行
+
 ()写文件注意事项
 使用write如果没有使用flush强制写入,则会等到系统设置的缓存满了才会对文件进行写入
 
 ()判断文件是不是被锁住
 if f.closed == False:
 	pass
+	
+()rb这个打开方式有什么用
+windows 上的文件复制到unix上使用rb打开,使用r打开出现^M之类的问题
+
+()open() 和 file()的关系
+help(open)
+open是file的别名
+
+()with用法
+with open('test.txt', 'w') as f:
+	f.write('test')
+	
+注意:
+使用这个方式可以不用close,结束后系统自动关闭

@@ -1,0 +1,48 @@
+http://www.ttlsa.com/zabbix/zabbix-custom-alertscripts/
+http://www.ttlsa.com/zabbix/zabbix-actions/
+http://www.ttlsa.com/zabbix/zabbix-media-custom-alertscripts/
+http://blog.csdn.net/u012062455/article/details/53286213
+()配置AlertScriptsPath
+vim zabbix_server.conf
+添加
+AlertScriptsPath=/usr/lib/zabbix/alertscripts
+
+()编写脚本
+vim test.sh
+添加
+echo $1 $2 $3 >> 1.txt
+添加可执行权限
+chmod  +x test.sh 
+
+()web端配置
+Administration -> Media type -> create media type 
+name: test
+type: script
+Script name: test.sh
+
+()添加告警
+configuration -> Actions -> create action
+Action 标签
+Name: 
+	test
+Default subject:
+	{TRIGGER.STATUS}: {TRIGGER.NAME}
+Default message:
+	Trigger: {TRIGGER.NAME}
+	Trigger status: {TRIGGER.STATUS}
+	Trigger severity: {TRIGGER.SEVERITY}
+	Trigger URL: {TRIGGER.URL}
+	
+	Item values:
+	
+	1. {ITEM.NAME1} ({HOST.NAME1}:{ITEM.KEY1}): {ITEM.VALUE1}
+	2. {ITEM.NAME2} ({HOST.NAME2}:{ITEM.KEY2}): {ITEM.VALUE2}
+	3. {ITEM.NAME3} ({HOST.NAME3}:{ITEM.KEY3}): {ITEM.VALUE3}
+	
+	Original event ID: {EVENT.ID}
+	
+Conditions 标签
+	保持不变
+Operaations 标签
+	
+	

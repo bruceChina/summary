@@ -9,3 +9,5 @@
 ()zabbix 模式
 ()python 模块查找路径的优先级
 ()python strip split
+()python 文件的读写模式
+()python 文件的打开模式
