@@ -1,0 +1,8 @@
+()
+()复制字体文件
+到 C:\Windows\Fonts 下复制文件到 zabbix的站点根目录下的fonts目录下
+SIMKAI.ttf:  注意SIMKAI.TTF 要修改成SIMKAI.ttf
+
+()修改配置
+修改include下的defines.inc.php 
+把里面的DejaVuSans 替换成 SIMKAI

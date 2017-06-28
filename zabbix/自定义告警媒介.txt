@@ -1,7 +1,8 @@
-http://www.ttlsa.com/zabbix/zabbix-custom-alertscripts/
+﻿http://www.ttlsa.com/zabbix/zabbix-custom-alertscripts/
 http://www.ttlsa.com/zabbix/zabbix-actions/
 http://www.ttlsa.com/zabbix/zabbix-media-custom-alertscripts/
 http://blog.csdn.net/u012062455/article/details/53286213
+http://www.07net01.com/2016/04/1484278.html
 ()配置AlertScriptsPath
 vim zabbix_server.conf
 添加
