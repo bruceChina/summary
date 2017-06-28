@@ -3,3 +3,20 @@ range(10)
 
 ()创造1-10
 range(1,11)
+
+()追加
+list.append(100)
+
+()头部插入
+list.insert()
+
+()计数
+list.count()
+
+()获取列表里面元素的位置
+list.index(100)
+
+注意:只会返回第一次匹配的元素的位置
+
+()列表移除元素
+list.remove(10)

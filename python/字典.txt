@@ -1,0 +1,27 @@
+()获取字典的值
+items['key']
+items.get('key')
+
+注意:
+使用get可以防止异常
+
+()获取所有的key和value
+for k,v in items.items():
+	pass
+
+()获得所有的key
+for k in items.keys():
+	pass
+	
+()获得所有的值
+for v in items.values():
+	pass
+	
+()遍历器
+items.iteritems()
+
+()设置默认值
+items.setdefault("key", "hello")
+
+()合并两个字典
+items.update(items1)
