@@ -1,0 +1,12 @@
+boot
+    bootsect.s
+	head.s
+	setup.s
+fs
+include
+init
+kernel
+lib
+mm
+tools
+Makefile
