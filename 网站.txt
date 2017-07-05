@@ -1,0 +1,2 @@
+https://www.gnu.org/software/sed/manual/sed.html			sed
+https://www.gnu.org/software/gawk/manual/gawk.html			awk
