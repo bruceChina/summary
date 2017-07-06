@@ -1,2 +1,9 @@
 https://www.gnu.org/software/sed/manual/sed.html			sed
 https://www.gnu.org/software/gawk/manual/gawk.html			awk
+http://linuxcommand.org/learning_the_shell.php				shell
+http://www.freeos.com/guides/lsst/					shell
+http://www.centoscn.com/CentOS/						centos
+https://wiki.centos.org/HowTos						centos
+https://www.kali.org/penetration-testing-with-kali-linux/		kaliwiki
+https://tools.kali.org/tools-listing					kali工具
+http://www.nsoad.com/security-tools/20161021/tools-617.html		kali工具

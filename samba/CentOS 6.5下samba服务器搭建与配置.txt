@@ -1,0 +1,36 @@
+http://www.centoscn.com/CentosServer/ftp/2014/1023/3989.html
+
+()安装
+yum -y install samba samba-common samba-client 
+
+()配置
+vim /etc/samba/smb.conf  
+添加
+[smbtest]
+	comment = samba test
+	path	= /samba
+	browseable = yes
+	writeable  = yes
+	read only  = no
+	public 	   = yes
+
+()添加用户
+groupadd smbtest
+useradd -g smbtest smbtest
+
+mkdir /samba
+chown -R smbtest.smbtest /samba
+
+()创建samba用户
+pdbedit -a -u smbtest
+
+()重启服务
+service smb restart
+
+()测试
+smbclient -L //192.168.10.11 -U smbtest
+
+()挂载
+mount  -t cifs -o username="smbtest",password="123456" //192.168.10.11/smbtest /tmp
+
+()查看df -h
