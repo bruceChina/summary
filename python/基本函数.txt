@@ -1,0 +1,267 @@
+http://www.cnblogs.com/nulige/p/6128816.html		any 与 all
+http://blog.csdn.net/heybob/article/details/48373021	str basestring unicode
+http://www.cnblogs.com/sesshoumaru/p/5977009.html	bin
+http://www.cnblogs.com/sesshoumaru/p/5979159.html	bytearray
+http://blog.csdn.net/fei_gao/article/details/5914759	bool
+http://www.cnblogs.com/sesshoumaru/archive/2016/10/19/5979073.html	bool
+http://www.cnblogs.com/sesshoumaru/p/5983979.html	callable
+http://blog.csdn.net/youfuchen/article/details/21107099	chr ord
+
+()chr ord
+print chr(0x30), chr(0x31), chr(0x61)
+print chr(48), chr(49), chr(97)
+0 1 a
+
+print ord('a'), ord('0'), ord('1') 
+97 48 49  
+
+print "%x %x %x" % (ord('a'), ord('0'), ord('1'))  
+61 30 31  
+print "%#x %#x %#x" % (ord('a'), ord('0'), ord('1'))  
+0x61 0x30 0x31  
+
+一个字符串str1，转化成另一个字符串str2， 使得 str2[i] = str1[i] - i
+str1 = "eb;3ej8h"  
+for i in range(0, len(str1)):  
+    print chr((ord(str1[i])-i)),  
+
+e a 9 0 a e 2 a  
+	
+
+()callable
+用来检测对象是否可被调用，可被调用指的是对象能否使用()括号的方法调用
+>>> callable(callable)
+True
+>>> callable(1)
+False
+>>> 1()
+Traceback (most recent call last):
+File "<pyshell#5>", line 1, in <module>
+1()
+TypeError: 'int' object is not callable
+
+可调用对象，在实际调用也可能调用失败；但是不可调用对象，调用肯定不成功
+
+类对象都是可被调用对象，类的实例对象是否可调用对象，取决于类是否定义了__call__方法
+>>> class A: #定义类A
+    pass
+
+>>> callable(A) #类A是可调用对象
+True
+>>> a = A() #调用类A
+>>> callable(a) #实例a不可调用
+False
+>>> a() #调用实例a失败
+Traceback (most recent call last):
+  File "<pyshell#31>", line 1, in <module>
+    a()
+TypeError: 'A' object is not callable
+
+
+>>> class B: #定义类B
+    def __call__(self):
+        print('instances are callable now.')
+
+        
+>>> callable(B) #类B是可调用对象
+True
+>>> b = B() #调用类B
+>>> callable(b) #实例b是可调用对象
+True
+>>> b() #调用实例b成功
+instances are callable now.
+
+
+()bool
+在数值上下文环境中，True被当作1，False被当作0，例如 True+3=>4
+
+其他类型值转换bool值时除了''、""、''''''、""""""、0、()、[]、{}、None、0.0、0L、0.0+0.0j、False为False，其他都为True 例如 bool(-2)=>True
+
+参数如果缺省，则返回False
+>>> bool() #未传入参数
+False
+
+传入布尔类型时，按原值返回
+>>> bool(True)
+True
+>>> bool(False)
+False
+
+传入字符串时，空字符串返回False，否则返回True
+>>> bool('')
+False
+>>> bool('0')
+True
+
+传入数值时，0值返回False，否则返回True
+>>> bool(0)
+False
+>>> bool(1)
+True
+>>> bool(-1.0)
+True
+
+
+
+
+()bytearray
+1 返回值为一个新的字节数组
+2 当3个参数都不传的时候，返回长度为0的字节数组
+>>> b = bytearray()
+>>> b
+bytearray(b'')
+>>> len(b)
+0
+
+3 当source参数为字符串时，encoding参数也必须提供，函数将字符串使用str.encode方法转换成字节数组
+>>> bytearray('中文')
+Traceback (most recent call last):
+  File "<pyshell#48>", line 1, in <module>
+    bytearray('中文')
+TypeError: string argument without an encoding
+>>> bytearray('中文','utf-8')
+bytearray(b'\xe4\xb8\xad\xe6\x96\x87')
+
+4 当source参数为整数时，返回这个整数所指定长度的空字节数组
+>>> bytearray(2)
+bytearray(b'\x00\x00')
+>>> bytearray(-2) #整数需大于0，使用来做数组长度的
+Traceback (most recent call last):
+  File "<pyshell#51>", line 1, in <module>
+    bytearray(-2)
+ValueError: negative count
+
+5 当source参数为实现了buffer接口的object对象时，那么将使用只读方式将字节读取到字节数组后返回
+6 当source参数是一个可迭代对象，那么这个迭代对象的元素都必须符合0 <= x < 256，以便可以初始化到数组里
+>>> bytearray([1,2,3])
+bytearray(b'\x01\x02\x03')
+>>> bytearray([256,2,3]) #不在0-255范围内报错
+Traceback (most recent call last):
+  File "<pyshell#53>", line 1, in <module>
+    bytearray([256,2,3])
+ValueError: byte must be in range(0, 256)
+
+
+()bin
+1 将一个整形数字转换成二进制字符串
+>>> b = bin(3) 
+>>> b
+'0b11'
+>>> type(b) #获取b的类型
+<class 'str'>
+
+2 如果参数x不是一个整数，则x必须定义一个 __index__() 方法，并且方法返回值必须是整数
+
+2.1如果对象不是整数，则报错
+>>> class A:
+pass
+
+>>> a = A()
+>>> bin(a) 
+Traceback (most recent call last):
+  File "<pyshell#15>", line 1, in <module>
+    bin(a)
+TypeError: 'A' object cannot be interpreted as an integer
+
+
+2.2 如果对象定义了__index__方法，但返回值不是整数，报错
+>>> class B:
+    def __index__(self):
+        return "3"
+
+>>> b = B()
+>>> bin(b)
+Traceback (most recent call last):
+  File "<pyshell#21>", line 1, in <module>
+    bin(b)
+TypeError: __index__ returned non-int (type str)
+
+2.3 对象定义了__index__方法，且返回值是整数，将__index__方法返回值转换成二进制字符串
+>>> class C:
+    def __index__(self):
+        return 3
+
+>>> c = C()
+>>> bin(c)
+'0b11'
+
+
+()any:
+全部元素为空返回True
+any(['a', 'b', 'c', 'd'])  #列表list，元素都不为空或0
+True
+ 
+>>> any(['a', 'b', '', 'd'])  #列表list，存在一个为空的元素
+True
+ 
+>>> any([0, '', False])  #列表list,元素全为0,'',false
+False
+ 
+>>> any(('a', 'b', 'c', 'd'))  #元组tuple，元素都不为空或0
+True
+ 
+>>> any(('a', 'b', '', 'd'))  #元组tuple，存在一个为空的元素
+True
+ 
+>>> any((0, '', False))  #元组tuple，元素全为0,'',false
+False
+  
+>>> any([]) # 空列表
+False
+ 
+>>> any(()) # 空元组
+False
+
+复制代码
+
+
+
+()all
+任意一个元素为空返回True
+>>> all(['a', 'b', 'c', 'd'])  #列表list，元素都不为空或0
+True
+>>> all(['a', 'b', '', 'd'])  #列表list，存在一个为空的元素
+False
+>>> all([0, 1，2, 3])  #列表list，存在一个为0的元素
+False
+   
+>>> all(('a', 'b', 'c', 'd'))  #元组tuple，元素都不为空或0
+True
+>>> all(('a', 'b', '', 'd'))  #元组tuple，存在一个为空的元素
+False
+>>> all((0, 1，2, 3))  #元组tuple，存在一个为0的元素
+False
+   
+>>> all([]) # 空列表
+True
+>>> all(()) # 空元组
+True
+
+
+()str basestring unicode
+for s in [u'asd', 'asd']:
+    print isinstance(s, str)  # 用来判断是否为一般字符串
+    print isinstance(s, basestring)
+
+    print isinstance(s, unicode)   # 用来判断是否为unicode
+
+结果:
+False
+True
+True
+True
+True
+False
+
+basestring是str和unicode的超类
+查看内建函数：
+
+class basestring(object)
+
+class str(basestring)
+
+class unicode(basestring)
+
+所以str和unicode是不同的，判断时需要注意字符串类型
+
+

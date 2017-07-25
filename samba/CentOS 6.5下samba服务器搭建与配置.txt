@@ -1,4 +1,6 @@
 http://www.centoscn.com/CentosServer/ftp/2014/1023/3989.html
+http://www.linuxidc.com/Linux/2016-01/127228.htm
+
 
 ()安装
 yum -y install samba samba-common samba-client 
@@ -21,8 +23,17 @@ useradd -g smbtest smbtest
 mkdir /samba
 chown -R smbtest.smbtest /samba
 
+()关闭防火墙和selinux
+vi /etc/sysconfig/selinux
+修改
+SELINUX=disabled
+
+setenforce 0
+
+service iptables stop
+
 ()创建samba用户
-pdbedit -a -u smbtest
+smbpasswd -a smbtest
 
 ()重启服务
 service smb restart

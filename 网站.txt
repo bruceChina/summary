@@ -6,4 +6,4 @@ http://www.centoscn.com/CentOS/						centos
 https://wiki.centos.org/HowTos						centos
 https://www.kali.org/penetration-testing-with-kali-linux/		kaliwiki
 https://tools.kali.org/tools-listing					kali工具
-http://www.nsoad.com/security-tools/20161021/tools-617.html		kali工具
+			

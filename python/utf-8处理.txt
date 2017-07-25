@@ -1,0 +1,11 @@
+http://wangye.org/blog/archives/629/
+
+()问题：Unicode编码与ASCII编码的不兼容，其实这个Python脚本文件是由utf-8编码的，同时SQlite3数据库存取的也是UTF-8格式，但是python字符流输出基本上是ascii编码方式，由此Python自然调用ascii编码解码程序去处理字符流，当字符流不属于ascii范围内，就会抛出异常（ordinal not in range(128)）。
+
+()Python默认环境编码通过下面的方法可以获取
+import sys
+print sys.getdefaultencoding()
+
+import sys
+reload(sys)
+sys.setdefaultencoding('utf-8')

@@ -1,0 +1,16 @@
+用来暴力破解samba用户密码的
+
+()使用空密码尝试“管理员”帐户
+acccheck -t 10.10.10.1 
+
+()尝试“password.txt”中所有密码穷举“管理员”帐户密码
+acccheck -t 10.10.10.1 -P password.txt
+
+()尝试“password.txt”中所有密码穷举“users.txt”中所有帐户密码
+acccehck -t 10.10.10.1 -U users.txt -P password.txt 
+
+()针对单个用户尝试单个密码
+acccheck -t 10.10.10.1 -u administrator -p password
+
+()扫描包含在SMB-ips.txt（T）的IP地址中使用空密码的默认账户Administrator，并使用详细输出（-v）
+acccheck -T smb-ips.txt -v

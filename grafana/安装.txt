@@ -1,0 +1,21 @@
+https://grafana.com/
+http://docs.grafana.org/installation/rpm/
+http://www.cnblogs.com/super-d2/p/4738074.html
+http://www.cnblogs.com/yyhh/archive/2015/09/08/4792830.html  
+
+()安装
+wget https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana-4.4.1-1.x86_64.rpm 
+yum localinstall grafana-4.4.1-1.x86_64.rpm 
+
+()启动服务
+sudo service grafana-server start
+
+()登录
+http://192.168.10.11:3000/login
+admin admin
+
+()安装zabbix插件
+https://grafana.com/plugins/alexanderzobnin-zabbix-app/installation
+
+grafana-cli plugins install alexanderzobnin-zabbix-app
+service grafana-server restart
