@@ -6,4 +6,6 @@ http://www.centoscn.com/CentOS/						centos
 https://wiki.centos.org/HowTos						centos
 https://www.kali.org/penetration-testing-with-kali-linux/		kaliwiki
 https://tools.kali.org/tools-listing					kali工具
+http://www.jb51.net/article/64723.htm					图像相似度
+https://sourceforge.net/projects/razorbacktm/files/Razorback/		tcp packet inject
 			

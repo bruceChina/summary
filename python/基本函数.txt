@@ -6,6 +6,294 @@ http://blog.csdn.net/fei_gao/article/details/5914759	bool
 http://www.cnblogs.com/sesshoumaru/archive/2016/10/19/5979073.html	bool
 http://www.cnblogs.com/sesshoumaru/p/5983979.html	callable
 http://blog.csdn.net/youfuchen/article/details/21107099	chr ord
+http://blog.csdn.net/handsomekang/article/details/9615239	classmethod staticmethod
+http://www.cnblogs.com/elie/p/5876210.html			classmethod staticmethod
+http://www.cnblogs.com/dadadechengzi/p/6159289.html		compile
+http://www.jb51.net/article/57798.htm				complex
+http://www.cnblogs.com/sesshoumaru/p/5989234.html		delattr
+http://www.jb51.net/article/55553.htm				dict
+http://blog.csdn.net/caimouse/article/details/41384985		divmod
+http://blog.csdn.net/churximi/article/details/51648388		enumerate
+http://www.cnblogs.com/liu-shuai/p/6098246.html			eval
+http://blog.csdn.net/zhanh1218/article/details/37562167		eval
+http://www.jb51.net/article/55529.htm				eval
+http://blog.csdn.net/maoyongfan3/article/details/43448511	execfile
+http://www.cnblogs.com/rollenholt/archive/2012/04/23/2466179.html		file
+http://blog.csdn.net/werm520/article/details/6652061				file
+http://blog.csdn.net/sinchb/article/details/8351685				file
+http://www.cnblogs.com/Lambda721/p/6128424.html					filter
+http://www.cnblogs.com/panwenbin-logs/p/5519617.html				frozenset
+http://www.cnblogs.com/cenyu/p/5713686.html					hasattr setattr getattr
+http://blog.csdn.net/sxingming/article/details/52061630				globals locals
+
+()globals 和locals
+
+#-*- coding=utf-8 -*-
+z = 7 #定义全局变量
+def foo(arg):
+    x = 1
+    print locals()
+    print 'x=',x
+    locals()['x'] = 2 #修改的是局部名字空间的拷贝，而实际的局部名字空间中的变量值并无影响。
+    print locals()
+    print "x=",x
+
+foo(3)
+print globals()
+print 'z=',z
+globals()["z"] = 8 #globals（）返回的是实际的全局名字空间，修改变量z的值
+print globals()
+print "z=",z
+
+
+{'x': 1, 'arg': 3}
+x= 1
+{'x': 1, 'arg': 3}
+x= 1
+{'foo': <function foo at 0x7f78d83d65f0>, '__builtins__': <module '__builtin__' (built-in)>, '__file__': '1.py', '__package__': None, '__name__': '__main__', 'z': 7, '__doc__': None}
+z= 7
+{'foo': <function foo at 0x7f78d83d65f0>, '__builtins__': <module '__builtin__' (built-in)>, '__file__': '1.py', '__package__': None, '__name__': '__main__', 'z': 8, '__doc__': None}
+z= 8
+
+
+
+()filter
+def is_None(x):
+    if x != None:
+        return True
+
+l = ['1', '2', None, '4']
+f = filter(is_None, l)
+print f
+
+
+()execfile
+ #execfile.py 
+import sys 
+if __name__ == '__main__': 
+        print sys.argv 
+        print 'execfile'
+        sys.argv = 'appcfg.py update sdblog'.split(); 
+        print sys.argv 
+        execfile('main.py')
+#main.py 
+import sys 
+def main(): 
+        print 'main'
+        print sys.argv 
+if __name__ == '__main__': 
+        main()
+
+
+D:\GAE\dev>execfile.py test 
+['D:\\GAE\\dev\\execfile.py', 'test'] 
+execfile
+['appcfg.py', 'update', 'sdblog'] 
+main 
+['appcfg.py', 'update', 'sdblog']
+
+
+
+()eval
+可以把list,tuple,dict和string相互转化。
+#################################################
+字符串转换成列表
+>>>a = "[[1,2], [3,4], [5,6], [7,8], [9,0]]"
+>>>type(a)
+<type 'str'>
+>>> b = eval(a)
+>>> print b
+[[1, 2], [3, 4], [5, 6], [7, 8], [9, 0]]
+>>> type(b)
+<type 'list'>
+#################################################
+字符串转换成字典
+>>> a = "{1: 'a', 2: 'b'}"
+>>> type(a)
+<type 'str'>
+>>> b = eval(a)
+>>> print b
+{1: 'a', 2: 'b'}
+>>> type(b)
+<type 'dict'>
+#################################################
+字符串转换成元组
+>>> a = "([1,2], [3,4], [5,6], [7,8], (9,0))"
+>>> type(a)
+<type 'str'>
+>>> b = eval(a)
+>>> print b
+([1, 2], [3, 4], [5, 6], [7, 8], (9, 0))
+>>> type(b)
+<type 'tuple'>
+
+()enumerate
+如果对一个列表，既要遍历索引又要遍历元素时，首先可以这样写
+list1 = ["这", "是", "一个", "测试"]
+for i in range (len(list1)):
+    print i ,list1[i]
+
+list1 = ["这", "是", "一个", "测试"]
+for index, item in enumerate(list1):
+    print index, item
+>>>
+0 这
+1 是
+2 一个
+3 测试
+
+
+enumerate还可以接收第二个参数，用于指定索引起始值
+list1 = ["这", "是", "一个", "测试"]
+for index, item in enumerate(list1, 1):
+    print index, item
+>>>
+1 这
+2 是
+3 一个
+4 测试
+
+()divmod
+print('divmod(2, 4):', divmod(2, 4))  
+print('divmod(28, 4):', divmod(28, 4))  
+print('divmod(27, 4):', divmod(27, 4))  
+print('divmod(25.6, 4):', divmod(25.6, 4))  
+print('divmod(2, 0.3):', divmod(2, 0.3))  
+
+divmod(2, 4): (0, 2)
+divmod(28, 4): (7, 0)
+divmod(27, 4): (6, 3)
+divmod(25.6, 4): (6.0, 1.6000000000000014)
+divmod(2, 0.3): (6.0, 0.20000000000000007)
+
+()dict
+>>> website = {1:"google","second":"baidu",3:"facebook","twitter":4}
+ 
+>>>#用d.keys()的方法得到dict的所有键，结果是list
+>>> website.keys()
+[1, 'second', 3, 'twitter']
+ 
+>>>#用d.values()的方法得到dict的所有值，如果里面没有嵌套别的dict，结果是list
+>>> website.values()
+['google', 'baidu', 'facebook', 4]
+ 
+>>>#用items()的方法得到了一组一组的键值对，
+>>>#结果是list，只不过list里面的元素是元组
+>>> website.items()
+[(1, 'google'), ('second', 'baidu'), (3, 'facebook'), ('twitter', 4)]
+
+
+()delattr
+函数作用用来删除指定对象的指定名称的属性，和setattr函数作用相反
+>>> class A:
+    def __init__(self,name):
+        self.name = name
+    def sayHello(self):
+        print('hello',self.name)
+
+#测试属性和方法
+>>> a.name
+'小麦'
+>>> a.sayHello()
+hello 小麦
+
+#删除属性
+>>> delattr(a,'name')
+>>> a.name
+Traceback (most recent call last):
+  File "<pyshell#47>", line 1, in <module>
+    a.name
+AttributeError: 'A' object has no attribute 'name'
+
+当属性不存在的时候，会报错
+>>> a.name #属性name已经删掉，不存在
+Traceback (most recent call last):
+  File "<pyshell#47>", line 1, in <module>
+    a.name
+AttributeError: 'A' object has no attribute 'name'
+
+>>> delattr(a,'name') #再删除会报错
+Traceback (most recent call last):
+  File "<pyshell#48>", line 1, in <module>
+    delattr(a,'name')
+AttributeError: name
+
+不能删除对象的方法
+>>> a.sayHello
+<bound method A.sayHello of <__main__.A object at 0x03F014B0>>
+>>> delattr(a,'sayHello') #不能用于删除方法
+Traceback (most recent call last):
+  File "<pyshell#50>", line 1, in <module>
+    delattr(a,'sayHello')
+AttributeError: sayHello
+
+
+()complex
+print complex(1)
+print complex('2+1j')
+print complex(2,5)
+
+
+()compile
+s = "print \"hello world\""
+c = compile(s, '', 'exec')
+exec(c)
+
+s1 = "1+2+3"
+c1 = compile(s1, '', 'eval')
+print eval(c1)
+
+s2 = '''
+i = 1
+for i in [1, 2, 4]:
+ print i
+'''
+c2 = compile(s2, '', 'exec')
+exec(c2)
+
+
+cmp_code=compile('print "single"','','single')
+exec cmp_code
+cmp_code
+
+eval_code='1+2'
+cmp_code2=compile(eval_code,'','single')
+eval(cmp_code2)
+cmp_code2
+
+cmp_code=compile('raw_input("pls input: ")','','single')
+exec cmp_code
+eval(cmp_code)
+cmp_code
+
+
+()classmethod和staticmethod
+
+class A(object):
+        def foo(self, x):
+                print "foo(%s, %s)" % (self, x)
+        @classmethod
+        def class_foo(cls, x):
+                print "class_foo(%s, %s)" % (cls, x)
+
+        @staticmethod
+        def static_foo(x):
+                print "static_foo(%s)" % (x)
+a = A()
+
+a.foo(1)
+a.class_foo(2)
+a.static_foo(3)
+
+#A.foo(1)    //报错
+A.class_foo(2)
+A.static_foo(3)
+
+普通方法只能用类的实例进行调用
+classmethod 必须带有cls参数,可以用类和实例进行调用
+staticmethod 可以不带参数,可以用类和实例进行调用
+
+
 
 ()chr ord
 print chr(0x30), chr(0x31), chr(0x61)
