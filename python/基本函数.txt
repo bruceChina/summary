@@ -34,6 +34,16 @@ https://my.oschina.net/zyzzy/blog/115096					map
 http://www.cnblogs.com/sesshoumaru/p/6035548.html				memoryview
 http://www.cnblogs.com/sesshoumaru/p/6037922.html				next
 http://python.jobbole.com/81967/						properties
+http://www.cnblogs.com/XXCXY/p/5180245.html					reduce
+http://blog.csdn.net/chjjunking/article/details/6859135				reduce
+http://www.cnblogs.com/itdyb/p/5046415.html					repr
+http://www.cnpythoner.com/post/251.html						repr
+http://www.cnblogs.com/hongten/p/hongten_python_range.html			range 
+http://www.cnblogs.com/zhangjing0502/archive/2012/05/16/2503880.html		range ”Î xrange
+http://blog.csdn.net/sxingming/article/details/51353379				reversed
+http://blog.csdn.net/u011649536/article/details/49301783			round
+http://shmilyaw-hotmail-com.iteye.com/blog/1782733				slice
+
 
 ()iter
 class fibo():
