@@ -25,6 +25,31 @@ http://www.cnblogs.com/Lambda721/p/6128424.html					filter
 http://www.cnblogs.com/panwenbin-logs/p/5519617.html				frozenset
 http://www.cnblogs.com/cenyu/p/5713686.html					hasattr setattr getattr
 http://blog.csdn.net/sxingming/article/details/52061630				globals locals
+http://www.cnblogs.com/sesshoumaru/p/6010180.html				hash
+http://blog.csdn.net/caimouse/article/details/42290285				hex
+http://www.jb51.net/article/54275.htm						isinstance
+http://blog.csdn.net/caimouse/article/details/42612687				issubclass
+http://blog.csdn.net/bluebird_237/article/details/38894617			iter
+https://my.oschina.net/zyzzy/blog/115096					map
+http://www.cnblogs.com/sesshoumaru/p/6035548.html				memoryview
+http://www.cnblogs.com/sesshoumaru/p/6037922.html				next
+http://python.jobbole.com/81967/						properties
+
+()iter
+class fibo():
+    def __init__(self):
+        self.a, self.b = 0, 1
+    def __iter__(self):
+        return self
+    def next(self):
+        self.a, self.b = self.b, self.a + self.b
+        if self.a > 10000:
+            raise StopIteration();
+        return self.a
+
+for n in fibo():
+    print n
+           
 
 ()globals ºÍlocals
 
