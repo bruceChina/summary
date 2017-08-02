@@ -43,7 +43,18 @@ http://www.cnblogs.com/zhangjing0502/archive/2012/05/16/2503880.html		range 与 x
 http://blog.csdn.net/sxingming/article/details/51353379				reversed
 http://blog.csdn.net/u011649536/article/details/49301783			round
 http://shmilyaw-hotmail-com.iteye.com/blog/1782733				slice
-
+http://www.cnblogs.com/lovemo1314/archive/2011/05/03/2035005.html		super
+http://blog.csdn.net/caimouse/article/details/46489079				vars
+http://www.cnblogs.com/sesshoumaru/p/6130031.html				vars
+http://www.cnblogs.com/frydsh/archive/2012/07/10/2585370.html			zip
+http://david-je.iteye.com/blog/1756788						__import__()
+http://www.jb51.net/article/53044.htm						apply
+http://www.cnblogs.com/Lance-M/archive/2013/07/16/3193528.html			coerce
+https://www.androiddev.net/python8/						intern
+http://www.jb51.net/article/63208.htm						NotImplemented
+http://www.php.cn/python-tutorials-362830.html					python的常量
+http://bbs.csdn.net/topics/280046457						is is not == != 的区别
+http://blog.csdn.net/hunter8777/article/details/6413839				conjugate
 
 ()iter
 class fibo():
