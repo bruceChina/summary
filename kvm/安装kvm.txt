@@ -1,0 +1,30 @@
+http://www.cnblogs.com/ccskun/p/5527014.html
+http://jingyan.baidu.com/article/b907e627cfffc946e7891cd5.html
+
+()cpu开启虚拟化
+egrep "(svm|vmx)" /proc/cpuinfo
+如果有输出说明支持kvm虚拟化
+
+()安装kvm组件
+apt-get install qemu-kvm qemu virt-manager virt-viewer  libvirt-bin  bridge-utils
+apt-get install tigervnc-viewer
+
+()验证
+virsh -c qemu:///system list
+
+()创建目录
+mkdir -p /images/iso
+mkdir -p /images/test
+
+()下载iso镜像到/images/iso目录下
+CentOS-7-x86_64-Minimal-1611.iso
+
+()启动
+systemctl enable libvirtd
+
+()创建虚拟磁盘
+qemu-img create -f qcow2 /images/test/cent6.img 5G
+
+
+()创建虚拟机(需要在图形界面执行)
+virt-install --name cent7-test --hvm --ram 1024 --vcpus 1 --disk path=/images/test/cent6.img,size=10  --network network:default --accelerate  --vnc --vncport=5911 --cdrom /images/iso/CentOS-7-x86_64-Minimal-1611.iso -d

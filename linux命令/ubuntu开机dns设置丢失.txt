@@ -1,0 +1,2 @@
+http://www.360doc.com/content/15/0612/17/2571011_477677302.shtml
+https://unix.stackexchange.com/questions/128220/how-do-i-set-my-dns-when-resolv-conf-is-being-overwritten

@@ -1,0 +1,21 @@
+https://github.com/tesseract-ocr/tesseract
+https://centos.pkgs.org/7/puias-computational-x86_64/autoconf-archive-2016.09.16-1.sdl7.noarch.rpm.html
+https://github.com/tesseract-ocr/tesseract/blob/master/INSTALL.GIT.md
+
+()配置源
+vim /etc/apt/sources.list
+添加
+deb http://http.kali.org/kali kali-rolling main contrib non-free
+()添加依赖
+apt-get install libtool
+apt-get install automake
+apt-get install autoconf-archive
+apt-get install cpp-6
+apt-get install libleptonica-dev
+apt-get install pkg-config
+wget http://www.leptonica.org/source/leptonica-1.74.4.tar.gz
+tar -zxvf leptonica-1.74.4.tar.gz
+
+./configure
+make
+make install

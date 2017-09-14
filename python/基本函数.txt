@@ -52,9 +52,13 @@ http://www.jb51.net/article/53044.htm						apply
 http://www.cnblogs.com/Lance-M/archive/2013/07/16/3193528.html			coerce
 https://www.androiddev.net/python8/						intern
 http://www.jb51.net/article/63208.htm						NotImplemented
+http://blog.csdn.net/yueguanghaidao/article/details/38641251 NotImplemented
 http://www.php.cn/python-tutorials-362830.html					python的常量
 http://bbs.csdn.net/topics/280046457						is is not == != 的区别
 http://blog.csdn.net/hunter8777/article/details/6413839				conjugate
+https://zhidao.baidu.com/question/1540235771211153747.html			 ** 和 *
+https://www.keakon.net/2014/12/05/Python%E8%A3%85%E9%80%BC%E7%AF%87%E4%B9%8BEllipsis Ellipsis
+http://www.cnblogs.com/jsplyy/p/5634640.html	join
 
 ()iter
 class fibo():

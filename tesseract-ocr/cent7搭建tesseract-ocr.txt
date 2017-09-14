@@ -1,0 +1,15 @@
+https://github.com/tesseract-ocr/tesseract
+https://centos.pkgs.org/7/puias-computational-x86_64/autoconf-archive-2016.09.16-1.sdl7.noarch.rpm.html
+https://github.com/tesseract-ocr/tesseract/blob/master/INSTALL.GIT.md
+
+yum install gcc-c++
+yum install automake
+yum install libtool
+yum install giflib-devel
+yum install libjpeg-devel
+yum install libpng-devel
+yum install libtiff-devel
+yum install libwebp-devel
+wget http://springdale.math.ias.edu/data/puias/computational/7/x86_64//autoconf-archive-2016.09.16-1.sdl7.noarch.rpm
+rpm -ivh autoconf-archive-2016.09.16-1.sdl7.noarch.rpm
+rpm -ivh http://dl.fedoraproject.org/pub/epel/7/x86_64/l/leptonica-1.72-2.el7.x86_64.rpm

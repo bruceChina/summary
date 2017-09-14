@@ -1,0 +1,3 @@
+https://askubuntu.com/questions/2263/chkconfig-alternative-for-ubuntu-server
+
+apt-get install sysv-rc-conf
