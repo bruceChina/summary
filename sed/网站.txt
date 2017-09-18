@@ -1,1 +1,3 @@
 http://www.grymoire.com/Unix/Sed.html
+http://blog.csdn.net/dawnstar_hoo/article/details/4043887
+http://blog.csdn.net/imfinger/article/details/6071175
