@@ -1,2 +1,5 @@
+linux:
+
 ()文字处理
 awk sed cut 
+
