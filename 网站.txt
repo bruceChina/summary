@@ -1,18 +1,42 @@
-https://www.gnu.org/software/sed/manual/sed.html			sed
-https://www.gnu.org/software/gawk/manual/gawk.html			awk
-http://linuxcommand.org/learning_the_shell.php				shell
-http://www.freeos.com/guides/lsst/					shell
-http://www.centoscn.com/CentOS/						centos
-https://wiki.centos.org/HowTos						centos
-https://www.kali.org/penetration-testing-with-kali-linux/		kaliwiki
-https://tools.kali.org/tools-listing					kali工具
-http://www.jb51.net/article/64723.htm					图像相似度
-https://sourceforge.net/projects/razorbacktm/files/Razorback/		tcp packet inject
-https://docs.kali.org/							kali
-https://www.kali.org/kali-linux-documentation/				kali
-https://wiki.centos.org/Documentation					centos
-https://en.wikipedia.org/wiki/Portable_Executable			pe
-http://scapy.readthedocs.io/en/latest/build_dissect.html#simple-example	scapy
+()awk
+https://www.gnu.org/software/gawk/manual/gawk.html
+
+()centos
+http://www.centoscn.com/CentOS/	
+https://wiki.centos.org/HowTos
+https://wiki.centos.org/Documentation
+
+()image
+http://www.jb51.net/article/64723.htm	
+
+()kali
+https://www.kali.org/penetration-testing-with-kali-linux/
+https://tools.kali.org/tools-listing
+https://docs.kali.org
+https://www.kali.org/kali-linux-documentation/
+
+
+()pe
+https://en.wikipedia.org/wiki/Portable_Executable
+
+()scrapy
+http://scapy.readthedocs.io/en/latest/build_dissect.html#simple-example
+
+()sed
+https://www.gnu.org/software/sed/manual/sed.html
+http://www.grymoire.com/Unix/Sed.html
+http://blog.csdn.net/dawnstar_hoo/article/details/4043887
+http://blog.csdn.net/imfinger/article/details/6071175
+
+
+()shell
+http://linuxcommand.org/learning_the_shell.php
+http://www.freeos.com/guides/lsst/
+
+()tcp
+https://sourceforge.net/projects/razorbacktm/files/Razorback/
+
+
 
 
 			
