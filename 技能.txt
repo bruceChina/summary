@@ -1,5 +1,11 @@
 linux:
 
 ()文字处理
-awk sed cut 
+awk sed cut grep jq sort uniq tr
+
+()网页
+curl get elinks
+
+()性能
+uptime dmesg vmstat free mpstat iostat sar top
 
