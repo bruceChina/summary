@@ -1,10 +1,17 @@
 ()awk
 https://www.gnu.org/software/gawk/manual/gawk.html
 
+()cat
+http://os.51cto.com/art/201310/413568.htm
+
 ()centos
 http://www.centoscn.com/CentOS/	
 https://wiki.centos.org/HowTos
 https://wiki.centos.org/Documentation
+
+()hping
+http://man.linuxde.net/hping3
+http://19920624.blog.51cto.com/9632075/1584465
 
 ()image
 http://www.jb51.net/article/64723.htm	
@@ -15,6 +22,14 @@ https://tools.kali.org/tools-listing
 https://docs.kali.org
 https://www.kali.org/kali-linux-documentation/
 
+()ls
+https://linux.cn/article-5109-1.html
+https://linux.cn/article-5349-1-rel.html
+
+()nc
+http://blog.csdn.net/wang7dao/article/details/7684998
+http://19001989.blog.51cto.com/3447586/817751
+http://www.freebuf.com/articles/system/10632.html
 
 ()pe
 https://en.wikipedia.org/wiki/Portable_Executable
@@ -32,6 +47,9 @@ http://blog.csdn.net/imfinger/article/details/6071175
 ()shell
 http://linuxcommand.org/learning_the_shell.php
 http://www.freeos.com/guides/lsst/
+
+()sort
+http://www.cnblogs.com/51linux/archive/2012/05/23/2515299.html
 
 ()tcp
 https://sourceforge.net/projects/razorbacktm/files/Razorback/
