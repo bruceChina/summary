@@ -8,6 +8,7 @@ http://os.51cto.com/art/201310/413568.htm
 http://www.centoscn.com/CentOS/	
 https://wiki.centos.org/HowTos
 https://wiki.centos.org/Documentation
+http://www.cnblogs.com/neo98/articles/6185737.html
 
 ()hping
 http://man.linuxde.net/hping3
@@ -33,6 +34,9 @@ http://www.freebuf.com/articles/system/10632.html
 
 ()pe
 https://en.wikipedia.org/wiki/Portable_Executable
+
+()pptp
+http://www.cnblogs.com/f-society/p/5964897.html
 
 ()scrapy
 http://scapy.readthedocs.io/en/latest/build_dissect.html#simple-example
