@@ -8,11 +8,8 @@ http://os.51cto.com/art/201310/413568.htm
 http://www.centoscn.com/CentOS/	
 https://wiki.centos.org/HowTos
 https://wiki.centos.org/Documentation
-<<<<<<< HEAD
 http://www.cnblogs.com/neo98/articles/6185737.html
-=======
 http://blog.jobbole.com/111312/
->>>>>>> 73d7f9dcaa5805794e21cce56cae6697c18cd165
 
 ()hping
 http://man.linuxde.net/hping3
@@ -62,6 +59,7 @@ http://www.freeos.com/guides/lsst/
 
 ()sock5
 http://www.gznotes.com/centos-build-socksserver5/
+http://lxsym.blog.51cto.com/1364623/769691/
 
 ()sort
 http://www.cnblogs.com/51linux/archive/2012/05/23/2515299.html
