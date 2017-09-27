@@ -4,15 +4,21 @@ https://www.gnu.org/software/gawk/manual/gawk.html
 ()cat
 http://os.51cto.com/art/201310/413568.htm
 
+
+
 ()centos
 http://www.centoscn.com/CentOS/	
 https://wiki.centos.org/HowTos
 https://wiki.centos.org/Documentation
-<<<<<<< HEAD
 http://www.cnblogs.com/neo98/articles/6185737.html
-=======
 http://blog.jobbole.com/111312/
->>>>>>> 73d7f9dcaa5805794e21cce56cae6697c18cd165
+
+()english
+http://www.360doc.com/content/14/0722/20/18592067_396358377.shtml
+
+()git
+http://iissnan.com/progit/
+http://learngitbranching.js.org/
 
 ()hping
 http://man.linuxde.net/hping3
