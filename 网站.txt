@@ -64,6 +64,9 @@ http://lxsym.blog.51cto.com/1364623/769691/
 ()sort
 http://www.cnblogs.com/51linux/archive/2012/05/23/2515299.html
 
+()syslog
+http://blog.chinaunix.net/uid-25120309-id-3359929.html
+
 ()systemctl
 http://man.linuxde.net/systemctl
 
