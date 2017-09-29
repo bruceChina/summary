@@ -29,6 +29,9 @@ http://19920624.blog.51cto.com/9632075/1584465
 ()image
 http://www.jb51.net/article/64723.htm	
 
+()ipcs
+http://blog.csdn.net/yusiguyuan/article/details/12405669
+
 ()kali
 https://www.kali.org/penetration-testing-with-kali-linux/
 https://tools.kali.org/tools-listing
@@ -75,12 +78,25 @@ http://lxsym.blog.51cto.com/1364623/769691/
 ()sort
 http://www.cnblogs.com/51linux/archive/2012/05/23/2515299.html
 
+()syslog
+http://blog.chinaunix.net/uid-25120309-id-3359929.html
+
 ()systemctl
 http://man.linuxde.net/systemctl
 
 ()tcp
 https://sourceforge.net/projects/razorbacktm/files/Razorback/
 
+
+()zabbix
+http://www.zabbix.org.cn/viewtopic.php?f=12&t=68
+https://www.zabbix.com/documentation/3.0/manual/config/items/itemtypes/zabbix_agent?s[]=net&s[]=tcp&s[]=port
+http://www.linuxidc.com/Linux/2015-08/121799.htm
+http://renzhiyuan.blog.51cto.com/10433137/1901618
+http://blog.csdn.net/zhaoyangjian724/article/details/52944760
+http://blog.csdn.net/lamyuqingcsdn/article/details/52512603
+http://www.ttlsa.com/zabbix/zabbix-key-not-supported/
+http://www.ttlsa.com/zabbix/zabbix-monitor-logs/
 
 
 
