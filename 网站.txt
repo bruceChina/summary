@@ -18,6 +18,9 @@ http://19920624.blog.51cto.com/9632075/1584465
 ()image
 http://www.jb51.net/article/64723.htm	
 
+()ipcs
+http://blog.csdn.net/yusiguyuan/article/details/12405669
+
 ()kali
 https://www.kali.org/penetration-testing-with-kali-linux/
 https://tools.kali.org/tools-listing
