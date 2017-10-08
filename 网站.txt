@@ -86,6 +86,7 @@ http://blog.chinaunix.net/uid-25120309-id-3359929.html
 
 ()systemctl
 http://man.linuxde.net/systemctl
+http://www.linuxidc.com/Linux/2014-07/104487.htm
 
 ()tcp
 https://sourceforge.net/projects/razorbacktm/files/Razorback/
@@ -101,7 +102,8 @@ http://blog.csdn.net/lamyuqingcsdn/article/details/52512603
 http://www.ttlsa.com/zabbix/zabbix-key-not-supported/
 http://www.ttlsa.com/zabbix/zabbix-monitor-logs/
 http://www.linuxidc.com/Linux/2016-11/137717.htm
-
+http://www.361way.com/zabbix-change-passord/3652.html
+http://blog.csdn.net/hanzheng260561728/article/details/51514398  
 
 
 			
