@@ -42,6 +42,9 @@ https://www.kali.org/kali-linux-documentation/
 https://linux.cn/article-5109-1.html
 https://linux.cn/article-5349-1-rel.html
 
+()mysql
+http://www.linuxidc.com/Linux/2016-09/134940.htm
+
 ()nc
 http://blog.csdn.net/wang7dao/article/details/7684998
 http://19001989.blog.51cto.com/3447586/817751
@@ -97,6 +100,7 @@ http://blog.csdn.net/zhaoyangjian724/article/details/52944760
 http://blog.csdn.net/lamyuqingcsdn/article/details/52512603
 http://www.ttlsa.com/zabbix/zabbix-key-not-supported/
 http://www.ttlsa.com/zabbix/zabbix-monitor-logs/
+http://www.linuxidc.com/Linux/2016-11/137717.htm
 
 
 
