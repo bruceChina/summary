@@ -5,6 +5,9 @@ https://www.gnu.org/software/gawk/manual/gawk.html
 http://www.opstool.com/article/336
 https://github.com/antlr/antlr4/blob/master/doc/getting-started.md
 https://github.com/antlr/antlr4/blob/master/doc/python-target.md
+http://blog.chinaunix.net/xmlrpc.php?r=blog/article&uid=8333115&id=4282818
+http://www.tuicool.com/articles/NnA3emi
+
 ()cat
 http://os.51cto.com/art/201310/413568.htm
 
