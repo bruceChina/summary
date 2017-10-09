@@ -68,7 +68,7 @@ http://www.cnblogs.com/f-society/p/5964897.html
 
 ()python
 http://www.ttlsa.com/python/python-big-data-analysis-init/
-
+http://python.jobbole.com/85398/
 
 ()scrapy
 http://scapy.readthedocs.io/en/latest/build_dissect.html#simple-example
