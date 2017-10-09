@@ -21,6 +21,9 @@ http://blog.jobbole.com/111312/
 ()english
 http://www.360doc.com/content/14/0722/20/18592067_396358377.shtml
 
+()fiddler
+http://www.cnblogs.com/yyhh/p/5140852.html
+
 ()git
 http://iissnan.com/progit/
 http://learngitbranching.js.org/
@@ -63,6 +66,10 @@ https://en.wikipedia.org/wiki/Portable_Executable
 ()pptp
 http://www.cnblogs.com/f-society/p/5964897.html
 
+()python
+http://www.ttlsa.com/python/python-big-data-analysis-init/
+
+
 ()scrapy
 http://scapy.readthedocs.io/en/latest/build_dissect.html#simple-example
 
@@ -85,6 +92,9 @@ http://lxsym.blog.51cto.com/1364623/769691/
 ()sort
 http://www.cnblogs.com/51linux/archive/2012/05/23/2515299.html
 
+()swap
+http://blog.csdn.net/niuzhihuan/article/details/50522138
+
 ()syslog
 http://blog.chinaunix.net/uid-25120309-id-3359929.html
 
@@ -95,6 +105,8 @@ http://www.linuxidc.com/Linux/2014-07/104487.htm
 ()tcp
 https://sourceforge.net/projects/razorbacktm/files/Razorback/
 
+()winsock
+http://www.sockets.com/
 
 ()zabbix
 http://www.zabbix.org.cn/viewtopic.php?f=12&t=68
@@ -108,6 +120,7 @@ http://www.ttlsa.com/zabbix/zabbix-monitor-logs/
 http://www.linuxidc.com/Linux/2016-11/137717.htm
 http://www.361way.com/zabbix-change-passord/3652.html
 http://blog.csdn.net/hanzheng260561728/article/details/51514398  
+http://blog.csdn.net/qq_33588470/article/details/53200815
 
 
 			
