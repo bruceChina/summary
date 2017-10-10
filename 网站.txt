@@ -72,6 +72,11 @@ http://www.cnblogs.com/f-society/p/5964897.html
 ()python
 http://www.ttlsa.com/python/python-big-data-analysis-init/
 http://python.jobbole.com/85398/
+http://python.jobbole.com/88325/?utm_source=blog.jobbole.com&utm_medium=relatedPosts
+http://www.cnblogs.com/wly923/archive/2013/05/07/3057122.html
+http://cuiqingcai.com/1319.html
+http://blog.csdn.net/lanyang123456/article/details/71023666
+http://blog.chinaunix.net/uid-21633169-id-4396998.html
 
 ()scrapy
 http://scapy.readthedocs.io/en/latest/build_dissect.html#simple-example
@@ -87,6 +92,7 @@ http://blog.chinaunix.net/uid-24904099-id-298600.html
 ()shell
 http://linuxcommand.org/learning_the_shell.php
 http://www.freeos.com/guides/lsst/
+http://www.cnblogs.com/liujiahi/archive/2011/03/30/2196400.html
 
 ()sock5
 http://www.gznotes.com/centos-build-socksserver5/
@@ -110,6 +116,9 @@ https://sourceforge.net/projects/razorbacktm/files/Razorback/
 
 ()winsock
 http://www.sockets.com/
+
+()yum
+http://blog.csdn.net/liaowu912/article/details/70198128
 
 ()zabbix
 http://www.zabbix.org.cn/viewtopic.php?f=12&t=68
