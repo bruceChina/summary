@@ -77,6 +77,7 @@ http://www.cnblogs.com/wly923/archive/2013/05/07/3057122.html
 http://cuiqingcai.com/1319.html
 http://blog.csdn.net/lanyang123456/article/details/71023666
 http://blog.chinaunix.net/uid-21633169-id-4396998.html
+http://blog.csdn.net/u010099080/article/details/52912439
 
 ()scrapy
 http://scapy.readthedocs.io/en/latest/build_dissect.html#simple-example
