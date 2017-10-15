@@ -114,6 +114,9 @@ http://lxsym.blog.51cto.com/1364623/769691/
 ()sort
 http://www.cnblogs.com/51linux/archive/2012/05/23/2515299.html
 
+()ssdt
+http://blog.csdn.net/flyingleo1981/article/details/47276173
+
 ()swap
 http://blog.csdn.net/niuzhihuan/article/details/50522138
 
