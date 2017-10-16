@@ -1,5 +1,6 @@
 ()awk
 https://www.gnu.org/software/gawk/manual/gawk.html
+http://www.cnblogs.com/ggjucheng/archive/2013/01/13/2858470.html
 
 ()antlr4
 http://www.opstool.com/article/336
@@ -44,6 +45,11 @@ http://www.jb51.net/article/64723.htm
 
 ()ipcs
 http://blog.csdn.net/yusiguyuan/article/details/12405669
+
+()jq
+http://blog.chinaunix.net/uid-24774106-id-3830242.html
+https://stedolan.github.io/jq/
+https://www.ibm.com/developerworks/cn/linux/1612_chengg_jq/index.html?ca=drs-&utm_source=tuicool&utm_medium=referral
 
 ()kali
 https://www.kali.org/penetration-testing-with-kali-linux/
@@ -106,6 +112,7 @@ http://blog.chinaunix.net/uid-24904099-id-298600.html
 http://linuxcommand.org/learning_the_shell.php
 http://www.freeos.com/guides/lsst/
 http://www.cnblogs.com/liujiahi/archive/2011/03/30/2196400.html
+http://www.cnblogs.com/Joke-Shi/p/5705856.html
 
 ()sock5
 http://www.gznotes.com/centos-build-socksserver5/
@@ -150,6 +157,8 @@ http://www.361way.com/zabbix-change-passord/3652.html
 http://blog.csdn.net/hanzheng260561728/article/details/51514398  
 http://blog.csdn.net/qq_33588470/article/details/53200815
 http://kaibinyuan.blog.51cto.com/7304008/1629702
+http://www.sohu.com/a/110318557_354963
+http://www.linuxidc.com/Linux/2014-02/96997.htm
 
 
 			
