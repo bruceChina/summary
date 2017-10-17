@@ -64,6 +64,10 @@ https://linux.cn/article-5349-1-rel.html
 
 ()mysql
 http://www.linuxidc.com/Linux/2016-09/134940.htm
+http://www.cnblogs.com/softidea/p/6135097.html
+https://zhidao.baidu.com/question/268760662330435805.html
+http://blog.csdn.net/lyd518/article/details/20703095
+http://blog.csdn.net/nanamasuda/article/details/52543177
 
 ()nc
 http://blog.csdn.net/wang7dao/article/details/7684998
@@ -113,6 +117,9 @@ http://linuxcommand.org/learning_the_shell.php
 http://www.freeos.com/guides/lsst/
 http://www.cnblogs.com/liujiahi/archive/2011/03/30/2196400.html
 http://www.cnblogs.com/Joke-Shi/p/5705856.html
+http://www.cnblogs.com/davygeek/p/5670212.html
+http://blog.csdn.net/duan19056/article/details/41277869
+
 
 ()sock5
 http://www.gznotes.com/centos-build-socksserver5/
@@ -139,6 +146,9 @@ https://sourceforge.net/projects/razorbacktm/files/Razorback/
 
 ()tcpreplay
 http://www.cnblogs.com/legendbaby/archive/2015/12/18/5056114.html
+
+()vim
+http://blog.csdn.net/wrwerew/article/details/43054065
 
 ()winsock
 http://www.sockets.com/
