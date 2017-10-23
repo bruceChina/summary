@@ -155,8 +155,11 @@ http://blog.csdn.net/wrwerew/article/details/43054065
 ()winsock
 http://www.sockets.com/
 
+
 ()wireshark
 https://www.zhihu.com/question/36125941
+http://blog.csdn.net/hzhsan/article/details/43453251
+http://www.cnblogs.com/kabi/p/6113768.html
 
 ()yum
 http://blog.csdn.net/liaowu912/article/details/70198128
@@ -177,6 +180,7 @@ http://blog.csdn.net/qq_33588470/article/details/53200815
 http://kaibinyuan.blog.51cto.com/7304008/1629702
 http://www.sohu.com/a/110318557_354963
 http://www.linuxidc.com/Linux/2014-02/96997.htm
+
 
 
 			
