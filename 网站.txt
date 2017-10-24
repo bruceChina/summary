@@ -22,6 +22,9 @@ http://www.cnblogs.com/neo98/articles/6185737.html
 http://blog.jobbole.com/111312/
 
 
+()chkconfig
+http://permiss.iteye.com/blog/1729700
+
 ()django
 http://www.jianshu.com/p/3bf9fb2a7e31
 http://www.linuxidc.com/Linux/2014-11/109242.htm
@@ -155,6 +158,7 @@ http://www.cnblogs.com/legendbaby/archive/2015/12/18/5056114.html
 
 ()vim
 http://blog.csdn.net/wrwerew/article/details/43054065
+http://www.cnblogs.com/zhanghaifeng/archive/2012/07/16/2592998.html
 
 ()winsock
 http://www.sockets.com/
