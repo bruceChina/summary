@@ -24,9 +24,14 @@ https://wiki.centos.org/Documentation
 http://www.cnblogs.com/neo98/articles/6185737.html
 http://blog.jobbole.com/111312/
 
+()chage
+https://zhidao.baidu.com/question/227313834.html
 
 ()chkconfig
 http://permiss.iteye.com/blog/1729700
+
+()date
+http://blog.csdn.net/xiezuoyong/article/details/49890695
 
 ()django
 http://www.jianshu.com/p/3bf9fb2a7e31
@@ -105,6 +110,10 @@ http://cuiqingcai.com/1319.html
 http://blog.csdn.net/lanyang123456/article/details/71023666
 http://blog.chinaunix.net/uid-21633169-id-4396998.html
 http://blog.csdn.net/u010099080/article/details/52912439
+http://blog.csdn.net/ithomer/article/details/5969442
+http://blog.csdn.net/u014745194/article/details/71482588
+http://blog.csdn.net/alb234234/article/details/45073609
+http://blog.csdn.net/csdn_moming/article/details/51202650
 
 ()rootkit
 http://blog.csdn.net/bcbobo21cn/article/details/51145258
@@ -132,6 +141,7 @@ http://www.cnblogs.com/liujiahi/archive/2011/03/30/2196400.html
 http://www.cnblogs.com/Joke-Shi/p/5705856.html
 http://www.cnblogs.com/davygeek/p/5670212.html
 http://blog.csdn.net/duan19056/article/details/41277869
+
 
 
 ()sock5
@@ -175,6 +185,7 @@ http://www.sockets.com/
 https://www.zhihu.com/question/36125941
 http://blog.csdn.net/hzhsan/article/details/43453251
 http://www.cnblogs.com/kabi/p/6113768.html
+http://blog.csdn.net/qq_29277155/article/details/52099967
 
 ()yum
 http://blog.csdn.net/liaowu912/article/details/70198128
@@ -195,6 +206,7 @@ http://blog.csdn.net/qq_33588470/article/details/53200815
 http://kaibinyuan.blog.51cto.com/7304008/1629702
 http://www.sohu.com/a/110318557_354963
 http://www.linuxidc.com/Linux/2014-02/96997.htm
+http://www.cnblogs.com/aslongas/p/5706941.html
 
 
 
