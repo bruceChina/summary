@@ -100,6 +100,9 @@ https://en.wikipedia.org/wiki/Portable_Executable
 
 ()pptp
 http://www.cnblogs.com/f-society/p/5964897.html
+http://navyaijm.blog.51cto.com/4647068/816605
+http://pptpclient.sourceforge.net/howto-diagnosis.phtml#lcp_protrej_1
+http://blog.163.com/sg_liao/blog/static/295770832010111812110294/
 
 ()python
 http://www.ttlsa.com/python/python-big-data-analysis-init/
@@ -144,9 +147,10 @@ http://blog.csdn.net/duan19056/article/details/41277869
 
 
 
-()sock5
+()socks5
 http://www.gznotes.com/centos-build-socksserver5/
 http://lxsym.blog.51cto.com/1364623/769691/
+https://www.proxyrack.com/how-to-setup-a-socks5-proxy-server-using-ss5-on-centos7/
 
 ()sort
 http://www.cnblogs.com/51linux/archive/2012/05/23/2515299.html
@@ -169,6 +173,9 @@ http://www.linuxidc.com/Linux/2014-07/104487.htm
 
 ()tcp
 https://sourceforge.net/projects/razorbacktm/files/Razorback/
+
+()tcpdump
+http://blog.sina.com.cn/s/blog_45497dfa0100jrdj.html
 
 ()tcpreplay
 http://www.cnblogs.com/legendbaby/archive/2015/12/18/5056114.html
@@ -207,6 +214,7 @@ http://kaibinyuan.blog.51cto.com/7304008/1629702
 http://www.sohu.com/a/110318557_354963
 http://www.linuxidc.com/Linux/2014-02/96997.htm
 http://www.cnblogs.com/aslongas/p/5706941.html
+http://www.ttlsa.com/zabbix/zabbix-active-and-passive-checks/
 
 
 
