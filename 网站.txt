@@ -163,6 +163,7 @@ http://blog.csdn.net/flyingleo1981/article/details/47276173
 
 ()swap
 http://blog.csdn.net/niuzhihuan/article/details/50522138
+http://blog.csdn.net/qq_23191031/article/details/50875847
 
 ()syslog
 http://blog.chinaunix.net/uid-25120309-id-3359929.html
@@ -183,6 +184,8 @@ http://www.cnblogs.com/legendbaby/archive/2015/12/18/5056114.html
 ()vim
 http://blog.csdn.net/wrwerew/article/details/43054065
 http://www.cnblogs.com/zhanghaifeng/archive/2012/07/16/2592998.html
+https://github.com/ma6174/vim
+http://blog.csdn.net/u012450329/article/details/52539058
 
 ()winsock
 http://www.sockets.com/
@@ -215,6 +218,9 @@ http://www.sohu.com/a/110318557_354963
 http://www.linuxidc.com/Linux/2014-02/96997.htm
 http://www.cnblogs.com/aslongas/p/5706941.html
 http://www.ttlsa.com/zabbix/zabbix-active-and-passive-checks/
+
+()zip
+http://blog.csdn.net/ydt_lwj/article/details/8206404
 
 
 
