@@ -42,6 +42,7 @@ http://blog.csdn.net/boycycyzero/article/details/42787797
 http://www.cnblogs.com/zwj1112/p/5392235.html
 http://www.cnblogs.com/haoshine/p/5391519.html
 http://www.cnblogs.com/starof/p/4724381.html
+http://blog.csdn.net/Z_LiT0/article/details/51992307
 
 ()english
 http://www.360doc.com/content/14/0722/20/18592067_396358377.shtml
@@ -135,6 +136,8 @@ http://www.grymoire.com/Unix/Sed.html
 http://blog.csdn.net/dawnstar_hoo/article/details/4043887
 http://blog.csdn.net/imfinger/article/details/6071175
 http://blog.chinaunix.net/uid-24904099-id-298600.html
+http://aurelio.net/projects/sedsed/
+http://kodango.com/sed-and-awk-notes-part-5
 
 
 ()shell
@@ -171,6 +174,9 @@ http://blog.chinaunix.net/uid-25120309-id-3359929.html
 ()systemctl
 http://man.linuxde.net/systemctl
 http://www.linuxidc.com/Linux/2014-07/104487.htm
+
+()tar
+http://blog.csdn.net/eroswang/article/details/5555415/
 
 ()tcp
 https://sourceforge.net/projects/razorbacktm/files/Razorback/
@@ -219,6 +225,7 @@ http://www.sohu.com/a/110318557_354963
 http://www.linuxidc.com/Linux/2014-02/96997.htm
 http://www.cnblogs.com/aslongas/p/5706941.html
 http://www.ttlsa.com/zabbix/zabbix-active-and-passive-checks/
+http://blog.zabbix.com/multiple-servers-for-active-agent-sure/858/
 
 ()zip
 http://blog.csdn.net/ydt_lwj/article/details/8206404
