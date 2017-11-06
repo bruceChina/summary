@@ -43,6 +43,7 @@ http://www.cnblogs.com/zwj1112/p/5392235.html
 http://www.cnblogs.com/haoshine/p/5391519.html
 http://www.cnblogs.com/starof/p/4724381.html
 http://blog.csdn.net/Z_LiT0/article/details/51992307
+http://www.cnblogs.com/yangshl/p/6405796.html
 
 ()english
 http://www.360doc.com/content/14/0722/20/18592067_396358377.shtml
@@ -80,6 +81,10 @@ http://www.dmzlab.com/77449.html
 ()ls
 https://linux.cn/article-5109-1.html
 https://linux.cn/article-5349-1-rel.html
+
+()matplotlib
+http://www.cnblogs.com/kemaswill/archive/2012/12/07/2807963.html
+http://www.cnblogs.com/frchen/p/5725893.html
 
 ()mysql
 http://www.linuxidc.com/Linux/2016-09/134940.htm
