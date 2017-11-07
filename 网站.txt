@@ -198,6 +198,7 @@ http://www.cnblogs.com/zhanghaifeng/archive/2012/07/16/2592998.html
 https://github.com/ma6174/vim
 http://blog.csdn.net/u012450329/article/details/52539058
 http://www.cnblogs.com/zhangsf/archive/2013/06/13/3134409.html
+http://blog.csdn.net/ermuzhi/article/details/39496103
 
 ()winsock
 http://www.sockets.com/
@@ -208,6 +209,10 @@ https://www.zhihu.com/question/36125941
 http://blog.csdn.net/hzhsan/article/details/43453251
 http://www.cnblogs.com/kabi/p/6113768.html
 http://blog.csdn.net/qq_29277155/article/details/52099967
+
+()xmlgawk
+http://gawkextlib.sourceforge.net/xmlgawk.html
+http://lml.ls.fi.upm.es/~mcollado/gawkextlib/
 
 ()yum
 http://blog.csdn.net/liaowu912/article/details/70198128
