@@ -1,6 +1,7 @@
-()awk
-https://www.gnu.org/software/gawk/manual/gawk.html
-http://www.cnblogs.com/ggjucheng/archive/2013/01/13/2858470.html
+()apt
+https://www.cnblogs.com/mufire/p/6433757.html
+http://blog.csdn.net/qq_24805141/article/details/52838730
+
 
 ()antlr4
 http://www.opstool.com/article/336
@@ -8,6 +9,11 @@ https://github.com/antlr/antlr4/blob/master/doc/getting-started.md
 https://github.com/antlr/antlr4/blob/master/doc/python-target.md
 http://blog.chinaunix.net/xmlrpc.php?r=blog/article&uid=8333115&id=4282818
 http://www.tuicool.com/articles/NnA3emi
+
+()awk
+https://www.gnu.org/software/gawk/manual/gawk.html
+http://www.cnblogs.com/ggjucheng/archive/2013/01/13/2858470.html
+
 
 ()bootstrap
 http://www.linuxidc.com/Linux/2013-08/88764.htm
@@ -82,9 +88,13 @@ http://www.dmzlab.com/77449.html
 https://linux.cn/article-5109-1.html
 https://linux.cn/article-5349-1-rel.html
 
+()jijin
+https://www.zhihu.com/question/22808182/answer/23827757?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title
+
 ()matplotlib
 http://www.cnblogs.com/kemaswill/archive/2012/12/07/2807963.html
 http://www.cnblogs.com/frchen/p/5725893.html
+http://blog.csdn.net/u010099080/article/details/52912439
 
 ()mysql
 http://www.linuxidc.com/Linux/2016-09/134940.htm
@@ -123,6 +133,7 @@ http://blog.csdn.net/ithomer/article/details/5969442
 http://blog.csdn.net/u014745194/article/details/71482588
 http://blog.csdn.net/alb234234/article/details/45073609
 http://blog.csdn.net/csdn_moming/article/details/51202650
+https://zhidao.baidu.com/question/625819214586067724.html
 
 ()rootkit
 http://blog.csdn.net/bcbobo21cn/article/details/51145258
@@ -180,6 +191,10 @@ http://blog.chinaunix.net/uid-25120309-id-3359929.html
 http://man.linuxde.net/systemctl
 http://www.linuxidc.com/Linux/2014-07/104487.htm
 
+
+()tac
+https://www.cnblogs.com/wcwen1990/p/7028141.html
+
 ()tar
 http://blog.csdn.net/eroswang/article/details/5555415/
 
@@ -192,6 +207,9 @@ http://blog.sina.com.cn/s/blog_45497dfa0100jrdj.html
 ()tcpreplay
 http://www.cnblogs.com/legendbaby/archive/2015/12/18/5056114.html
 
+()tsocks
+http://www.51testing.com/html/38/225738-246084.html
+
 ()vim
 http://blog.csdn.net/wrwerew/article/details/43054065
 http://www.cnblogs.com/zhanghaifeng/archive/2012/07/16/2592998.html
@@ -199,6 +217,7 @@ https://github.com/ma6174/vim
 http://blog.csdn.net/u012450329/article/details/52539058
 http://www.cnblogs.com/zhangsf/archive/2013/06/13/3134409.html
 http://blog.csdn.net/ermuzhi/article/details/39496103
+http://blog.csdn.net/jiang1013nan/article/details/6298727
 
 ()winsock
 http://www.sockets.com/
@@ -239,6 +258,9 @@ http://blog.zabbix.com/multiple-servers-for-active-agent-sure/858/
 
 ()zip
 http://blog.csdn.net/ydt_lwj/article/details/8206404
+
+()else
+http://blog.csdn.net/qq_22918577/article/details/46976041
 
 
 
