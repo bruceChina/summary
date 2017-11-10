@@ -123,6 +123,13 @@ http://blog.csdn.net/ithomer/article/details/5969442
 http://blog.csdn.net/u014745194/article/details/71482588
 http://blog.csdn.net/alb234234/article/details/45073609
 http://blog.csdn.net/csdn_moming/article/details/51202650
+https://www.cnblogs.com/TankXiao/p/3038350.html
+https://www.cnblogs.com/wspcoding/p/5557792.html
+https://www.cnblogs.com/qingergege/p/6104577.html
+https://www.cnblogs.com/plwang1990/p/3757549.html
+https://www.cnblogs.com/wspcoding/p/5557792.html
+
+
 
 ()rootkit
 http://blog.csdn.net/bcbobo21cn/article/details/51145258
@@ -239,6 +246,9 @@ http://blog.zabbix.com/multiple-servers-for-active-agent-sure/858/
 
 ()zip
 http://blog.csdn.net/ydt_lwj/article/details/8206404
+
+()对齐
+https://www.cnblogs.com/qingergege/p/6104577.html
 
 
 
