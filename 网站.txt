@@ -88,6 +88,9 @@ http://www.dmzlab.com/77449.html
 https://linux.cn/article-5109-1.html
 https://linux.cn/article-5349-1-rel.html
 
+()locate
+http://blog.csdn.net/feifeilyj/article/details/52238209
+
 ()jijin
 https://www.zhihu.com/question/22808182/answer/23827757?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title
 
@@ -269,6 +272,8 @@ http://blog.csdn.net/ydt_lwj/article/details/8206404
 
 ()else
 http://blog.csdn.net/qq_22918577/article/details/46976041
+http://os.51cto.com/art/201709/553197.htm
+https://wenku.baidu.com/view/52e9642e647d27284b73516f.html
 
 ()对齐
 https://www.cnblogs.com/qingergege/p/6104577.html
