@@ -133,17 +133,15 @@ http://blog.csdn.net/ithomer/article/details/5969442
 http://blog.csdn.net/u014745194/article/details/71482588
 http://blog.csdn.net/alb234234/article/details/45073609
 http://blog.csdn.net/csdn_moming/article/details/51202650
-<<<<<<< HEAD
 https://zhidao.baidu.com/question/625819214586067724.html
-=======
 https://www.cnblogs.com/TankXiao/p/3038350.html
 https://www.cnblogs.com/wspcoding/p/5557792.html
 https://www.cnblogs.com/qingergege/p/6104577.html
 https://www.cnblogs.com/plwang1990/p/3757549.html
 https://www.cnblogs.com/wspcoding/p/5557792.html
+https://www.cnblogs.com/mengyixuan/p/3942177.html
+https://www.cnblogs.com/captain_jack/archive/2011/01/11/1933366.html
 
-
->>>>>>> fb767cdffb570858c5d90dd954f62522a66f11af
 
 ()rootkit
 http://blog.csdn.net/bcbobo21cn/article/details/51145258
@@ -269,13 +267,12 @@ http://blog.zabbix.com/multiple-servers-for-active-agent-sure/858/
 ()zip
 http://blog.csdn.net/ydt_lwj/article/details/8206404
 
-<<<<<<< HEAD
 ()else
 http://blog.csdn.net/qq_22918577/article/details/46976041
-=======
+
 ()对齐
 https://www.cnblogs.com/qingergege/p/6104577.html
->>>>>>> fb767cdffb570858c5d90dd954f62522a66f11af
+
 
 
 
