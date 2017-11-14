@@ -84,6 +84,11 @@ https://docs.kali.org
 https://www.kali.org/kali-linux-documentation/
 http://www.dmzlab.com/77449.html
 
+()lib
+http://blog.csdn.net/cpplang/article/details/8462768
+http://cnodejs.org/topic/56dc21f1502596633dc2c3dc
+http://blog.csdn.net/testcs_dn/article/details/45437481
+
 ()ls
 https://linux.cn/article-5109-1.html
 https://linux.cn/article-5349-1-rel.html
