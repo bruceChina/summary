@@ -110,6 +110,9 @@ http://www.cnblogs.com/softidea/p/6135097.html
 https://zhidao.baidu.com/question/268760662330435805.html
 http://blog.csdn.net/lyd518/article/details/20703095
 http://blog.csdn.net/nanamasuda/article/details/52543177
+http://www.linuxidc.com/Linux/2016-09/134940.htm
+https://www.cnblogs.com/starof/p/4680083.html
+https://www.cnblogs.com/yuwensong/p/3955834.html
 
 ()nc
 http://blog.csdn.net/wang7dao/article/details/7684998
@@ -271,6 +274,7 @@ http://www.linuxidc.com/Linux/2014-02/96997.htm
 http://www.cnblogs.com/aslongas/p/5706941.html
 http://www.ttlsa.com/zabbix/zabbix-active-and-passive-checks/
 http://blog.zabbix.com/multiple-servers-for-active-agent-sure/858/
+https://www.cnblogs.com/XYJK1002/p/5324293.html
 
 ()zip
 http://blog.csdn.net/ydt_lwj/article/details/8206404
