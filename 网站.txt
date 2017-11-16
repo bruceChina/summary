@@ -13,6 +13,9 @@ http://www.tuicool.com/articles/NnA3emi
 ()awk
 https://www.gnu.org/software/gawk/manual/gawk.html
 http://www.cnblogs.com/ggjucheng/archive/2013/01/13/2858470.html
+https://www.cnblogs.com/children/archive/2012/06/28/2567535.html
+http://blog.csdn.net/cy_cai/article/details/41908921
+
 
 
 ()bootstrap
@@ -38,6 +41,8 @@ http://permiss.iteye.com/blog/1729700
 
 ()date
 http://blog.csdn.net/xiezuoyong/article/details/49890695
+http://www.opstool.com/article/224
+
 
 ()django
 http://www.jianshu.com/p/3bf9fb2a7e31
@@ -50,6 +55,9 @@ http://www.cnblogs.com/haoshine/p/5391519.html
 http://www.cnblogs.com/starof/p/4724381.html
 http://blog.csdn.net/Z_LiT0/article/details/51992307
 http://www.cnblogs.com/yangshl/p/6405796.html
+
+()echarts
+http://echarts.baidu.com/api.html#echarts
 
 ()english
 http://www.360doc.com/content/14/0722/20/18592067_396358377.shtml
@@ -113,6 +121,9 @@ http://blog.csdn.net/nanamasuda/article/details/52543177
 http://www.linuxidc.com/Linux/2016-09/134940.htm
 https://www.cnblogs.com/starof/p/4680083.html
 https://www.cnblogs.com/yuwensong/p/3955834.html
+http://blog.itpub.net/12762446/viewspace-1195014/
+http://blog.csdn.net/sakura2370/article/details/53201187
+https://www.cnblogs.com/Jie-Jack/p/3793304.html
 
 ()nc
 http://blog.csdn.net/wang7dao/article/details/7684998
@@ -173,6 +184,7 @@ http://blog.csdn.net/imfinger/article/details/6071175
 http://blog.chinaunix.net/uid-24904099-id-298600.html
 http://aurelio.net/projects/sedsed/
 http://kodango.com/sed-and-awk-notes-part-5
+http://blog.chinaunix.net/uid-10540984-id-2894287.html
 
 
 ()shell
@@ -275,6 +287,7 @@ http://www.cnblogs.com/aslongas/p/5706941.html
 http://www.ttlsa.com/zabbix/zabbix-active-and-passive-checks/
 http://blog.zabbix.com/multiple-servers-for-active-agent-sure/858/
 https://www.cnblogs.com/XYJK1002/p/5324293.html
+https://www.cnblogs.com/shhnwangjian/p/5484352.html
 
 ()zip
 http://blog.csdn.net/ydt_lwj/article/details/8206404
