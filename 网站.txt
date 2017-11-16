@@ -119,6 +119,10 @@ http://blog.csdn.net/wang7dao/article/details/7684998
 http://19001989.blog.51cto.com/3447586/817751
 http://www.freebuf.com/articles/system/10632.html
 
+()network
+http://www.linuxidc.com/Linux/2014-07/104537.htm
+http://blog.csdn.net/jcxch/article/details/48632761
+
 ()nslookup
 http://blog.csdn.net/heiyueya/article/details/64121630
 
@@ -173,6 +177,7 @@ http://blog.csdn.net/imfinger/article/details/6071175
 http://blog.chinaunix.net/uid-24904099-id-298600.html
 http://aurelio.net/projects/sedsed/
 http://kodango.com/sed-and-awk-notes-part-5
+http://www.jb51.net/article/33509.htm
 
 
 ()shell
