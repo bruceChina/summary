@@ -127,6 +127,7 @@ https://www.cnblogs.com/Jie-Jack/p/3793304.html
 https://www.cnblogs.com/shootercheng/p/5836657.html
 http://blog.csdn.net/superit401/article/details/49797387
 https://www.cnblogs.com/hustcat/archive/2009/10/28/1591648.html
+https://www.cnblogs.com/mr-level/p/6386585.html
 
 ()nc
 http://blog.csdn.net/wang7dao/article/details/7684998
@@ -299,6 +300,8 @@ http://www.ttlsa.com/zabbix/zabbix-active-and-passive-checks/
 http://blog.zabbix.com/multiple-servers-for-active-agent-sure/858/
 https://www.cnblogs.com/XYJK1002/p/5324293.html
 https://www.cnblogs.com/shhnwangjian/p/5484352.html
+https://share.zabbix.com/databases/mysql/template-mysql-800-items
+https://www.ibm.com/support/knowledgecenter/en/SSVV6P/Monitoring/applymysqlmonitoringtemplatetovm.html
 
 ()zip
 http://blog.csdn.net/ydt_lwj/article/details/8206404
