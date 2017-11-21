@@ -80,6 +80,9 @@ http://www.jb51.net/article/64723.htm
 ()ipcs
 http://blog.csdn.net/yusiguyuan/article/details/12405669
 
+()jpages
+http://luis-almeida.github.io/jPages/
+
 ()jq
 http://blog.chinaunix.net/uid-24774106-id-3830242.html
 https://stedolan.github.io/jq/
