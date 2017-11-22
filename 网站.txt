@@ -55,6 +55,7 @@ http://www.cnblogs.com/haoshine/p/5391519.html
 http://www.cnblogs.com/starof/p/4724381.html
 http://blog.csdn.net/Z_LiT0/article/details/51992307
 http://www.cnblogs.com/yangshl/p/6405796.html
+http://python.usyiyi.cn/documents/django_182/index.html
 
 ()echarts
 http://echarts.baidu.com/api.html#echarts
@@ -279,6 +280,7 @@ https://www.zhihu.com/question/36125941
 http://blog.csdn.net/hzhsan/article/details/43453251
 http://www.cnblogs.com/kabi/p/6113768.html
 http://blog.csdn.net/qq_29277155/article/details/52099967
+https://www.cnblogs.com/ImBit/p/5513401.html
 
 ()xmlgawk
 http://gawkextlib.sourceforge.net/xmlgawk.html
