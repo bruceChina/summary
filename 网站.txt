@@ -108,6 +108,14 @@ https://linux.cn/article-5349-1-rel.html
 ()locate
 http://blog.csdn.net/feifeilyj/article/details/52238209
 
+()lvm
+https://www.cnblogs.com/gaojun/archive/2012/08/22/2650229.html
+http://blog.csdn.net/sdu_king/article/details/74933121
+http://bbs.51cto.com/thread-975583-1.html
+http://blog.csdn.net/komi007/article/details/8199894
+http://bbs.chinaunix.net/thread-1924539-1-1.html
+http://blog.csdn.net/linshenyuan1213/article/details/49902527
+
 ()jijin
 https://www.zhihu.com/question/22808182/answer/23827757?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title
 
