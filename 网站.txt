@@ -92,6 +92,10 @@ http://www.jb51.net/article/64723.htm
 ()ipcs
 http://blog.csdn.net/yusiguyuan/article/details/12405669
 
+()jedi-vim
+https://github.com/davidhalter/jedi-vim/blob/master/doc/jedi-vim.txt
+https://github.com/VundleVim/Vundle.vim
+
 ()jpages
 http://luis-almeida.github.io/jPages/
 
