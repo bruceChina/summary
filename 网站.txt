@@ -69,11 +69,17 @@ http://www.cnblogs.com/yyhh/p/5140852.html
 ()git
 http://iissnan.com/progit/
 http://learngitbranching.js.org/
+http://blog.csdn.net/lovelovelovelovelo/article/details/75216156
+http://blog.csdn.net/qq_15437667/article/details/51029757
+https://www.cnblogs.com/zhonghuasong/p/5975952.html
 
 
 ()hping
 http://man.linuxde.net/hping3
 http://19920624.blog.51cto.com/9632075/1584465
+
+()iftop
+https://github.com/soarpenguin/iftop
 
 ()image
 http://www.jb51.net/article/64723.htm	
@@ -139,12 +145,9 @@ https://www.cnblogs.com/Jie-Jack/p/3793304.html
 https://www.cnblogs.com/shootercheng/p/5836657.html
 http://blog.csdn.net/superit401/article/details/49797387
 https://www.cnblogs.com/hustcat/archive/2009/10/28/1591648.html
-<<<<<<< HEAD
 http://blog.csdn.net/l1028386804/article/details/51733585
 http://blog.sina.com.cn/s/blog_45722cc00100z5wm.html
-=======
 https://www.cnblogs.com/mr-level/p/6386585.html
->>>>>>> 2e8bdced2fcf55fac4dc3da36218354ea2285d58
 
 ()nc
 http://blog.csdn.net/wang7dao/article/details/7684998
@@ -160,6 +163,11 @@ http://blog.csdn.net/heiyueya/article/details/64121630
 
 ()pe
 https://en.wikipedia.org/wiki/Portable_Executable
+
+()php
+http://www.thinkphp.cn/topic/45171.html
+https://www.zhihu.com/question/20348619
+https://github.com/xdebug/xdebug
 
 ()pptp
 http://www.cnblogs.com/f-society/p/5964897.html
@@ -188,6 +196,9 @@ https://www.cnblogs.com/plwang1990/p/3757549.html
 https://www.cnblogs.com/wspcoding/p/5557792.html
 https://www.cnblogs.com/mengyixuan/p/3942177.html
 https://www.cnblogs.com/captain_jack/archive/2011/01/11/1933366.html
+http://blog.jobbole.com/51062/
+http://www.freebuf.com/articles/system/103816.html
+
 
 
 ()rootkit
@@ -209,11 +220,8 @@ http://blog.csdn.net/imfinger/article/details/6071175
 http://blog.chinaunix.net/uid-24904099-id-298600.html
 http://aurelio.net/projects/sedsed/
 http://kodango.com/sed-and-awk-notes-part-5
-<<<<<<< HEAD
 http://blog.chinaunix.net/uid-10540984-id-2894287.html
-=======
 http://www.jb51.net/article/33509.htm
->>>>>>> 4aa6ce9de70696157c90301541ae6bc4918dc280
 
 
 ()shell
@@ -223,7 +231,8 @@ http://www.cnblogs.com/liujiahi/archive/2011/03/30/2196400.html
 http://www.cnblogs.com/Joke-Shi/p/5705856.html
 http://www.cnblogs.com/davygeek/p/5670212.html
 http://blog.csdn.net/duan19056/article/details/41277869
-
+http://www.sijitao.net/2511.html
+http://www.jb51.net/article/52382.htm
 
 
 ()socks5
@@ -328,6 +337,8 @@ http://blog.csdn.net/ydt_lwj/article/details/8206404
 http://blog.csdn.net/qq_22918577/article/details/46976041
 http://os.51cto.com/art/201709/553197.htm
 https://wenku.baidu.com/view/52e9642e647d27284b73516f.html
+http://www.gnu.org
+https://stackoverflow.com/questions/11528267/where-can-i-find-source-code-for-linux-core-commands
 
 ()对齐
 https://www.cnblogs.com/qingergege/p/6104577.html
