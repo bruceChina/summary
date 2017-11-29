@@ -39,6 +39,9 @@ https://zhidao.baidu.com/question/227313834.html
 ()chkconfig
 http://permiss.iteye.com/blog/1729700
 
+()ctags
+http://blog.csdn.net/lida2003/article/details/6959975
+
 ()date
 http://blog.csdn.net/xiezuoyong/article/details/49890695
 http://www.opstool.com/article/224
@@ -73,6 +76,8 @@ http://blog.csdn.net/lovelovelovelovelo/article/details/75216156
 http://blog.csdn.net/qq_15437667/article/details/51029757
 https://www.cnblogs.com/zhonghuasong/p/5975952.html
 
+()head
+https://www.cnblogs.com/peida/archive/2012/11/06/2756278.html
 
 ()hping
 http://man.linuxde.net/hping3
@@ -114,6 +119,9 @@ https://linux.cn/article-5349-1-rel.html
 ()locate
 http://blog.csdn.net/feifeilyj/article/details/52238209
 
+()loop
+http://www.geekpills.com/operating-system/linux/howto-manage-loop-devices-centos7
+
 ()lvm
 https://www.cnblogs.com/gaojun/archive/2012/08/22/2650229.html
 http://blog.csdn.net/sdu_king/article/details/74933121
@@ -121,6 +129,7 @@ http://bbs.51cto.com/thread-975583-1.html
 http://blog.csdn.net/komi007/article/details/8199894
 http://bbs.chinaunix.net/thread-1924539-1-1.html
 http://blog.csdn.net/linshenyuan1213/article/details/49902527
+http://www.360doc.com/content/13/0318/18/3300331_272288245.shtml
 
 ()jijin
 https://www.zhihu.com/question/22808182/answer/23827757?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title
@@ -129,6 +138,9 @@ https://www.zhihu.com/question/22808182/answer/23827757?utm_campaign=rss&utm_med
 http://www.cnblogs.com/kemaswill/archive/2012/12/07/2807963.html
 http://www.cnblogs.com/frchen/p/5725893.html
 http://blog.csdn.net/u010099080/article/details/52912439
+
+()md5sum
+https://zhidao.baidu.com/question/1049436939776338499.html
 
 ()mysql
 http://www.linuxidc.com/Linux/2016-09/134940.htm
@@ -157,6 +169,7 @@ http://www.freebuf.com/articles/system/10632.html
 ()network
 http://www.linuxidc.com/Linux/2014-07/104537.htm
 http://blog.csdn.net/jcxch/article/details/48632761
+http://os.51cto.com/art/201404/435279.htm	
 
 ()nslookup
 http://blog.csdn.net/heiyueya/article/details/64121630
@@ -233,6 +246,7 @@ http://www.cnblogs.com/davygeek/p/5670212.html
 http://blog.csdn.net/duan19056/article/details/41277869
 http://www.sijitao.net/2511.html
 http://www.jb51.net/article/52382.htm
+http://os.51cto.com/art/201102/246360.htm
 
 
 ()socks5
@@ -339,6 +353,7 @@ http://os.51cto.com/art/201709/553197.htm
 https://wenku.baidu.com/view/52e9642e647d27284b73516f.html
 http://www.gnu.org
 https://stackoverflow.com/questions/11528267/where-can-i-find-source-code-for-linux-core-commands
+http://os.51cto.com/art/201101/244090.htm
 
 ()对齐
 https://www.cnblogs.com/qingergege/p/6104577.html
