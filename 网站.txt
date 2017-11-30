@@ -305,6 +305,16 @@ http://blog.csdn.net/u012450329/article/details/52539058
 http://www.cnblogs.com/zhangsf/archive/2013/06/13/3134409.html
 http://blog.csdn.net/ermuzhi/article/details/39496103
 http://blog.csdn.net/jiang1013nan/article/details/6298727
+http://blog.csdn.net/chivalrousli/article/details/50560142
+http://easwy.com/blog/archives/advanced-vim-skills-filetype-on/
+https://www.cnblogs.com/diegodu/p/7088596.html	
+http://easwy.com/blog/archives/advanced-vim-skills-taglist-plugin/
+https://www.ibm.com/developerworks/library/l-vim-script-1/index.html
+http://blog.csdn.net/smstong/article/details/20724191
+http://learnvimscriptthehardway.onefloweroneworld.com/chapters/03.html
+https://github.com/scrooloose/nerdtree
+https://wizardforcel.gitbooks.io/use-vim-as-ide/content/6.html
+http://codingpy.com/article/vim-and-python-match-in-heaven/
 
 ()winsock
 http://www.sockets.com/
@@ -358,6 +368,7 @@ https://wenku.baidu.com/view/52e9642e647d27284b73516f.html
 http://www.gnu.org
 https://stackoverflow.com/questions/11528267/where-can-i-find-source-code-for-linux-core-commands
 http://os.51cto.com/art/201101/244090.htm
+http://www.cnblogs.com/zjking99/archive/2012/01/04/2312137.html
 
 ()对齐
 https://www.cnblogs.com/qingergege/p/6104577.html
