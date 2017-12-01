@@ -319,6 +319,11 @@ http://learnvimscriptthehardway.onefloweroneworld.com/chapters/03.html
 https://github.com/scrooloose/nerdtree
 https://wizardforcel.gitbooks.io/use-vim-as-ide/content/6.html
 http://codingpy.com/article/vim-and-python-match-in-heaven/
+http://blog.csdn.net/namecyf/article/details/7787479
+https://www.zhihu.com/question/19655689
+https://github.com/garbas/vim-snipmate
+https://github.com/vim-syntastic/syntastic
+http://www.jianshu.com/p/0e85e7c9e543
 
 ()winsock
 http://www.sockets.com/
