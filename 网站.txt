@@ -96,9 +96,6 @@ http://www.jb51.net/article/64723.htm
 ()ipcs
 http://blog.csdn.net/yusiguyuan/article/details/12405669
 
-()jedi-vim
-https://github.com/davidhalter/jedi-vim/blob/master/doc/jedi-vim.txt
-https://github.com/VundleVim/Vundle.vim
 
 ()jpages
 http://luis-almeida.github.io/jPages/
@@ -324,6 +321,21 @@ https://www.zhihu.com/question/19655689
 https://github.com/garbas/vim-snipmate
 https://github.com/vim-syntastic/syntastic
 http://www.jianshu.com/p/0e85e7c9e543
+http://blog.csdn.net/qiurisuixiang/article/details/8905656
+https://github.com/VundleVim/Vundle.vim
+https://github.com/davidhalter/jedi-vim/blob/master/doc/jedi-vim.txt
+https://github.com/VundleVim/Vundle.vim
+http://forum.ubuntu.org.cn/viewtopic.php?t=234214
+http://easwy.com/blog/archives/advanced-vim-skills-filetype-on/
+https://github.com/JetBrains/ideavim
+https://www.cnblogs.com/hackerl/p/6070197.html
+http://ju.outofmemory.cn/entry/85853
+https://www.cnblogs.com/softwaretesting/archive/2011/09/28/2194515.html
+http://liuchengxu.org/posts/use-vim-as-a-python-ide/
+https://linux.cn/article-3314-1.html
+https://github.com/mbrochh/vim-as-a-python-ide
+https://realpython.com/blog/python/vim-and-python-a-match-made-in-heaven/
+
 
 ()winsock
 http://www.sockets.com/
