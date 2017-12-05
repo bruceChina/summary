@@ -335,6 +335,8 @@ http://liuchengxu.org/posts/use-vim-as-a-python-ide/
 https://linux.cn/article-3314-1.html
 https://github.com/mbrochh/vim-as-a-python-ide
 https://realpython.com/blog/python/vim-and-python-a-match-made-in-heaven/
+https://thibaut.horel.org/blog/using-vim-as-a-python-ide.html
+http://coderoncode.com/tools/2017/04/16/vim-the-perfect-ide.html
 
 
 ()winsock
