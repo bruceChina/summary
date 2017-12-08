@@ -297,6 +297,8 @@ https://sourceforge.net/projects/razorbacktm/files/Razorback/
 
 ()tcpdump
 http://blog.sina.com.cn/s/blog_45497dfa0100jrdj.html
+http://blog.csdn.net/runboying/article/details/7166378
+http://blog.csdn.net/hguisu/article/details/38700899
 
 ()tcpreplay
 http://www.cnblogs.com/legendbaby/archive/2015/12/18/5056114.html
