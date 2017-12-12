@@ -69,6 +69,7 @@ http://www.cnblogs.com/starof/p/4724381.html
 http://blog.csdn.net/Z_LiT0/article/details/51992307
 http://www.cnblogs.com/yangshl/p/6405796.html
 http://python.usyiyi.cn/documents/django_182/index.html
+http://www.runoob.com/django/django-template.html
 
 ()echarts
 http://echarts.baidu.com/api.html#echarts
@@ -171,6 +172,7 @@ https://www.cnblogs.com/hustcat/archive/2009/10/28/1591648.html
 http://blog.csdn.net/l1028386804/article/details/51733585
 http://blog.sina.com.cn/s/blog_45722cc00100z5wm.html
 https://www.cnblogs.com/mr-level/p/6386585.html
+https://www.cnblogs.com/feichexia/p/MysqlDataBackup.html
 
 ()nc
 http://blog.csdn.net/wang7dao/article/details/7684998
@@ -352,7 +354,9 @@ http://coderoncode.com/tools/2017/04/16/vim-the-perfect-ide.html
 http://blog.csdn.net/u013291076/article/details/40016639
 http://haoxiang.org/2011/09/vim-modes-and-mappin/
 http://www.jianshu.com/p/8ae25a680ed7
-
+https://www.cnblogs.com/Berryxiong/p/6194054.html
+https://github.com/scrooloose/nerdtree/blob/master/doc/NERDTree.txt
+https://stackoverflow.com/questions/7912060/vim-how-can-i-open-a-file-at-right-side-as-vsplit-from-a-left-side-nerdtree-pan
 
 ()winsock
 http://www.sockets.com/
