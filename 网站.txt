@@ -18,8 +18,10 @@ https://www.cnblogs.com/children/archive/2012/06/28/2567535.html
 http://blog.csdn.net/cy_cai/article/details/41908921
 https://www.cnblogs.com/ace9/archive/2011/12/06/2277803.html
 http://www.letuknowit.com/topics/20120329/sample-about-awk-build-in-variable-nr-fnr-nf.html/
+http://blog.sina.com.cn/s/blog_67e34ceb0100ybvg.html
 
-
+()ajax
+http://blog.csdn.net/CNYYGJ/article/details/68489200
 
 ()bootstrap
 http://www.linuxidc.com/Linux/2013-08/88764.htm
@@ -75,6 +77,13 @@ http://python.usyiyi.cn/documents/django_182/index.html
 http://www.runoob.com/django/django-template.html
 http://blog.csdn.net/songyu0219/article/details/52900470?_t_t_t=0.9311686654109508
 https://www.zhihu.com/question/29665145
+http://blog.csdn.net/lanyang123456/article/details/75261105
+http://www.jianshu.com/p/5d830d91f934
+http://www.runoob.com/python/python-mysql.html
+https://tieba.baidu.com/p/5095910342?red_tag=1552523338
+https://www.cnblogs.com/zhouxihi/p/7398376.html
+http://blog.csdn.net/zhoucheng05_13/article/details/53580683
+
 
 ()echarts
 http://echarts.baidu.com/api.html#echarts
@@ -84,6 +93,11 @@ http://www.360doc.com/content/14/0722/20/18592067_396358377.shtml
 
 ()fiddler
 http://www.cnblogs.com/yyhh/p/5140852.html
+
+()ftp
+http://www.linuxidc.com/Linux/2014-11/109233.htm
+http://blog.sina.com.cn/s/blog_685c0ea30101fulb.html
+http://blog.sina.com.cn/s/blog_685c0ea30101fulb.html
 
 ()git
 http://iissnan.com/progit/
@@ -229,7 +243,7 @@ https://www.cnblogs.com/mengyixuan/p/3942177.html
 https://www.cnblogs.com/captain_jack/archive/2011/01/11/1933366.html
 http://blog.jobbole.com/51062/
 http://www.freebuf.com/articles/system/103816.html
-
+http://www.runoob.com/python/python-lists.html
 
 
 ()rootkit
