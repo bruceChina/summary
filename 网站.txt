@@ -193,6 +193,7 @@ http://blog.csdn.net/l1028386804/article/details/51733585
 http://blog.sina.com.cn/s/blog_45722cc00100z5wm.html
 https://www.cnblogs.com/mr-level/p/6386585.html
 https://www.cnblogs.com/feichexia/p/MysqlDataBackup.html
+https://www.cnblogs.com/yjf512/archive/2012/10/09/2717102.html
 
 ()nc
 http://blog.csdn.net/wang7dao/article/details/7684998
@@ -367,6 +368,7 @@ http://forum.ubuntu.org.cn/viewtopic.php?t=234214
 http://easwy.com/blog/archives/advanced-vim-skills-filetype-on/
 https://github.com/JetBrains/ideavim
 https://www.cnblogs.com/hackerl/p/6070197.html
+https://www.cnblogs.com/xuechao/archive/2011/03/29/1999292.html
 http://ju.outofmemory.cn/entry/85853
 https://www.cnblogs.com/softwaretesting/archive/2011/09/28/2194515.html
 http://liuchengxu.org/posts/use-vim-as-a-python-ide/
@@ -381,6 +383,8 @@ http://www.jianshu.com/p/8ae25a680ed7
 https://www.cnblogs.com/Berryxiong/p/6194054.html
 https://github.com/scrooloose/nerdtree/blob/master/doc/NERDTree.txt
 https://stackoverflow.com/questions/7912060/vim-how-can-i-open-a-file-at-right-side-as-vsplit-from-a-left-side-nerdtree-pan
+http://blog.csdn.net/fuxingdaima/article/details/8658342
+https://www.cnblogs.com/Jason-Damon/archive/2011/10/31/2229692.html
 
 ()winsock
 http://www.sockets.com/
