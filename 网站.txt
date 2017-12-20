@@ -48,6 +48,13 @@ http://permiss.iteye.com/blog/1729700
 ()ctags
 http://blog.csdn.net/lida2003/article/details/6959975
 
+()cuckoo
+https://github.com/cuckoosandbox/cuckoo
+https://cuckoo.sh/docs/installation/host/requirements.html
+http://blog.csdn.net/abcd1f2/article/details/50523683
+http://www.freebuf.com/sectool/108533.html
+http://blog.csdn.net/abcd1f2/article/details/50523683
+
 ()date
 http://blog.csdn.net/xiezuoyong/article/details/49890695
 http://www.opstool.com/article/224
@@ -85,6 +92,8 @@ https://www.cnblogs.com/zhouxihi/p/7398376.html
 http://blog.csdn.net/zhoucheng05_13/article/details/53580683
 https://www.cnblogs.com/panwenbin-logs/p/5838064.html
 
+()dumbug
+http://www.phenoelit.org/fr/tools.html
 
 ()echarts
 http://echarts.baidu.com/api.html#echarts
@@ -174,6 +183,9 @@ http://blog.csdn.net/u010099080/article/details/52912439
 ()md5sum
 https://zhidao.baidu.com/question/1049436939776338499.html
 
+()mongo
+http://www.runoob.com/mongodb/mongodb-connections.html
+
 ()mysql
 http://www.linuxidc.com/Linux/2016-09/134940.htm
 http://www.cnblogs.com/softidea/p/6135097.html
@@ -194,6 +206,10 @@ http://blog.sina.com.cn/s/blog_45722cc00100z5wm.html
 https://www.cnblogs.com/mr-level/p/6386585.html
 https://www.cnblogs.com/feichexia/p/MysqlDataBackup.html
 https://www.cnblogs.com/yjf512/archive/2012/10/09/2717102.html
+http://www.jb51.net/article/73372.htm
+
+()nasmshell
+https://github.com/fishstiqz/nasmshell
 
 ()nc
 http://blog.csdn.net/wang7dao/article/details/7684998
@@ -246,7 +262,7 @@ https://www.cnblogs.com/captain_jack/archive/2011/01/11/1933366.html
 http://blog.jobbole.com/51062/
 http://www.freebuf.com/articles/system/103816.html
 http://www.runoob.com/python/python-lists.html
-
+http://blog.csdn.net/wangshuang1631/article/details/54286551
 
 ()rootkit
 http://blog.csdn.net/bcbobo21cn/article/details/51145258
@@ -281,6 +297,8 @@ http://blog.csdn.net/duan19056/article/details/41277869
 http://www.sijitao.net/2511.html
 http://www.jb51.net/article/52382.htm
 http://os.51cto.com/art/201102/246360.htm
+http://blog.51cto.com/lizhenliang/1899347
+https://www.cnblogs.com/fengbohello/p/4747254.html
 
 
 ()socks5
@@ -386,6 +404,9 @@ https://stackoverflow.com/questions/7912060/vim-how-can-i-open-a-file-at-right-s
 http://blog.csdn.net/fuxingdaima/article/details/8658342
 https://www.cnblogs.com/Jason-Damon/archive/2011/10/31/2229692.html
 
+()volatility
+http://www.ouchangjian.com/article/58746d350b51d5db021c3cc7
+
 ()winsock
 http://www.sockets.com/
 
@@ -427,6 +448,7 @@ https://www.cnblogs.com/XYJK1002/p/5324293.html
 https://www.cnblogs.com/shhnwangjian/p/5484352.html
 https://share.zabbix.com/databases/mysql/template-mysql-800-items
 https://www.ibm.com/support/knowledgecenter/en/SSVV6P/Monitoring/applymysqlmonitoringtemplatetovm.html
+http://www.361way.com/zabbix-sender-trapper/3402.html
 
 ()zip
 http://blog.csdn.net/ydt_lwj/article/details/8206404
@@ -442,6 +464,7 @@ http://www.cnblogs.com/zjking99/archive/2012/01/04/2312137.html
 http://blog.csdn.net/hejinjing_tom_com/article/details/41209005
 https://www.cnblogs.com/qingergege/p/6104577.html
 https://github.com/topics/reverse-engineering?o=desc&s=stars
+http://blog.csdn.net/iiprogram/article/details/1753072
 
 
 
