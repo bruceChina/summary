@@ -31,6 +31,11 @@ http://www.linuxidc.com/Linux/2013-08/88764.htm
 http://os.51cto.com/art/201310/413568.htm
 
 
+()c
+http://blog.csdn.net/keyeagle/article/details/6708077/
+http://www.greenend.org.uk/rjk/tech/inline.html
+https://www.cnblogs.com/astwish/p/3460618.html
+https://gcc.gnu.org/onlinedocs/gcc-4.8.5/gcc/index.html#toc_G_002b_002b-and-GCC
 
 ()centos
 http://www.centoscn.com/CentOS/	
@@ -322,6 +327,9 @@ http://blog.csdn.net/qq_23191031/article/details/50875847
 ()syslog
 http://blog.chinaunix.net/uid-25120309-id-3359929.html
 
+()sysinternals
+https://docs.microsoft.com/zh-cn/sysinternals/
+
 ()systemctl
 http://man.linuxde.net/systemctl
 http://www.linuxidc.com/Linux/2014-07/104487.htm
@@ -465,6 +473,7 @@ http://blog.csdn.net/hejinjing_tom_com/article/details/41209005
 https://www.cnblogs.com/qingergege/p/6104577.html
 https://github.com/topics/reverse-engineering?o=desc&s=stars
 http://blog.csdn.net/iiprogram/article/details/1753072
+https://www.zhihu.com/question/32112052
 
 
 
