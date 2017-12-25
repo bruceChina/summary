@@ -225,6 +225,7 @@ https://www.cnblogs.com/yjf512/archive/2012/10/09/2717102.html
 http://www.jb51.net/article/73372.htm
 https://www.cnblogs.com/qinweizhi/p/5918048.html
 http://blog.sina.com.cn/s/blog_9d0b00a401014a0m.html
+https://dev.mysql.com/doc/refman/5.7/en/preface.html
 
 ()nasmshell
 https://github.com/fishstiqz/nasmshell
@@ -326,6 +327,10 @@ https://www.cnblogs.com/fengbohello/p/4747254.html
 http://blog.51cto.com/dl528888/1266598
 https://oss.oetiker.ch/smokeping/doc/smokeping_install.en.html
 http://www.linuxidc.com/Linux/2012-06/63132p4.htm
+http://zongming.net/read-1023
+http://www.chinadmd.com/search.do?nkey=smokeping%E4%B8%8D%E6%98%BE%E7%A4%BA%E5%9B%BE%E7%89%87
+http://bbs.chinaunix.net/thread-3778999-1-1.html
+
 
 ()socks5
 http://www.gznotes.com/centos-build-socksserver5/
