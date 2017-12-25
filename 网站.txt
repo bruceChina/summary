@@ -325,6 +325,7 @@ https://www.cnblogs.com/fengbohello/p/4747254.html
 ()smokeping
 http://blog.51cto.com/dl528888/1266598
 https://oss.oetiker.ch/smokeping/doc/smokeping_install.en.html
+http://www.linuxidc.com/Linux/2012-06/63132p4.htm
 
 ()socks5
 http://www.gznotes.com/centos-build-socksserver5/
