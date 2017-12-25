@@ -36,6 +36,17 @@ http://blog.csdn.net/keyeagle/article/details/6708077/
 http://www.greenend.org.uk/rjk/tech/inline.html
 https://www.cnblogs.com/astwish/p/3460618.html
 https://gcc.gnu.org/onlinedocs/gcc-4.8.5/gcc/index.html#toc_G_002b_002b-and-GCC
+https://stackoverflow.com/questions/199966/how-do-you-use-gcc-to-generate-assembly-code-in-intel-syntax
+https://stackoverflow.com/questions/2765164/inline-vs-inline-vs-inline-vs-forceinline
+https://www.zybuluo.com/yiltoncent/note/87733	
+https://stackoverflow.com/questions/2486386/why-do-i-see-throw-in-a-c-library
+https://stackoverflow.com/questions/776283/what-does-the-restrict-keyword-mean-in-c	
+https://stackoverflow.com/questions/4559025/what-does-gcc-attribute-modexx-actually-do
+http://www.developingthefuture.net/disassembling-decompiling-and-modifying-executables/
+https://msdn.microsoft.com/en-us/library/d06h2x6e.aspx
+http://en.cppreference.com/w/cpp/compiler_support
+http://www.runoob.com/cplusplus/cpp-tutorial.html
+http://blog.csdn.net/huqinwei987/article/details/23597091
 
 ()centos
 http://www.centoscn.com/CentOS/	
@@ -232,6 +243,9 @@ http://blog.csdn.net/heiyueya/article/details/64121630
 ()pe
 https://en.wikipedia.org/wiki/Portable_Executable
 
+()perl
+http://www.linuxidc.com/Linux/2016-11/137648.htm
+
 ()php
 http://www.thinkphp.cn/topic/45171.html
 https://www.zhihu.com/question/20348619
@@ -305,6 +319,10 @@ http://os.51cto.com/art/201102/246360.htm
 http://blog.51cto.com/lizhenliang/1899347
 https://www.cnblogs.com/fengbohello/p/4747254.html
 
+
+()smokeping
+http://blog.51cto.com/dl528888/1266598
+https://oss.oetiker.ch/smokeping/doc/smokeping_install.en.html
 
 ()socks5
 http://www.gznotes.com/centos-build-socksserver5/
