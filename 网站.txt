@@ -503,7 +503,9 @@ https://www.cnblogs.com/qingergege/p/6104577.html
 https://github.com/topics/reverse-engineering?o=desc&s=stars
 http://blog.csdn.net/iiprogram/article/details/1753072
 https://www.zhihu.com/question/32112052
-
+https://github.com/rshipp/awesome-malware-analysis
+https://github.com/corkami/pics
+http://www.freebuf.com/sectool/136921.html
 
 
 
