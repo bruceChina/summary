@@ -47,6 +47,9 @@ https://msdn.microsoft.com/en-us/library/d06h2x6e.aspx
 http://en.cppreference.com/w/cpp/compiler_support
 http://www.runoob.com/cplusplus/cpp-tutorial.html
 http://blog.csdn.net/huqinwei987/article/details/23597091
+https://www.cnblogs.com/hitwtx/archive/2011/08/20/2147431.html
+https://zhidao.baidu.com/question/192935043.html	
+http://blog.csdn.net/smf0504/article/details/52311207
 
 ()centos
 http://www.centoscn.com/CentOS/	
