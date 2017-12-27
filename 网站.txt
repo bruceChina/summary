@@ -50,6 +50,7 @@ http://blog.csdn.net/huqinwei987/article/details/23597091
 https://www.cnblogs.com/hitwtx/archive/2011/08/20/2147431.html
 https://zhidao.baidu.com/question/192935043.html	
 http://blog.csdn.net/smf0504/article/details/52311207
+http://blog.csdn.net/liruda/article/details/2230617
 
 ()centos
 http://www.centoscn.com/CentOS/	
@@ -458,6 +459,9 @@ https://www.cnblogs.com/ImBit/p/5513401.html
 ()xmlgawk
 http://gawkextlib.sourceforge.net/xmlgawk.html
 http://lml.ls.fi.upm.es/~mcollado/gawkextlib/
+
+()yara
+http://www.freebuf.com/articles/system/26373.html
 
 ()yum
 http://blog.csdn.net/liaowu912/article/details/70198128
