@@ -19,9 +19,18 @@ http://blog.csdn.net/cy_cai/article/details/41908921
 https://www.cnblogs.com/ace9/archive/2011/12/06/2277803.html
 http://www.letuknowit.com/topics/20120329/sample-about-awk-build-in-variable-nr-fnr-nf.html/
 http://blog.sina.com.cn/s/blog_67e34ceb0100ybvg.html
-
+https://www.cnblogs.com/276815076/p/6410179.html
+http://blog.csdn.net/exceptional_derek/article/details/48470717
 ()ajax
 http://blog.csdn.net/CNYYGJ/article/details/68489200
+
+()apache
+http://book.51cto.com/art/201411/458157.htm
+http://www.webalizer.org/download.html
+http://blog.51cto.com/freeloda/1346412
+http://www.awstats.org/
+https://goaccess.io/download
+http://www.linuxidc.com/Linux/2016-07/133623.htm
 
 ()bootstrap
 http://www.linuxidc.com/Linux/2013-08/88764.htm
