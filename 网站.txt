@@ -21,6 +21,8 @@ http://www.letuknowit.com/topics/20120329/sample-about-awk-build-in-variable-nr-
 http://blog.sina.com.cn/s/blog_67e34ceb0100ybvg.html
 https://www.cnblogs.com/276815076/p/6410179.html
 http://blog.csdn.net/exceptional_derek/article/details/48470717
+http://forums.devshed.com/programming-42/tool-trace-function-calls-program-171726.html
+https://balau82.wordpress.com/2010/10/06/trace-and-profile-function-calls-with-gcc/
 ()ajax
 http://blog.csdn.net/CNYYGJ/article/details/68489200
 
@@ -60,6 +62,11 @@ https://www.cnblogs.com/hitwtx/archive/2011/08/20/2147431.html
 https://zhidao.baidu.com/question/192935043.html	
 http://blog.csdn.net/smf0504/article/details/52311207
 http://blog.csdn.net/liruda/article/details/2230617
+http://blog.csdn.net/luaohan/article/details/40001053
+http://blog.csdn.net/liufengl138/article/details/51517972
+http://ndevilla.free.fr/etrace/
+https://stackoverflow.com/questions/10374005/how-to-trace-function-call-in-c
+https://www.codeproject.com/Articles/12949/A-Simple-C-Function-Call-Stack-Trace-Utility
 
 ()centos
 http://www.centoscn.com/CentOS/	
