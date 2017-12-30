@@ -67,6 +67,8 @@ http://blog.csdn.net/liufengl138/article/details/51517972
 http://ndevilla.free.fr/etrace/
 https://stackoverflow.com/questions/10374005/how-to-trace-function-call-in-c
 https://www.codeproject.com/Articles/12949/A-Simple-C-Function-Call-Stack-Trace-Utility
+https://doxygen.reactos.org/d9/d1b/user32_2windows_2hook_8c.html
+http://www.cplusplus.com/reference/cstring/strstr/
 
 ()centos
 http://www.centoscn.com/CentOS/	
