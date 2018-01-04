@@ -72,6 +72,8 @@ https://stackoverflow.com/questions/10374005/how-to-trace-function-call-in-c
 https://www.codeproject.com/Articles/12949/A-Simple-C-Function-Call-Stack-Trace-Utility
 https://doxygen.reactos.org/d9/d1b/user32_2windows_2hook_8c.html
 http://www.cplusplus.com/reference/cstring/strstr/
+https://www.microsoftpressstore.com/articles/article.aspx?p=2233328&seqNum=3
+http://blog.csdn.net/menghuanruanjian/article/details/51894383
 
 ()centos
 http://www.centoscn.com/CentOS/	
