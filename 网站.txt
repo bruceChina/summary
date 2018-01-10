@@ -79,6 +79,9 @@ https://wiki.centos.org/HowTos
 https://wiki.centos.org/Documentation
 http://www.cnblogs.com/neo98/articles/6185737.html
 http://blog.jobbole.com/111312/
+http://vault.centos.org/
+https://www.centos.org/docs/5/html/Deployment_Guide-en-US/s1-proc-directories.html	
+https://www.tecmint.com/exploring-proc-file-system-in-linux/
 
 ()chage
 https://zhidao.baidu.com/question/227313834.html
@@ -86,8 +89,12 @@ https://zhidao.baidu.com/question/227313834.html
 ()chkconfig
 http://permiss.iteye.com/blog/1729700
 
+()coproc
+http://wiki.bash-hackers.org/syntax/keywords/coproc
+
 ()ctags
 http://blog.csdn.net/lida2003/article/details/6959975
+
 
 ()cuckoo
 https://github.com/cuckoosandbox/cuckoo
@@ -132,6 +139,9 @@ https://tieba.baidu.com/p/5095910342?red_tag=1552523338
 https://www.cnblogs.com/zhouxihi/p/7398376.html
 http://blog.csdn.net/zhoucheng05_13/article/details/53580683
 https://www.cnblogs.com/panwenbin-logs/p/5838064.html
+
+()docker
+https://docs.docker.com/engine/installation/linux/docker-ce/ubuntu/#set-up-the-repository
 
 ()dumbug
 http://www.phenoelit.org/fr/tools.html
@@ -181,6 +191,8 @@ https://www.centos.bz/2012/06/inotify-tools-introduction/
 ()ipcs
 http://blog.csdn.net/yusiguyuan/article/details/12405669
 
+()iptables
+http://blog.csdn.net/gsls200808/article/details/50364104
 
 ()jpages
 http://luis-almeida.github.io/jPages/
@@ -279,8 +291,16 @@ http://os.51cto.com/art/201404/435279.htm
 ()nslookup
 http://blog.csdn.net/heiyueya/article/details/64121630
 
+()pam
+https://www.jianshu.com/p/ac3e7009a764
+https://github.com/google/google-authenticator-libpam
+http://www.freebuf.com/articles/system/137580.html
+http://blog.itpub.net/15480802/viewspace-1406088/
 ()pe
 https://en.wikipedia.org/wiki/Portable_Executable
+
+()perf
+http://blog.csdn.net/chinaclock/article/details/50061185
 
 ()perl
 http://www.linuxidc.com/Linux/2016-11/137648.htm
@@ -325,6 +345,8 @@ https://github.com/jessecooper/pyetrade
 https://stackoverflow.com/questions/8315389/how-do-i-print-functions-as-they-are-called
 https://segmentfault.com/a/1190000000356018
 http://blog.sina.com.cn/s/blog_13cc013b50102w9ci.html
+https://www.cnblogs.com/holbrook/archive/2012/03/05/2380398.html
+https://teddysun.com/473.html
 
 ()rootkit
 http://blog.csdn.net/bcbobo21cn/article/details/51145258
@@ -417,8 +439,14 @@ http://blog.csdn.net/runboying/article/details/7166378
 http://blog.csdn.net/hguisu/article/details/38700899
 https://www.cnblogs.com/ggjucheng/archive/2012/01/14/2322659.html
 
+
+
 ()tcpreplay
 http://www.cnblogs.com/legendbaby/archive/2015/12/18/5056114.html
+
+()tensorflow
+https://www.zhihu.com/question/49909565
+https://www.tensorflow.org/install/install_linux#InstallingVirtualenv
 
 ()torrent
 http://blog.csdn.net/wangdada111/article/details/71243815
@@ -426,6 +454,11 @@ https://linux.cn/article-2064-1.html
 
 ()tsocks
 http://www.51testing.com/html/38/225738-246084.html
+
+()ubuntu
+https://jingyan.baidu.com/article/fedf0737a7d77835ac897796.html
+http://blog.csdn.net/acrux1985/article/details/49667135
+http://blog.csdn.net/frisky1985/article/details/44617773
 
 ()vc
 http://blog.csdn.net/hamber_bao/article/details/51761030
@@ -553,7 +586,7 @@ https://github.com/rshipp/awesome-malware-analysis
 https://github.com/corkami/pics
 http://www.freebuf.com/sectool/136921.html
 http://blog.csdn.net/v_JULY_v/article/details/6839360
-
+http://www.cnblogs.com/liuyanlong/archive/2013/05/27/3102161.html
 
 
 
