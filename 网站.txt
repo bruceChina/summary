@@ -139,6 +139,7 @@ https://tieba.baidu.com/p/5095910342?red_tag=1552523338
 https://www.cnblogs.com/zhouxihi/p/7398376.html
 http://blog.csdn.net/zhoucheng05_13/article/details/53580683
 https://www.cnblogs.com/panwenbin-logs/p/5838064.html
+http://www.linuxyw.com/259.html
 
 ()docker
 https://docs.docker.com/engine/installation/linux/docker-ce/ubuntu/#set-up-the-repository
@@ -347,6 +348,8 @@ https://segmentfault.com/a/1190000000356018
 http://blog.sina.com.cn/s/blog_13cc013b50102w9ci.html
 https://www.cnblogs.com/holbrook/archive/2012/03/05/2380398.html
 https://teddysun.com/473.html
+https://techglimpse.com/install-python-openssl-support-tutorial/
+
 
 ()rootkit
 http://blog.csdn.net/bcbobo21cn/article/details/51145258
@@ -587,7 +590,8 @@ https://github.com/corkami/pics
 http://www.freebuf.com/sectool/136921.html
 http://blog.csdn.net/v_JULY_v/article/details/6839360
 http://www.cnblogs.com/liuyanlong/archive/2013/05/27/3102161.html
-
+https://www.zendstudio.net/archives/tcp-udp-socket-toolkit/
+https://www.darknet.org.uk/2007/03/preplay-a-pcap-network-traffic-replay-tool-for-windows/
 
 
 
