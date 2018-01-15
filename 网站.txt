@@ -167,6 +167,14 @@ http://www.linuxidc.com/Linux/2014-11/109233.htm
 http://blog.sina.com.cn/s/blog_685c0ea30101fulb.html
 http://blog.sina.com.cn/s/blog_685c0ea30101fulb.html
 
+()gdb
+http://blog.csdn.net/unix21/article/details/9991925
+http://blog.csdn.net/mifan88/article/details/7301973
+http://blog.csdn.net/hmsiwtv/article/details/8309909
+http://blog.csdn.net/qq_34501940/article/details/51920769
+http://blog.csdn.net/haoel/article/details/2879/
+http://bbs.chinaunix.net/thread-4101359-1-1.html
+
 ()git
 http://iissnan.com/progit/
 http://learngitbranching.js.org/
