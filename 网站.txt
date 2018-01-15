@@ -74,6 +74,7 @@ https://doxygen.reactos.org/d9/d1b/user32_2windows_2hook_8c.html
 http://www.cplusplus.com/reference/cstring/strstr/
 https://www.microsoftpressstore.com/articles/article.aspx?p=2233328&seqNum=3
 http://blog.csdn.net/menghuanruanjian/article/details/51894383
+https://stackoverflow.com/questions/311268/monitoring-application-calls-to-dll
 
 ()centos
 http://www.centoscn.com/CentOS/	
@@ -154,6 +155,9 @@ http://echarts.baidu.com/api.html#echarts
 
 ()english
 http://www.360doc.com/content/14/0722/20/18592067_396358377.shtml
+
+()echo
+https://unix.stackexchange.com/questions/118247/echo-bytes-to-a-file
 
 ()fast tools
 https://www.json-generator.com/
@@ -399,7 +403,11 @@ http://www.jb51.net/article/52382.htm
 http://os.51cto.com/art/201102/246360.htm
 http://blog.51cto.com/lizhenliang/1899347
 https://www.cnblogs.com/fengbohello/p/4747254.html
-
+http://kodango.com/explain-shell-default-options
+http://bbs.chinaunix.net/forum.php?mod=viewthread&tid=4103790
+http://blog.csdn.net/changerjjlee/article/details/52161191
+http://blog.csdn.net/shanyongxu/article/details/46744055
+http://www.cnblogs.com/ziyunfei/p/4918675.html
 
 ()smokeping
 http://blog.51cto.com/dl528888/1266598
