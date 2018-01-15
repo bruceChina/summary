@@ -275,6 +275,8 @@ http://www.jb51.net/article/73372.htm
 https://www.cnblogs.com/qinweizhi/p/5918048.html
 http://blog.sina.com.cn/s/blog_9d0b00a401014a0m.html
 https://dev.mysql.com/doc/refman/5.7/en/preface.html
+https://www.awaimai.com/1513.html
+http://www.linuxidc.com/Linux/2014-09/107095.htm
 
 ()nasmshell
 https://github.com/fishstiqz/nasmshell
