@@ -291,6 +291,8 @@ http://blog.sina.com.cn/s/blog_9d0b00a401014a0m.html
 https://dev.mysql.com/doc/refman/5.7/en/preface.html
 https://www.awaimai.com/1513.html
 http://www.linuxidc.com/Linux/2014-09/107095.htm
+https://www.cnblogs.com/yuanyouqi/archive/2010/04/28/1722738.html
+https://www.cnblogs.com/chenmh/p/5300370.html
 
 ()nasmshell
 https://github.com/fishstiqz/nasmshell
@@ -326,6 +328,7 @@ http://www.linuxidc.com/Linux/2016-11/137648.htm
 http://www.thinkphp.cn/topic/45171.html
 https://www.zhihu.com/question/20348619
 https://github.com/xdebug/xdebug
+https://webtatic.com/packages/php70/
 
 ()pptp
 http://www.cnblogs.com/f-society/p/5964897.html
@@ -379,6 +382,10 @@ http://docs.saltstack.cn/topics/installation/rhel.html
 ()scrapy
 http://scapy.readthedocs.io/en/latest/build_dissect.html#simple-example
 
+
+()secure
+http://antivirus.neu.edu.cn/scan/ssh.php
+
 ()sed
 https://www.gnu.org/software/sed/manual/sed.html
 http://www.grymoire.com/Unix/Sed.html
@@ -408,6 +415,9 @@ http://bbs.chinaunix.net/forum.php?mod=viewthread&tid=4103790
 http://blog.csdn.net/changerjjlee/article/details/52161191
 http://blog.csdn.net/shanyongxu/article/details/46744055
 http://www.cnblogs.com/ziyunfei/p/4918675.html
+http://hongjiang.info/shell-process-substitution/
+https://www.cnblogs.com/new0801/p/6176852.html
+https://www.cnblogs.com/ziyunfei/p/4898318.html
 
 ()smokeping
 http://blog.51cto.com/dl528888/1266598
@@ -477,6 +487,9 @@ https://linux.cn/article-2064-1.html
 
 ()tsocks
 http://www.51testing.com/html/38/225738-246084.html
+
+()top
+http://blog.csdn.net/ljx0305/article/details/8029282
 
 ()ubuntu
 https://jingyan.baidu.com/article/fedf0737a7d77835ac897796.html
@@ -588,6 +601,7 @@ https://www.cnblogs.com/shhnwangjian/p/5484352.html
 https://share.zabbix.com/databases/mysql/template-mysql-800-items
 https://www.ibm.com/support/knowledgecenter/en/SSVV6P/Monitoring/applymysqlmonitoringtemplatetovm.html
 http://www.361way.com/zabbix-sender-trapper/3402.html
+https://www.t4x.org/error/apache-authtype-not-set/
 
 ()zip
 http://blog.csdn.net/ydt_lwj/article/details/8206404
@@ -612,6 +626,9 @@ http://blog.csdn.net/v_JULY_v/article/details/6839360
 http://www.cnblogs.com/liuyanlong/archive/2013/05/27/3102161.html
 https://www.zendstudio.net/archives/tcp-udp-socket-toolkit/
 https://www.darknet.org.uk/2007/03/preplay-a-pcap-network-traffic-replay-tool-for-windows/
+
+
+
 
 
 
