@@ -75,6 +75,7 @@ http://www.cplusplus.com/reference/cstring/strstr/
 https://www.microsoftpressstore.com/articles/article.aspx?p=2233328&seqNum=3
 http://blog.csdn.net/menghuanruanjian/article/details/51894383
 https://stackoverflow.com/questions/311268/monitoring-application-calls-to-dll
+http://blog.csdn.net/daiyutage/article/details/8604720
 
 ()centos
 http://www.centoscn.com/CentOS/	
