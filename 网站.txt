@@ -603,6 +603,7 @@ https://share.zabbix.com/databases/mysql/template-mysql-800-items
 https://www.ibm.com/support/knowledgecenter/en/SSVV6P/Monitoring/applymysqlmonitoringtemplatetovm.html
 http://www.361way.com/zabbix-sender-trapper/3402.html
 https://www.t4x.org/error/apache-authtype-not-set/
+http://www.itread01.com/content/1507560250.html
 
 ()zip
 http://blog.csdn.net/ydt_lwj/article/details/8206404
