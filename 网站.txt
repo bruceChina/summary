@@ -110,6 +110,7 @@ http://blog.csdn.net/abcd1f2/article/details/50523683
 ()date
 http://blog.csdn.net/xiezuoyong/article/details/49890695
 http://www.opstool.com/article/224
+https://www.cnblogs.com/tijun/p/7609797.html
 
 ()debug
 http://blog.csdn.net/delphiwcdj/article/details/7387325
@@ -294,6 +295,8 @@ https://www.awaimai.com/1513.html
 http://www.linuxidc.com/Linux/2014-09/107095.htm
 https://www.cnblogs.com/yuanyouqi/archive/2010/04/28/1722738.html
 https://www.cnblogs.com/chenmh/p/5300370.html
+http://blog.csdn.net/leshami/article/details/39779225
+http://blog.csdn.net/u013372487/article/details/48131589
 
 ()nasmshell
 https://github.com/fishstiqz/nasmshell
