@@ -168,6 +168,10 @@ https://www.bejson.com/devtools/sql2pojo/
 ()fiddler
 http://www.cnblogs.com/yyhh/p/5140852.html
 
+()find
+http://blog.csdn.net/xysoul/article/details/44956269
+http://blog.csdn.net/not_repeat/article/details/51570682
+
 ()ftp
 http://www.linuxidc.com/Linux/2014-11/109233.htm
 http://blog.sina.com.cn/s/blog_685c0ea30101fulb.html
@@ -379,9 +383,13 @@ http://blog.csdn.net/bcbobo21cn/article/details/51145258
 https://github.com/cloudsec/brootkit
 http://blog.csdn.net/whatday/article/details/54298501
 
+()rpm
+http://www.firefoxbug.com/index.php/archives/2776/
+
 ()saltstack
 http://sofar.blog.51cto.com/353572/1596960/
 http://docs.saltstack.cn/topics/installation/rhel.html
+https://docs.saltstack.com/en/latest/
 
 ()scrapy
 http://scapy.readthedocs.io/en/latest/build_dissect.html#simple-example
@@ -580,6 +588,7 @@ http://www.freebuf.com/articles/system/26373.html
 
 ()yum
 http://blog.csdn.net/liaowu912/article/details/70198128
+http://www.firefoxbug.com/index.php/archives/2777/
 
 ()zabbix
 http://www.zabbix.org.cn/viewtopic.php?f=12&t=68
@@ -631,7 +640,7 @@ http://blog.csdn.net/v_JULY_v/article/details/6839360
 http://www.cnblogs.com/liuyanlong/archive/2013/05/27/3102161.html
 https://www.zendstudio.net/archives/tcp-udp-socket-toolkit/
 https://www.darknet.org.uk/2007/03/preplay-a-pcap-network-traffic-replay-tool-for-windows/
-
+https://www.cnblogs.com/liuchuyu/p/7490338.html
 
 
 
