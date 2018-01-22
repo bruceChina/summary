@@ -161,6 +161,10 @@ http://www.360doc.com/content/14/0722/20/18592067_396358377.shtml
 ()echo
 https://unix.stackexchange.com/questions/118247/echo-bytes-to-a-file
 
+
+()epel
+http://blog.51cto.com/chkconfig/1429564
+
 ()fast tools
 https://www.json-generator.com/
 https://www.bejson.com/devtools/sql2pojo/
@@ -386,6 +390,11 @@ http://blog.csdn.net/whatday/article/details/54298501
 ()rpm
 http://www.firefoxbug.com/index.php/archives/2776/
 
+()redhat
+https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/?version=6
+
+
+
 ()saltstack
 http://sofar.blog.51cto.com/353572/1596960/
 http://docs.saltstack.cn/topics/installation/rhel.html
@@ -507,6 +516,7 @@ http://blog.csdn.net/ljx0305/article/details/8029282
 https://jingyan.baidu.com/article/fedf0737a7d77835ac897796.html
 http://blog.csdn.net/acrux1985/article/details/49667135
 http://blog.csdn.net/frisky1985/article/details/44617773
+https://help.ubuntu.com/
 
 ()vc
 http://blog.csdn.net/hamber_bao/article/details/51761030
@@ -641,6 +651,7 @@ http://www.cnblogs.com/liuyanlong/archive/2013/05/27/3102161.html
 https://www.zendstudio.net/archives/tcp-udp-socket-toolkit/
 https://www.darknet.org.uk/2007/03/preplay-a-pcap-network-traffic-replay-tool-for-windows/
 https://www.cnblogs.com/liuchuyu/p/7490338.html
+
 
 
 
