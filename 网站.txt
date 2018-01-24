@@ -305,6 +305,7 @@ https://www.cnblogs.com/yuanyouqi/archive/2010/04/28/1722738.html
 https://www.cnblogs.com/chenmh/p/5300370.html
 http://blog.csdn.net/leshami/article/details/39779225
 http://blog.csdn.net/u013372487/article/details/48131589
+http://blog.csdn.net/aidenliu/article/details/7554860
 
 ()nasmshell
 https://github.com/fishstiqz/nasmshell
@@ -460,8 +461,15 @@ http://www.cnblogs.com/51linux/archive/2012/05/23/2515299.html
 ()ss
 http://www.ttlsa.com/linux-command/ss-replace-netstat/
 
+()ssh
+http://blog.csdn.net/yanggd1987/article/details/54310686
+
 ()ssdt
 http://blog.csdn.net/flyingleo1981/article/details/47276173
+
+()svn
+http://www.linuxidc.com/Linux/2017-05/144254.htm
+http://bbs.csdn.net/topics/390675827
 
 ()swap
 http://blog.csdn.net/niuzhihuan/article/details/50522138
