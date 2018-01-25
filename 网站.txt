@@ -37,6 +37,9 @@ http://www.linuxidc.com/Linux/2016-07/133623.htm
 ()auditd
 https://stackoverflow.com/questions/6920812/inotify-how-to-find-out-which-user-has-modified-file
 
+()bottle
+http://www.linuxyw.com/546.html
+
 ()bootstrap
 http://www.linuxidc.com/Linux/2013-08/88764.htm
 
@@ -86,12 +89,25 @@ http://blog.jobbole.com/111312/
 http://vault.centos.org/
 https://www.centos.org/docs/5/html/Deployment_Guide-en-US/s1-proc-directories.html	
 https://www.tecmint.com/exploring-proc-file-system-in-linux/
+https://www.ehowstuff.com/bind-dns-server-in-chroot-jail-on-centos-7/
 
 ()chage
 https://zhidao.baidu.com/question/227313834.html
 
 ()chkconfig
 http://permiss.iteye.com/blog/1729700
+
+()chroot
+http://blog.csdn.net/yanggd1987/article/details/54310686
+https://linux.cn/article-8313-1.html
+http://blog.51cto.com/fengyuzaitu/1543608
+http://blog.chinaunix.net/uid-384521-id-2411535.html
+https://linux.cn/article-4735-1.html
+http://www.losurs.org/docs/howto/Chroot-BIND-2.html#ss2.1
+https://tw.saowen.com/a/654a7ac1cdcd99a287fa854bc67b65117f54102255efbef4f891007dfcdeb8ba
+http://blog.chinaunix.net/xmlrpc.php?r=blog/article&uid=1749708&id=3686190
+https://olivier.sessink.nl/jailkit/index.html#download
+https://linux.cn/article-2379-1.html
 
 ()coproc
 http://wiki.bash-hackers.org/syntax/keywords/coproc
@@ -393,6 +409,7 @@ http://www.firefoxbug.com/index.php/archives/2776/
 
 ()redhat
 https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/?version=6
+http://rhel-7.blogspot.tw/2014/10/dns-installation-and-configuration-for.html
 
 
 
@@ -464,6 +481,7 @@ http://www.ttlsa.com/linux-command/ss-replace-netstat/
 ()ssh
 http://blog.csdn.net/yanggd1987/article/details/54310686
 https://linux.cn/article-8313-1.html
+http://blog.51cto.com/fengyuzaitu/1543608
 
 ()ssdt
 http://blog.csdn.net/flyingleo1981/article/details/47276173
