@@ -1,3 +1,6 @@
+()acl
+http://blog.csdn.net/a5548743/article/details/72809365
+
 ()apt
 https://www.cnblogs.com/mufire/p/6433757.html
 http://blog.csdn.net/qq_24805141/article/details/52838730
@@ -122,6 +125,7 @@ https://cuckoo.sh/docs/installation/host/requirements.html
 http://blog.csdn.net/abcd1f2/article/details/50523683
 http://www.freebuf.com/sectool/108533.html
 http://blog.csdn.net/abcd1f2/article/details/50523683
+https://github.com/AlicanAkyol/sems
 
 ()date
 http://blog.csdn.net/xiezuoyong/article/details/49890695
@@ -161,6 +165,7 @@ https://www.cnblogs.com/zhouxihi/p/7398376.html
 http://blog.csdn.net/zhoucheng05_13/article/details/53580683
 https://www.cnblogs.com/panwenbin-logs/p/5838064.html
 http://www.linuxyw.com/259.html
+https://wagtail.io/
 
 ()docker
 https://docs.docker.com/engine/installation/linux/docker-ce/ubuntu/#set-up-the-repository
@@ -229,6 +234,10 @@ http://www.jb51.net/article/64723.htm
 https://www.cnblogs.com/jackyyou/p/5681126.html
 https://www.centos.bz/2012/06/inotify-tools-introduction/
 
+()ip
+http://blog.csdn.net/mergerly/article/details/28918081
+http://blog.csdn.net/zhanzheng520/article/details/17265727
+
 ()ipcs
 http://blog.csdn.net/yusiguyuan/article/details/12405669
 
@@ -280,6 +289,9 @@ https://www.zhihu.com/question/22808182/answer/23827757?utm_campaign=rss&utm_med
 ()mail
 http://blog.51cto.com/storysky/293005
 
+()man
+http://man7.org/linux/man-pages/man2/write.2.html
+
 ()matplotlib
 http://www.cnblogs.com/kemaswill/archive/2012/12/07/2807963.html
 http://www.cnblogs.com/frchen/p/5725893.html
@@ -322,6 +334,7 @@ https://www.cnblogs.com/chenmh/p/5300370.html
 http://blog.csdn.net/leshami/article/details/39779225
 http://blog.csdn.net/u013372487/article/details/48131589
 http://blog.csdn.net/aidenliu/article/details/7554860
+http://blog.csdn.net/diyhzp/article/details/63683475
 
 ()nasmshell
 https://github.com/fishstiqz/nasmshell
@@ -616,6 +629,9 @@ http://blog.csdn.net/chenfei_5201213/article/details/7614781
 http://blog.csdn.net/qq_29277155/article/details/52099967
 
 
+()write
+http://blog.csdn.net/cloudeagle_bupt/article/details/28933281
+
 ()xmlgawk
 http://gawkextlib.sourceforge.net/xmlgawk.html
 http://lml.ls.fi.upm.es/~mcollado/gawkextlib/
@@ -626,6 +642,7 @@ http://www.freebuf.com/articles/system/26373.html
 ()yum
 http://blog.csdn.net/liaowu912/article/details/70198128
 http://www.firefoxbug.com/index.php/archives/2777/
+http://blog.51cto.com/297020555/530703
 
 ()zabbix
 http://www.zabbix.org.cn/viewtopic.php?f=12&t=68
@@ -678,8 +695,22 @@ http://www.cnblogs.com/liuyanlong/archive/2013/05/27/3102161.html
 https://www.zendstudio.net/archives/tcp-udp-socket-toolkit/
 https://www.darknet.org.uk/2007/03/preplay-a-pcap-network-traffic-replay-tool-for-windows/
 https://www.cnblogs.com/liuchuyu/p/7490338.html
+https://www.zhihu.com/question/51074319
+http://blog.unixy.net/2013/08/curl-77-problem-with-the-ssl-ca-cert-path-access-rights-resolved/
+https://jingyan.baidu.com/article/acf728fd53ad99f8e510a305.html
+https://opensource.com/article/17/7/dynamic-tracing-linux-user-and-kernel-space
 
 
+()so
+http://blog.csdn.net/wang_xya/article/details/43985241
+http://www.linuxidc.com/Linux/2017-02/140994.htm
+http://blog.csdn.net/suwei19870312/article/details/20045281
+
+
+()1
+https://github.com/DynamoRIO/drmemory/wiki/Downloads
+https://stackoverflow.com/questions/3847745/systrace-for-windows
+http://blog.csdn.net/gatieme/article/details/68948080
 
 
 
