@@ -347,7 +347,8 @@ http://www.freebuf.com/articles/system/10632.html
 ()network
 http://www.linuxidc.com/Linux/2014-07/104537.htm
 http://blog.csdn.net/jcxch/article/details/48632761
-http://os.51cto.com/art/201404/435279.htm	
+http://os.51cto.com/art/201404/435279.htm
+https://docstore.mik.ua/orelly/networking_2ndEd/tshoot/ch04_02.htm	
 
 ()nslookup
 http://blog.csdn.net/heiyueya/article/details/64121630
@@ -711,7 +712,9 @@ http://blog.csdn.net/suwei19870312/article/details/20045281
 https://github.com/DynamoRIO/drmemory/wiki/Downloads
 https://stackoverflow.com/questions/3847745/systrace-for-windows
 http://blog.csdn.net/gatieme/article/details/68948080
-
+https://www.gitbook.com/explore/topic/hacking
+https://xinqiu.gitbooks.io/linux-insides-cn/content/Misc/linkers.html
+https://github.com/tandasat/DdiMon
 
 
 
