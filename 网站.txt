@@ -82,6 +82,7 @@ https://www.microsoftpressstore.com/articles/article.aspx?p=2233328&seqNum=3
 http://blog.csdn.net/menghuanruanjian/article/details/51894383
 https://stackoverflow.com/questions/311268/monitoring-application-calls-to-dll
 http://blog.csdn.net/daiyutage/article/details/8604720
+https://www.cnblogs.com/benio/archive/2010/10/25/1860394.html
 
 ()centos
 http://www.centoscn.com/CentOS/	
@@ -263,6 +264,11 @@ http://www.dmzlab.com/77449.html
 http://blog.csdn.net/cpplang/article/details/8462768
 http://cnodejs.org/topic/56dc21f1502596633dc2c3dc
 http://blog.csdn.net/testcs_dn/article/details/45437481
+
+
+()libnet
+http://blog.csdn.net/csdidi/article/details/52965590
+http://www.linuxidc.com/Linux/2015-04/116151.htm
 
 ()ls
 https://linux.cn/article-5109-1.html
@@ -527,6 +533,7 @@ http://blog.csdn.net/eroswang/article/details/5555415/
 
 ()tcp
 https://sourceforge.net/projects/razorbacktm/files/Razorback/
+https://github.com/fireflyc/million-tcp-client
 
 ()tcpdump
 http://blog.sina.com.cn/s/blog_45497dfa0100jrdj.html
