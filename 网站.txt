@@ -274,6 +274,9 @@ http://www.linuxidc.com/Linux/2015-04/116151.htm
 https://linux.cn/article-5109-1.html
 https://linux.cn/article-5349-1-rel.html
 
+()lsof
+http://blog.csdn.net/scdxmoe/article/details/51791028
+
 ()locate
 http://blog.csdn.net/feifeilyj/article/details/52238209
 
@@ -722,6 +725,7 @@ http://blog.csdn.net/gatieme/article/details/68948080
 https://www.gitbook.com/explore/topic/hacking
 https://xinqiu.gitbooks.io/linux-insides-cn/content/Misc/linkers.html
 https://github.com/tandasat/DdiMon
+http://www.freebuf.com/sectool/122779.html
 
 
 
