@@ -27,6 +27,8 @@ https://www.cnblogs.com/276815076/p/6410179.html
 http://blog.csdn.net/exceptional_derek/article/details/48470717
 http://forums.devshed.com/programming-42/tool-trace-function-calls-program-171726.html
 https://balau82.wordpress.com/2010/10/06/trace-and-profile-function-calls-with-gcc/
+https://www.cnblogs.com/chengmo/archive/2010/10/09/1846639.html
+
 ()ajax
 http://blog.csdn.net/CNYYGJ/article/details/68489200
 
@@ -134,6 +136,10 @@ http://blog.csdn.net/xiezuoyong/article/details/49890695
 http://www.opstool.com/article/224
 https://www.cnblogs.com/tijun/p/7609797.html
 
+()datamash
+https://www.gnu.org/software/datamash/download/
+http://dovov.com/bash-5.html
+
 ()debug
 http://blog.csdn.net/delphiwcdj/article/details/7387325
 http://blog.csdn.net/dlmu2001/article/details/8842891
@@ -168,6 +174,7 @@ http://blog.csdn.net/zhoucheng05_13/article/details/53580683
 https://www.cnblogs.com/panwenbin-logs/p/5838064.html
 http://www.linuxyw.com/259.html
 https://wagtail.io/
+https://www.zmrenwu.com/post/2/
 
 ()docker
 https://docs.docker.com/engine/installation/linux/docker-ce/ubuntu/#set-up-the-repository
@@ -552,6 +559,10 @@ https://www.cnblogs.com/ggjucheng/archive/2012/01/14/2322659.html
 
 ()tcpreplay
 http://www.cnblogs.com/legendbaby/archive/2015/12/18/5056114.html
+
+()tinylinux
+http://www.uubook.net/article/detail/116005.html
+https://github.com/ir193/tiny_linux/blob/master/NOTE.md
 
 ()tensorflow
 https://www.zhihu.com/question/49909565
