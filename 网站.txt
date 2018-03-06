@@ -306,8 +306,13 @@ http://www.360doc.com/content/13/0318/18/3300331_272288245.shtml
 ()jijin
 https://www.zhihu.com/question/22808182/answer/23827757?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title
 
+
+
 ()mail
 http://blog.51cto.com/storysky/293005
+
+()makefile
+http://blog.sina.com.cn/s/blog_530e99a40100ximm.html
 
 ()man
 http://man7.org/linux/man-pages/man2/write.2.html
@@ -729,7 +734,7 @@ segmentfault.com
 https://www.unknowncheats.me/wiki/UnKnoWnCheaTs_Game_Hacking_Wiki
 https://www.mpgh.net/
 www.ahkscript.org
-
+https://msdn.microsoft.com/zh-cn/library/dd831853.aspx
 
 ()so
 http://blog.csdn.net/wang_xya/article/details/43985241
