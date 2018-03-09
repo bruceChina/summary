@@ -736,6 +736,11 @@ https://www.unknowncheats.me/wiki/UnKnoWnCheaTs_Game_Hacking_Wiki
 https://www.mpgh.net/
 www.ahkscript.org
 https://msdn.microsoft.com/zh-cn/library/dd831853.aspx
+msdn.microsoft.com
+docs.microsoft.com
+developer.microsoft.com
+https://www.cnblogs.com/fang8206/p/5088411.html
+https://github.com/reactos/reactos/blob/master/ntoskrnl/ps/win32.c
 
 ()so
 http://blog.csdn.net/wang_xya/article/details/43985241
