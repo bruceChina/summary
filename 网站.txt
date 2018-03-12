@@ -741,6 +741,7 @@ docs.microsoft.com
 developer.microsoft.com
 https://www.cnblogs.com/fang8206/p/5088411.html
 https://github.com/reactos/reactos/blob/master/ntoskrnl/ps/win32.c
+https://www.zhihu.com/question/28749911
 
 ()so
 http://blog.csdn.net/wang_xya/article/details/43985241
