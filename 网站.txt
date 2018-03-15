@@ -227,6 +227,13 @@ http://blog.csdn.net/lovelovelovelovelo/article/details/75216156
 http://blog.csdn.net/qq_15437667/article/details/51029757
 https://www.cnblogs.com/zhonghuasong/p/5975952.html
 
+()glbc
+http://blog.csdn.net/mycwq/article/details/38557997
+http://blog.csdn.net/qq_14821541/article/details/52297859
+https://sourceware.org/glibc/wiki/FAQ#How_do_I_install_all_of_the_GNU_C_Library_project_libraries_that_I_just_built.3F
+https://github.com/changloong/msvcrt/tree/master/stdio
+https://sourceware.org/git/?p=glibc.git;a=blob;f=socket/socket.c;h=7ef09d019bc6a3fa26220ffa6697a54fb17a2a34;hb=master
+
 ()head
 https://www.cnblogs.com/peida/archive/2012/11/06/2756278.html
 
