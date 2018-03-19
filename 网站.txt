@@ -288,6 +288,7 @@ http://www.linuxidc.com/Linux/2015-04/116151.htm
 
 ()linux
 http://www.linuxfromscratch.org/lfs/
+https://www.tutorialspoint.com/linux_admin/linux_admin_quick_guide.htm
 
 ()ls
 https://linux.cn/article-5109-1.html
@@ -464,6 +465,10 @@ http://rhel-7.blogspot.tw/2014/10/dns-installation-and-configuration-for.html
 http://sofar.blog.51cto.com/353572/1596960/
 http://docs.saltstack.cn/topics/installation/rhel.html
 https://docs.saltstack.com/en/latest/
+
+()sar
+https://www.cnblogs.com/xiekeli/archive/2012/04/29/2476197.html
+
 
 ()scrapy
 http://scapy.readthedocs.io/en/latest/build_dissect.html#simple-example
@@ -652,6 +657,9 @@ https://www.cnblogs.com/Jason-Damon/archive/2011/10/31/2229692.html
 
 ()volatility
 http://www.ouchangjian.com/article/58746d350b51d5db021c3cc7
+
+()windbg
+https://stackoverflow.com/questions/4946685/good-tutorial-for-windbg
 
 ()winsock
 http://www.sockets.com/
