@@ -227,6 +227,9 @@ http://blog.csdn.net/lovelovelovelovelo/article/details/75216156
 http://blog.csdn.net/qq_15437667/article/details/51029757
 https://www.cnblogs.com/zhonghuasong/p/5975952.html
 
+()gitbook
+http://blog.csdn.net/hk2291976/article/details/51173850
+
 ()glbc
 http://blog.csdn.net/mycwq/article/details/38557997
 http://blog.csdn.net/qq_14821541/article/details/52297859
@@ -319,6 +322,9 @@ https://www.zhihu.com/question/22808182/answer/23827757?utm_campaign=rss&utm_med
 
 ()mail
 http://blog.51cto.com/storysky/293005
+
+()material
+http://zitiao.org/material-design/style/color.html
 
 ()makefile
 http://blog.sina.com.cn/s/blog_530e99a40100ximm.html
