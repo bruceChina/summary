@@ -263,6 +263,7 @@ http://blog.csdn.net/yusiguyuan/article/details/12405669
 
 ()iptables
 http://blog.csdn.net/gsls200808/article/details/50364104
+https://www.frozentux.net/iptables-tutorial/cn/iptables-tutorial-cn-1.1.19.html#SYNACKANDNEW
 
 ()jpages
 http://luis-almeida.github.io/jPages/
@@ -288,6 +289,9 @@ http://blog.csdn.net/testcs_dn/article/details/45437481
 ()libnet
 http://blog.csdn.net/csdidi/article/details/52965590
 http://www.linuxidc.com/Linux/2015-04/116151.htm
+https://qbsuranalang.gitbooks.io/network-packet-programming/libnet/tcp_syn_flood.html
+https://github.com/sam-github/libnet/tree/master/libnet/sample
+https://books.google.com.tw/books?id=iV8DRekYvg0C&pg=PA294&lpg=PA294&dq=libnet+RST&source=bl&ots=UFNdNNapOJ&sig=PUvRiXP8h-dapKvIJJYsjMMPg_U&hl=zh-CN&sa=X&ved=0ahUKEwjlz-D484jaAhWJUrwKHdg_CdkQ6AEIUjAH#v=onepage&q&f=false
 
 ()linux
 http://www.linuxfromscratch.org/lfs/
