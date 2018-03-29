@@ -687,6 +687,12 @@ https://www.cnblogs.com/ImBit/p/5513401.html
 https://www.cnblogs.com/wangkangluo1/archive/2011/12/19/2293750.html
 http://blog.csdn.net/chenfei_5201213/article/details/7614781
 http://blog.csdn.net/qq_29277155/article/details/52099967
+https://jingyan.baidu.com/article/20b68a88b2af7f796cec62b3.html
+https://blog.csdn.net/u010726042/article/details/53408077
+http://blog.jobbole.com/73482/
+https://wiki.wireshark.org/SampleCaptures
+https://community.emc.com/thread/194901?start=15&tstart=0
+https://community.emc.com/thread/176852
 
 
 ()write
