@@ -401,6 +401,10 @@ http://blog.csdn.net/jcxch/article/details/48632761
 http://os.51cto.com/art/201404/435279.htm
 https://docstore.mik.ua/orelly/networking_2ndEd/tshoot/ch04_02.htm	
 
+()nginx
+https://nginx.rails365.net/chapters/17.html
+https://waylau.com/nginx-concise-tutorial/
+
 ()nslookup
 http://blog.csdn.net/heiyueya/article/details/64121630
 
@@ -411,6 +415,10 @@ http://www.freebuf.com/articles/system/137580.html
 http://blog.itpub.net/15480802/viewspace-1406088/
 ()pe
 https://en.wikipedia.org/wiki/Portable_Executable
+
+
+()pdf
+www.computer-pdf.com
 
 ()perf
 http://blog.csdn.net/chinaclock/article/details/50061185
@@ -799,5 +807,8 @@ http://www.freebuf.com/sectool/122779.html
 http://csrankings.org/#/fromyear/2007/toyear/2018/index?chi
 
 
+
+()
+https://legacy.gitbook.com/explore
 
 			
