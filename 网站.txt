@@ -812,5 +812,10 @@ http://csrankings.org/#/fromyear/2007/toyear/2018/index?chi
 https://legacy.gitbook.com/explore
 http://www.ttlsa.com
 blog.csdn.net
+www.cnblogs.com
+docs.nginx.com
+legacy.gitbook.com
+bbs.pediy.com
+www.exploit-db.com
 
 			
