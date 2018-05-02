@@ -789,7 +789,8 @@ developer.microsoft.com
 https://www.cnblogs.com/fang8206/p/5088411.html
 https://github.com/reactos/reactos/blob/master/ntoskrnl/ps/win32.c
 https://www.zhihu.com/question/28749911
-
+https://www.zhihu.com/question/29932666
+https://reverseengineering.stackexchange.com/questions/15774/crack-me-material?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa
 ()so
 http://blog.csdn.net/wang_xya/article/details/43985241
 http://www.linuxidc.com/Linux/2017-02/140994.htm
@@ -809,13 +810,15 @@ http://csrankings.org/#/fromyear/2007/toyear/2018/index?chi
 
 
 ()
-https://legacy.gitbook.com/explore
-http://www.ttlsa.com
+legacy.gitbook.com/explore
+www.ttlsa.com
 blog.csdn.net
 www.cnblogs.com
 docs.nginx.com
 legacy.gitbook.com
 bbs.pediy.com
 www.exploit-db.com
+segmentfault.com
+crackmes.one
 
 			
