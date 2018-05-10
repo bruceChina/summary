@@ -806,6 +806,9 @@ https://xinqiu.gitbooks.io/linux-insides-cn/content/Misc/linkers.html
 https://github.com/tandasat/DdiMon
 http://www.freebuf.com/sectool/122779.html
 http://csrankings.org/#/fromyear/2007/toyear/2018/index?chi
+https://github.com/d30sa1/RootKits-List-Download
+archive.org
+https://github.com/xingshaocheng/architect-awesome
 
 
 
@@ -820,5 +823,7 @@ bbs.pediy.com
 www.exploit-db.com
 segmentfault.com
 crackmes.one
-
+https://github.com/nieweidong/fetool
+https://github.com/xingshaocheng/architect-awesome
+https://github.com/stanzhai/be-a-professional-programmer
 			
