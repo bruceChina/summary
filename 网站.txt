@@ -823,6 +823,8 @@ bbs.pediy.com
 www.exploit-db.com
 segmentfault.com
 crackmes.one
+learnxinyminutes.com
+rootkits.xyz
 https://github.com/nieweidong/fetool
 https://github.com/xingshaocheng/architect-awesome
 https://github.com/stanzhai/be-a-professional-programmer
