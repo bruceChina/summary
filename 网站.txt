@@ -792,6 +792,10 @@ https://www.zhihu.com/question/28749911
 https://www.zhihu.com/question/29932666
 https://reverseengineering.stackexchange.com/questions/15774/crack-me-material?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa
 https://github.com/atinfo/awesome-test-automation/blob/master/python-test-automation.md
+
+()大数据
+https://www.zhihu.com/question/20751219
+
 ()so
 http://blog.csdn.net/wang_xya/article/details/43985241
 http://www.linuxidc.com/Linux/2017-02/140994.htm
