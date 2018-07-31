@@ -87,6 +87,7 @@ http://blog.csdn.net/menghuanruanjian/article/details/51894383
 https://stackoverflow.com/questions/311268/monitoring-application-calls-to-dll
 http://blog.csdn.net/daiyutage/article/details/8604720
 https://www.cnblogs.com/benio/archive/2010/10/25/1860394.html
+https://github.com/cirosantilli/x86-assembly-cheat
 
 ()centos
 http://www.centoscn.com/CentOS/	
@@ -425,6 +426,7 @@ http://blog.csdn.net/chinaclock/article/details/50061185
 
 ()perl
 http://www.linuxidc.com/Linux/2016-11/137648.htm
+https://metacpan.org/pod/Jifty
 
 ()php
 http://www.thinkphp.cn/topic/45171.html
