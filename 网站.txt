@@ -88,6 +88,7 @@ https://stackoverflow.com/questions/311268/monitoring-application-calls-to-dll
 http://blog.csdn.net/daiyutage/article/details/8604720
 https://www.cnblogs.com/benio/archive/2010/10/25/1860394.html
 https://github.com/cirosantilli/x86-assembly-cheat
+https://github.com/pauldotknopf/WindowsSDK7-Samples/blob/master/netds/winsock/ping/Ping.cpp
 
 ()centos
 http://www.centoscn.com/CentOS/	
