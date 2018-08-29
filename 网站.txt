@@ -307,6 +307,9 @@ https://linux.cn/article-5349-1-rel.html
 ()lsof
 http://blog.csdn.net/scdxmoe/article/details/51791028
 
+()lsp
+https://www.komodia.com/lsp/lsp-sample
+
 ()locate
 http://blog.csdn.net/feifeilyj/article/details/52238209
 
@@ -817,7 +820,7 @@ http://csrankings.org/#/fromyear/2007/toyear/2018/index?chi
 https://github.com/d30sa1/RootKits-List-Download
 archive.org
 https://github.com/xingshaocheng/architect-awesome
-
+https://medium.com/secjuice/the-road-to-reverse-engineering-malware-7c0bc1bda9d2
 
 
 ()
@@ -841,4 +844,7 @@ https://github.com/xingshaocheng/architect-awesome
 https://github.com/stanzhai/be-a-professional-programmer
 www.linuxprobe.com
 www.jianshu.com
-www.52im.net			
+www.52im.net
+http://opensecuritytraining.info			
+http://cve.mitre.org
+https://git-scm.com/doc
