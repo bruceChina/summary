@@ -821,6 +821,7 @@ https://github.com/d30sa1/RootKits-List-Download
 archive.org
 https://github.com/xingshaocheng/architect-awesome
 https://medium.com/secjuice/the-road-to-reverse-engineering-malware-7c0bc1bda9d2
+https://stackoverflow.com/questions/19628393/how-to-begin-with-windows-kernel-programming
 
 
 ()
@@ -848,3 +849,5 @@ www.52im.net
 http://opensecuritytraining.info			
 http://cve.mitre.org
 https://git-scm.com/doc
+https://docs.microsoft.com/zh-cn/sysinternals/learn/windows-internals
+http://www.osronline.com
