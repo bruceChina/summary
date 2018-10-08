@@ -851,3 +851,7 @@ http://cve.mitre.org
 https://git-scm.com/doc
 https://docs.microsoft.com/zh-cn/sysinternals/learn/windows-internals
 http://www.osronline.com
+www.jb51.net
+cloud.tencent.com
+http://blog.itpub.net
+www.itgank.com
