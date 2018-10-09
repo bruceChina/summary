@@ -856,3 +856,6 @@ cloud.tencent.com
 http://blog.itpub.net
 www.itgank.com
 https://unix.stackexchange.com/
+https://thehackernews.com/search/label/Cyber%20Attack
+https://www.reddit.com/r/netsec/
+https://resources.infosecinstitute.com/search/?s=windows
