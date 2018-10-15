@@ -859,3 +859,5 @@ https://unix.stackexchange.com/
 https://thehackernews.com/search/label/Cyber%20Attack
 https://www.reddit.com/r/netsec/
 https://resources.infosecinstitute.com/search/?s=windows
+http://www.91ri.org
+http://lallouslab.net/2018/08/23/linux-memory-segmentation-cheat-sheet/
