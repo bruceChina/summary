@@ -826,6 +826,7 @@ https://stackoverflow.com/questions/19628393/how-to-begin-with-windows-kernel-pr
 
 ()
 legacy.gitbook.com/explore
+wizardforcel.gitbooks.io
 www.ttlsa.com
 blog.csdn.net
 www.cnblogs.com
@@ -863,3 +864,5 @@ http://www.91ri.org
 http://lallouslab.net/2018/08/23/linux-memory-segmentation-cheat-sheet/
 http://www.cs.ru.nl/E.Poll/hacking/
 linuxtools-rst.readthedocs.io
+http://www.cnblogs.com/f-ck-need-u/p/7576137.html
+www.exploit-db.com 
