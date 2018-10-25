@@ -866,3 +866,4 @@ http://www.cs.ru.nl/E.Poll/hacking/
 linuxtools-rst.readthedocs.io
 http://www.cnblogs.com/f-ck-need-u/p/7576137.html
 www.exploit-db.com 
+www.blackhat.com
