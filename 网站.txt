@@ -867,3 +867,4 @@ linuxtools-rst.readthedocs.io
 http://www.cnblogs.com/f-ck-need-u/p/7576137.html
 www.exploit-db.com 
 www.blackhat.com
+https://www.sans.org/reading-room/
