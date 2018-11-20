@@ -588,6 +588,12 @@ http://man.linuxde.net/systemctl
 http://www.linuxidc.com/Linux/2014-07/104487.htm
 
 
+()systemd
+https://segmentfault.com/a/1190000009251098
+http://trentsonlinedocs.xyz/nspawn/
+https://wiki.archlinux.org/index.php/Systemd-nspawn
+https://gist.github.com/artizirk/0d800be97bcdb35fb7bfd9755208e0e8
+
 ()tac
 https://www.cnblogs.com/wcwen1990/p/7028141.html
 
