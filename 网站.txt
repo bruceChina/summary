@@ -326,6 +326,9 @@ http://bbs.chinaunix.net/thread-1924539-1-1.html
 http://blog.csdn.net/linshenyuan1213/article/details/49902527
 http://www.360doc.com/content/13/0318/18/3300331_272288245.shtml
 
+()架构
+https://blog.csdn.net/hguisu/article/details/78258430
+
 ()jijin
 https://www.zhihu.com/question/22808182/answer/23827757?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title
 
@@ -695,6 +698,8 @@ https://www.cnblogs.com/Jason-Damon/archive/2011/10/31/2229692.html
 
 ()volatility
 http://www.ouchangjian.com/article/58746d350b51d5db021c3cc7
+
+
 
 ()windbg
 https://stackoverflow.com/questions/4946685/good-tutorial-for-windbg
