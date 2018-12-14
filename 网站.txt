@@ -887,10 +887,12 @@ http://lallouslab.net/2018/08/23/linux-memory-segmentation-cheat-sheet/
 http://www.cs.ru.nl/E.Poll/hacking/
 linuxtools-rst.readthedocs.io
 http://www.cnblogs.com/f-ck-need-u/p/7576137.html
-www.exploit-db.com 
 www.blackhat.com
 https://www.sans.org/reading-room/
 https://algorithm.yuanbin.me/zh-hans/basics_data_structure/linked_list.html
 www.anquanke.com
 http://www.cnnvd.org.cn/web/vulnerability/querylist.tag
 https://paper.seebug.org/category/mobile-security/
+http://linuxperf.com
+https://www.ibm.com/support/knowledgecenter/zh/products/
+http://how2j.cn/
