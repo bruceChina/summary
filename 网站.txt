@@ -190,7 +190,7 @@ http://echarts.baidu.com/api.html#echarts
 
 ()english
 http://www.360doc.com/content/14/0722/20/18592067_396358377.shtml
-
+http://www.yygrammar.com/Article/201703/5030.html
 ()echo
 https://unix.stackexchange.com/questions/118247/echo-bytes-to-a-file
 
@@ -634,6 +634,7 @@ https://www.tensorflow.org/install/install_linux#InstallingVirtualenv
 ()torrent
 http://blog.csdn.net/wangdada111/article/details/71243815
 https://linux.cn/article-2064-1.html
+https://blog.csdn.net/roslei/article/details/70196145
 
 ()tsocks
 http://www.51testing.com/html/38/225738-246084.html
@@ -800,6 +801,7 @@ https://www.zhihu.com/question/51074319
 http://blog.unixy.net/2013/08/curl-77-problem-with-the-ssl-ca-cert-path-access-rights-resolved/
 https://jingyan.baidu.com/article/acf728fd53ad99f8e510a305.html
 https://opensource.com/article/17/7/dynamic-tracing-linux-user-and-kernel-space
+https://www.kernel.org/doc/html/latest/driver-api/basics.html
 segmentfault.com
 https://www.unknowncheats.me/wiki/UnKnoWnCheaTs_Game_Hacking_Wiki
 https://www.mpgh.net/
@@ -896,3 +898,4 @@ https://paper.seebug.org/category/mobile-security/
 http://linuxperf.com
 https://www.ibm.com/support/knowledgecenter/zh/products/
 http://how2j.cn/
+http://www.psahz.com/psjichu/
