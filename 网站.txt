@@ -191,6 +191,7 @@ http://echarts.baidu.com/api.html#echarts
 ()english
 http://www.360doc.com/content/14/0722/20/18592067_396358377.shtml
 http://www.yygrammar.com/Article/201703/5030.html
+
 ()echo
 https://unix.stackexchange.com/questions/118247/echo-bytes-to-a-file
 
@@ -899,3 +900,4 @@ http://linuxperf.com
 https://www.ibm.com/support/knowledgecenter/zh/products/
 http://how2j.cn/
 http://www.psahz.com/psjichu/
+www.centos.bz
