@@ -247,6 +247,9 @@ https://www.cnblogs.com/peida/archive/2012/11/06/2756278.html
 http://man.linuxde.net/hping3
 http://19920624.blog.51cto.com/9632075/1584465
 
+()http
+http://httpbin.org
+
 ()iftop
 https://github.com/soarpenguin/iftop
 
