@@ -421,6 +421,7 @@ https://docstore.mik.ua/orelly/networking_2ndEd/tshoot/ch04_02.htm
 ()nginx
 https://nginx.rails365.net/chapters/17.html
 https://waylau.com/nginx-concise-tutorial/
+https://www.kancloud.cn/digest/understandingnginx/202588
 
 ()nslookup
 http://blog.csdn.net/heiyueya/article/details/64121630
