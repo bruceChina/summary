@@ -240,6 +240,9 @@ https://sourceware.org/glibc/wiki/FAQ#How_do_I_install_all_of_the_GNU_C_Library_
 https://github.com/changloong/msvcrt/tree/master/stdio
 https://sourceware.org/git/?p=glibc.git;a=blob;f=socket/socket.c;h=7ef09d019bc6a3fa26220ffa6697a54fb17a2a34;hb=master
 
+()hacker
+https://zhuanlan.zhihu.com/p/30923961
+
 ()head
 https://www.cnblogs.com/peida/archive/2012/11/06/2756278.html
 
