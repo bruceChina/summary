@@ -911,3 +911,5 @@ www.centos.bz
 http://craftinginterpreters.com/
 http://c.biancheng.net/
 https://www.zhihu.com/question/26155575
+https://github.com/husnainfareed/Awesome-Ethical-Hacking-Resources
+https://medium.com/bugbountywriteup/how-to-start-your-career-in-any-field-related-to-information-security-841adcf20901
