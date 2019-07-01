@@ -185,6 +185,12 @@ https://docs.docker.com/engine/installation/linux/docker-ce/ubuntu/#set-up-the-r
 ()dumbug
 http://www.phenoelit.org/fr/tools.html
 
+()ebook
+www.getfreeebooks.com
+http://inventwithpython.com
+https://dzone.com/
+https://www.javacodegeeks.com/2019/06/pyleri-tutorial-parsing-ease.html
+
 ()echarts
 http://echarts.baidu.com/api.html#echarts
 
@@ -913,3 +919,4 @@ http://c.biancheng.net/
 https://www.zhihu.com/question/26155575
 https://github.com/husnainfareed/Awesome-Ethical-Hacking-Resources
 https://medium.com/bugbountywriteup/how-to-start-your-career-in-any-field-related-to-information-security-841adcf20901
+https://github.com/xdnice/PCShare
